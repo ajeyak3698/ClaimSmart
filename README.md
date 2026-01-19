@@ -109,10 +109,3 @@ The training script uses:
   - Add input validation in Streamlit apps and clearer error messages.
 
 Contributions are welcome. Open an issue or submit a PR with changes and tests.
-
----
-
-## License & contact
-
-- This repository currently does not contain a license file. Add a LICENSE (e.g., MIT) if you want to grant permissions.
-- Questions or changes: open an issue in the repository or contact the maintainer.
