@@ -1,0 +1,1001 @@
+claim_id,claim_date,claim_amount,claim_type,policy_id,description
+1001,2023-01-01,2346,flood,233,Flooded basement
+1002,2023-01-02,15050,theft,207,Minor damage to vehicle
+1003,2023-01-03,6583,liability,386,Flooded basement
+1004,2023-01-04,4564,collision,399,Minor damage to vehicle
+1005,2023-01-05,848,liability,376,Liability from slip and fall
+1006,2023-01-06,847,collision,278,Fire in garage
+1007,2023-01-07,299,fire,344,Liability from slip and fall
+1008,2023-01-08,10056,collision,387,Stolen vehicle report
+1009,2023-01-09,4595,flood,286,Stolen vehicle report
+1010,2023-01-10,6156,theft,287,Stolen vehicle report
+1011,2023-01-11,103,fire,372,Liability from slip and fall
+1012,2023-01-12,17517,collision,268,Flooded basement
+1013,2023-01-13,8932,liability,359,Fire in garage
+1014,2023-01-14,1193,fire,371,Stolen vehicle report
+1015,2023-01-15,1003,fire,392,Stolen vehicle report
+1016,2023-01-16,1013,collision,286,Stolen vehicle report
+1017,2023-01-17,1813,fire,300,Fire in garage
+1018,2023-01-18,3719,liability,207,Stolen vehicle report
+1019,2023-01-19,2827,fire,276,Fire in garage
+1020,2023-01-20,1721,liability,399,Stolen vehicle report
+1021,2023-01-21,4731,collision,286,Liability from slip and fall
+1022,2023-01-22,751,theft,242,Liability from slip and fall
+1023,2023-01-23,1727,fire,328,Fire in garage
+1024,2023-01-24,2281,theft,308,Liability from slip and fall
+1025,2023-01-25,3044,liability,378,Fire in garage
+1026,2023-01-26,7689,fire,351,Liability from slip and fall
+1027,2023-01-27,1113,flood,351,Liability from slip and fall
+1028,2023-01-28,3610,theft,216,Fire in garage
+1029,2023-01-29,4487,fire,332,Flooded basement
+1030,2023-01-30,237,theft,347,Liability from slip and fall
+1031,2023-01-31,4676,fire,220,Stolen vehicle report
+1032,2023-02-01,934,collision,257,Flooded basement
+1033,2023-02-02,336,theft,358,Fire in garage
+1034,2023-02-03,14868,flood,309,Flooded basement
+1035,2023-02-04,16853,flood,338,Minor damage to vehicle
+1036,2023-02-05,8261,liability,379,Minor damage to vehicle
+1037,2023-02-06,1816,fire,342,Liability from slip and fall
+1038,2023-02-07,513,theft,334,Liability from slip and fall
+1039,2023-02-08,5763,liability,227,Stolen vehicle report
+1040,2023-02-09,2900,theft,250,Flooded basement
+1041,2023-02-10,650,fire,385,Minor damage to vehicle
+1042,2023-02-11,3417,flood,204,Liability from slip and fall
+1043,2023-02-12,174,collision,204,Flooded basement
+1044,2023-02-13,12002,flood,293,Liability from slip and fall
+1045,2023-02-14,1497,liability,295,Liability from slip and fall
+1046,2023-02-15,5431,collision,207,Minor damage to vehicle
+1047,2023-02-16,1867,liability,263,Minor damage to vehicle
+1048,2023-02-17,3670,fire,337,Liability from slip and fall
+1049,2023-02-18,3956,collision,237,Fire in garage
+1050,2023-02-19,1021,liability,310,Liability from slip and fall
+1051,2023-02-20,17464,fire,311,Liability from slip and fall
+1052,2023-02-21,7461,flood,280,Stolen vehicle report
+1053,2023-02-22,14025,fire,335,Stolen vehicle report
+1054,2023-02-23,11260,theft,303,Stolen vehicle report
+1055,2023-02-24,4555,fire,352,Fire in garage
+1056,2023-02-25,12747,fire,272,Fire in garage
+1057,2023-02-26,463,theft,393,Liability from slip and fall
+1058,2023-02-27,1090,liability,377,Stolen vehicle report
+1059,2023-02-28,231,liability,394,Fire in garage
+1060,2023-03-01,1967,fire,248,Minor damage to vehicle
+1061,2023-03-02,2460,theft,235,Liability from slip and fall
+1062,2023-03-03,1582,theft,325,Flooded basement
+1063,2023-03-04,8822,flood,267,Liability from slip and fall
+1064,2023-03-05,2206,liability,277,Flooded basement
+1065,2023-03-06,1649,collision,304,Stolen vehicle report
+1066,2023-03-07,3912,liability,368,Flooded basement
+1067,2023-03-08,759,liability,321,Stolen vehicle report
+1068,2023-03-09,8102,flood,318,Minor damage to vehicle
+1069,2023-03-10,387,collision,389,Flooded basement
+1070,2023-03-11,21670,flood,313,Liability from slip and fall
+1071,2023-03-12,7397,collision,209,Stolen vehicle report
+1072,2023-03-13,1107,fire,348,Liability from slip and fall
+1073,2023-03-14,27,collision,363,Fire in garage
+1074,2023-03-15,8449,flood,339,Stolen vehicle report
+1075,2023-03-16,6135,liability,290,Flooded basement
+1076,2023-03-17,6528,collision,201,Stolen vehicle report
+1077,2023-03-18,7376,collision,317,Liability from slip and fall
+1078,2023-03-19,384,theft,212,Minor damage to vehicle
+1079,2023-03-20,2219,liability,380,Stolen vehicle report
+1080,2023-03-21,615,fire,359,Flooded basement
+1081,2023-03-22,9942,flood,294,Fire in garage
+1082,2023-03-23,4881,fire,343,Minor damage to vehicle
+1083,2023-03-24,2009,liability,231,Fire in garage
+1084,2023-03-25,328,collision,231,Stolen vehicle report
+1085,2023-03-26,1862,collision,323,Liability from slip and fall
+1086,2023-03-27,1966,liability,210,Liability from slip and fall
+1087,2023-03-28,6539,collision,209,Flooded basement
+1088,2023-03-29,5074,collision,214,Liability from slip and fall
+1089,2023-03-30,10911,collision,216,Minor damage to vehicle
+1090,2023-03-31,3195,flood,367,Liability from slip and fall
+1091,2023-04-01,636,flood,345,Flooded basement
+1092,2023-04-02,6245,theft,382,Stolen vehicle report
+1093,2023-04-03,7151,fire,352,Stolen vehicle report
+1094,2023-04-04,4119,liability,258,Liability from slip and fall
+1095,2023-04-05,7369,liability,277,Fire in garage
+1096,2023-04-06,3404,liability,323,Stolen vehicle report
+1097,2023-04-07,3698,theft,313,Liability from slip and fall
+1098,2023-04-08,2789,flood,221,Flooded basement
+1099,2023-04-09,128,theft,357,Liability from slip and fall
+1100,2023-04-10,570,liability,371,Stolen vehicle report
+1101,2023-04-11,159,fire,231,Flooded basement
+1102,2023-04-12,5058,collision,378,Liability from slip and fall
+1103,2023-04-13,1886,flood,373,Minor damage to vehicle
+1104,2023-04-14,3552,flood,312,Flooded basement
+1105,2023-04-15,11906,theft,319,Minor damage to vehicle
+1106,2023-04-16,1433,flood,348,Fire in garage
+1107,2023-04-17,2641,liability,321,Flooded basement
+1108,2023-04-18,7043,liability,231,Minor damage to vehicle
+1109,2023-04-19,1299,theft,318,Stolen vehicle report
+1110,2023-04-20,400,liability,238,Stolen vehicle report
+1111,2023-04-21,1710,fire,211,Fire in garage
+1112,2023-04-22,879,theft,374,Flooded basement
+1113,2023-04-23,13274,fire,217,Flooded basement
+1114,2023-04-24,8254,collision,348,Flooded basement
+1115,2023-04-25,5017,fire,340,Fire in garage
+1116,2023-04-26,10257,collision,348,Flooded basement
+1117,2023-04-27,8139,collision,325,Stolen vehicle report
+1118,2023-04-28,1032,fire,335,Minor damage to vehicle
+1119,2023-04-29,11154,theft,245,Stolen vehicle report
+1120,2023-04-30,3875,liability,303,Stolen vehicle report
+1121,2023-05-01,8236,liability,334,Minor damage to vehicle
+1122,2023-05-02,11321,collision,350,Stolen vehicle report
+1123,2023-05-03,1913,collision,285,Fire in garage
+1124,2023-05-04,582,theft,349,Minor damage to vehicle
+1125,2023-05-05,1293,flood,288,Stolen vehicle report
+1126,2023-05-06,2785,fire,221,Liability from slip and fall
+1127,2023-05-07,8519,collision,291,Stolen vehicle report
+1128,2023-05-08,9856,liability,228,Fire in garage
+1129,2023-05-09,34,theft,212,Flooded basement
+1130,2023-05-10,3574,fire,201,Stolen vehicle report
+1131,2023-05-11,2701,theft,228,Flooded basement
+1132,2023-05-12,1255,fire,379,Liability from slip and fall
+1133,2023-05-13,638,fire,226,Stolen vehicle report
+1134,2023-05-14,2059,collision,249,Minor damage to vehicle
+1135,2023-05-15,14315,theft,294,Flooded basement
+1136,2023-05-16,1951,theft,350,Liability from slip and fall
+1137,2023-05-17,3657,liability,287,Minor damage to vehicle
+1138,2023-05-18,6070,liability,243,Minor damage to vehicle
+1139,2023-05-19,2259,collision,221,Minor damage to vehicle
+1140,2023-05-20,17838,collision,370,Minor damage to vehicle
+1141,2023-05-21,16410,flood,364,Stolen vehicle report
+1142,2023-05-22,1450,liability,388,Stolen vehicle report
+1143,2023-05-23,3438,fire,296,Stolen vehicle report
+1144,2023-05-24,1789,theft,383,Liability from slip and fall
+1145,2023-05-25,1676,collision,202,Liability from slip and fall
+1146,2023-05-26,187,theft,390,Liability from slip and fall
+1147,2023-05-27,4702,theft,317,Fire in garage
+1148,2023-05-28,3492,flood,218,Liability from slip and fall
+1149,2023-05-29,264,liability,222,Stolen vehicle report
+1150,2023-05-30,1633,collision,356,Stolen vehicle report
+1151,2023-05-31,11944,theft,229,Fire in garage
+1152,2023-06-01,1369,collision,238,Fire in garage
+1153,2023-06-02,782,fire,307,Liability from slip and fall
+1154,2023-06-03,3361,flood,310,Flooded basement
+1155,2023-06-04,21220,fire,224,Fire in garage
+1156,2023-06-05,1385,collision,327,Minor damage to vehicle
+1157,2023-06-06,5575,collision,310,Stolen vehicle report
+1158,2023-06-07,7169,liability,335,Minor damage to vehicle
+1159,2023-06-08,1356,theft,305,Stolen vehicle report
+1160,2023-06-09,6513,theft,385,Stolen vehicle report
+1161,2023-06-10,2292,fire,343,Fire in garage
+1162,2023-06-11,5002,flood,271,Fire in garage
+1163,2023-06-12,5019,theft,328,Minor damage to vehicle
+1164,2023-06-13,3836,liability,307,Stolen vehicle report
+1165,2023-06-14,473,fire,204,Minor damage to vehicle
+1166,2023-06-15,9018,fire,202,Flooded basement
+1167,2023-06-16,1934,liability,392,Minor damage to vehicle
+1168,2023-06-17,1032,flood,331,Liability from slip and fall
+1169,2023-06-18,208,liability,303,Minor damage to vehicle
+1170,2023-06-19,4468,flood,263,Liability from slip and fall
+1171,2023-06-20,5659,liability,305,Liability from slip and fall
+1172,2023-06-21,83,liability,297,Liability from slip and fall
+1173,2023-06-22,3588,collision,209,Flooded basement
+1174,2023-06-23,1284,fire,348,Minor damage to vehicle
+1175,2023-06-24,5180,liability,327,Minor damage to vehicle
+1176,2023-06-25,958,liability,245,Flooded basement
+1177,2023-06-26,5871,theft,354,Stolen vehicle report
+1178,2023-06-27,2444,fire,265,Fire in garage
+1179,2023-06-28,13801,theft,368,Minor damage to vehicle
+1180,2023-06-29,739,fire,311,Fire in garage
+1181,2023-06-30,2085,theft,212,Flooded basement
+1182,2023-07-01,602,liability,336,Stolen vehicle report
+1183,2023-07-02,12930,liability,363,Stolen vehicle report
+1184,2023-07-03,10491,collision,285,Stolen vehicle report
+1185,2023-07-04,1491,theft,289,Flooded basement
+1186,2023-07-05,5393,flood,257,Liability from slip and fall
+1187,2023-07-06,8497,collision,253,Liability from slip and fall
+1188,2023-07-07,4050,theft,211,Fire in garage
+1189,2023-07-08,3771,theft,213,Liability from slip and fall
+1190,2023-07-09,1384,collision,320,Liability from slip and fall
+1191,2023-07-10,488,liability,361,Stolen vehicle report
+1192,2023-07-11,11375,theft,380,Stolen vehicle report
+1193,2023-07-12,11533,liability,320,Fire in garage
+1194,2023-07-13,5013,collision,219,Minor damage to vehicle
+1195,2023-07-14,2070,liability,274,Fire in garage
+1196,2023-07-15,2147,fire,343,Fire in garage
+1197,2023-07-16,6472,flood,269,Flooded basement
+1198,2023-07-17,11370,theft,255,Flooded basement
+1199,2023-07-18,10905,flood,300,Fire in garage
+1200,2023-07-19,7567,liability,385,Fire in garage
+1201,2023-07-20,5136,theft,331,Fire in garage
+1202,2023-07-21,439,liability,310,Liability from slip and fall
+1203,2023-07-22,881,fire,324,Flooded basement
+1204,2023-07-23,11441,collision,331,Fire in garage
+1205,2023-07-24,4662,theft,219,Stolen vehicle report
+1206,2023-07-25,46,fire,337,Stolen vehicle report
+1207,2023-07-26,534,fire,223,Liability from slip and fall
+1208,2023-07-27,5445,theft,353,Liability from slip and fall
+1209,2023-07-28,25,liability,236,Minor damage to vehicle
+1210,2023-07-29,876,fire,253,Minor damage to vehicle
+1211,2023-07-30,3978,flood,302,Minor damage to vehicle
+1212,2023-07-31,5886,fire,348,Liability from slip and fall
+1213,2023-08-01,5277,liability,237,Liability from slip and fall
+1214,2023-08-02,1269,liability,373,Liability from slip and fall
+1215,2023-08-03,6227,flood,203,Stolen vehicle report
+1216,2023-08-04,1354,fire,387,Liability from slip and fall
+1217,2023-08-05,1968,liability,256,Stolen vehicle report
+1218,2023-08-06,6861,theft,372,Minor damage to vehicle
+1219,2023-08-07,5243,collision,219,Minor damage to vehicle
+1220,2023-08-08,9459,collision,216,Minor damage to vehicle
+1221,2023-08-09,5359,collision,318,Fire in garage
+1222,2023-08-10,4200,fire,270,Fire in garage
+1223,2023-08-11,491,flood,203,Flooded basement
+1224,2023-08-12,2292,liability,213,Flooded basement
+1225,2023-08-13,1540,theft,202,Flooded basement
+1226,2023-08-14,1398,theft,279,Fire in garage
+1227,2023-08-15,18061,fire,385,Fire in garage
+1228,2023-08-16,2496,collision,254,Flooded basement
+1229,2023-08-17,11130,fire,331,Flooded basement
+1230,2023-08-18,4986,flood,319,Liability from slip and fall
+1231,2023-08-19,7919,flood,223,Flooded basement
+1232,2023-08-20,3492,liability,361,Liability from slip and fall
+1233,2023-08-21,4300,liability,357,Stolen vehicle report
+1234,2023-08-22,3391,flood,281,Fire in garage
+1235,2023-08-23,1086,flood,346,Flooded basement
+1236,2023-08-24,6408,flood,358,Fire in garage
+1237,2023-08-25,1647,fire,387,Fire in garage
+1238,2023-08-26,123,flood,259,Fire in garage
+1239,2023-08-27,5184,theft,346,Stolen vehicle report
+1240,2023-08-28,974,collision,248,Minor damage to vehicle
+1241,2023-08-29,14105,flood,262,Flooded basement
+1242,2023-08-30,15387,collision,309,Minor damage to vehicle
+1243,2023-08-31,12317,fire,349,Minor damage to vehicle
+1244,2023-09-01,2311,collision,351,Minor damage to vehicle
+1245,2023-09-02,77,fire,308,Fire in garage
+1246,2023-09-03,13177,theft,275,Liability from slip and fall
+1247,2023-09-04,2794,fire,229,Fire in garage
+1248,2023-09-05,17004,fire,257,Fire in garage
+1249,2023-09-06,16568,liability,316,Minor damage to vehicle
+1250,2023-09-07,9586,flood,358,Fire in garage
+1251,2023-09-08,1743,flood,299,Minor damage to vehicle
+1252,2023-09-09,2431,theft,391,Liability from slip and fall
+1253,2023-09-10,9523,theft,218,Flooded basement
+1254,2023-09-11,1905,flood,375,Minor damage to vehicle
+1255,2023-09-12,928,liability,372,Liability from slip and fall
+1256,2023-09-13,4068,flood,293,Flooded basement
+1257,2023-09-14,13756,liability,382,Stolen vehicle report
+1258,2023-09-15,5954,theft,312,Minor damage to vehicle
+1259,2023-09-16,4220,collision,382,Minor damage to vehicle
+1260,2023-09-17,511,theft,345,Stolen vehicle report
+1261,2023-09-18,4772,theft,262,Stolen vehicle report
+1262,2023-09-19,23052,fire,315,Minor damage to vehicle
+1263,2023-09-20,754,fire,312,Stolen vehicle report
+1264,2023-09-21,3652,fire,246,Fire in garage
+1265,2023-09-22,10493,fire,256,Flooded basement
+1266,2023-09-23,6750,liability,317,Flooded basement
+1267,2023-09-24,5970,flood,244,Flooded basement
+1268,2023-09-25,6061,collision,360,Fire in garage
+1269,2023-09-26,2227,theft,344,Stolen vehicle report
+1270,2023-09-27,1737,liability,397,Liability from slip and fall
+1271,2023-09-28,8286,collision,203,Stolen vehicle report
+1272,2023-09-29,8306,liability,347,Minor damage to vehicle
+1273,2023-09-30,10089,liability,246,Flooded basement
+1274,2023-10-01,12223,theft,342,Stolen vehicle report
+1275,2023-10-02,3580,flood,397,Liability from slip and fall
+1276,2023-10-03,3480,fire,246,Minor damage to vehicle
+1277,2023-10-04,8004,flood,277,Fire in garage
+1278,2023-10-05,5248,theft,323,Fire in garage
+1279,2023-10-06,6052,theft,274,Liability from slip and fall
+1280,2023-10-07,7943,theft,302,Minor damage to vehicle
+1281,2023-10-08,11036,collision,336,Flooded basement
+1282,2023-10-09,2062,flood,289,Stolen vehicle report
+1283,2023-10-10,2354,flood,343,Minor damage to vehicle
+1284,2023-10-11,493,liability,268,Fire in garage
+1285,2023-10-12,4317,liability,260,Liability from slip and fall
+1286,2023-10-13,183,liability,337,Liability from slip and fall
+1287,2023-10-14,3133,theft,249,Stolen vehicle report
+1288,2023-10-15,3911,flood,202,Liability from slip and fall
+1289,2023-10-16,1688,theft,306,Liability from slip and fall
+1290,2023-10-17,4468,collision,312,Minor damage to vehicle
+1291,2023-10-18,154,liability,293,Flooded basement
+1292,2023-10-19,190,theft,317,Stolen vehicle report
+1293,2023-10-20,8646,theft,397,Minor damage to vehicle
+1294,2023-10-21,2232,collision,280,Flooded basement
+1295,2023-10-22,679,fire,308,Minor damage to vehicle
+1296,2023-10-23,3693,flood,250,Minor damage to vehicle
+1297,2023-10-24,7348,fire,346,Liability from slip and fall
+1298,2023-10-25,1215,liability,369,Flooded basement
+1299,2023-10-26,4876,theft,234,Stolen vehicle report
+1300,2023-10-27,446,collision,245,Stolen vehicle report
+1301,2023-10-28,265,collision,353,Flooded basement
+1302,2023-10-29,3789,flood,268,Liability from slip and fall
+1303,2023-10-30,3889,fire,292,Fire in garage
+1304,2023-10-31,5072,flood,263,Minor damage to vehicle
+1305,2023-11-01,6474,theft,364,Liability from slip and fall
+1306,2023-11-02,18617,flood,248,Flooded basement
+1307,2023-11-03,3631,collision,348,Minor damage to vehicle
+1308,2023-11-04,1950,collision,273,Stolen vehicle report
+1309,2023-11-05,7928,liability,391,Fire in garage
+1310,2023-11-06,1579,liability,204,Stolen vehicle report
+1311,2023-11-07,2889,theft,299,Flooded basement
+1312,2023-11-08,408,fire,269,Minor damage to vehicle
+1313,2023-11-09,128,flood,289,Flooded basement
+1314,2023-11-10,16436,theft,203,Minor damage to vehicle
+1315,2023-11-11,9038,liability,325,Liability from slip and fall
+1316,2023-11-12,5953,flood,238,Fire in garage
+1317,2023-11-13,2629,liability,362,Liability from slip and fall
+1318,2023-11-14,951,flood,328,Liability from slip and fall
+1319,2023-11-15,850,fire,223,Flooded basement
+1320,2023-11-16,1440,theft,256,Fire in garage
+1321,2023-11-17,3983,flood,299,Minor damage to vehicle
+1322,2023-11-18,6269,collision,269,Minor damage to vehicle
+1323,2023-11-19,5396,collision,240,Stolen vehicle report
+1324,2023-11-20,1642,flood,381,Minor damage to vehicle
+1325,2023-11-21,15490,flood,373,Flooded basement
+1326,2023-11-22,6695,flood,259,Liability from slip and fall
+1327,2023-11-23,4041,collision,307,Liability from slip and fall
+1328,2023-11-24,4730,collision,387,Liability from slip and fall
+1329,2023-11-25,2720,flood,256,Fire in garage
+1330,2023-11-26,1423,liability,230,Minor damage to vehicle
+1331,2023-11-27,2200,liability,283,Flooded basement
+1332,2023-11-28,7090,fire,351,Fire in garage
+1333,2023-11-29,72,theft,235,Stolen vehicle report
+1334,2023-11-30,616,liability,357,Flooded basement
+1335,2023-12-01,235,collision,351,Flooded basement
+1336,2023-12-02,207,liability,307,Flooded basement
+1337,2023-12-03,9671,fire,305,Liability from slip and fall
+1338,2023-12-04,6081,fire,357,Flooded basement
+1339,2023-12-05,3213,theft,285,Minor damage to vehicle
+1340,2023-12-06,514,liability,334,Flooded basement
+1341,2023-12-07,3382,collision,362,Liability from slip and fall
+1342,2023-12-08,3207,collision,382,Flooded basement
+1343,2023-12-09,950,flood,213,Stolen vehicle report
+1344,2023-12-10,2844,collision,319,Stolen vehicle report
+1345,2023-12-11,2541,theft,337,Liability from slip and fall
+1346,2023-12-12,4783,theft,279,Minor damage to vehicle
+1347,2023-12-13,5040,collision,343,Minor damage to vehicle
+1348,2023-12-14,231,collision,381,Fire in garage
+1349,2023-12-15,2346,flood,305,Liability from slip and fall
+1350,2023-12-16,4915,collision,269,Flooded basement
+1351,2023-12-17,3497,flood,243,Liability from slip and fall
+1352,2023-12-18,9706,flood,272,Fire in garage
+1353,2023-12-19,5374,collision,244,Liability from slip and fall
+1354,2023-12-20,889,fire,383,Liability from slip and fall
+1355,2023-12-21,365,fire,306,Fire in garage
+1356,2023-12-22,5141,flood,283,Minor damage to vehicle
+1357,2023-12-23,134,collision,281,Flooded basement
+1358,2023-12-24,4406,fire,306,Fire in garage
+1359,2023-12-25,14086,collision,384,Stolen vehicle report
+1360,2023-12-26,4283,collision,220,Minor damage to vehicle
+1361,2023-12-27,2456,collision,395,Stolen vehicle report
+1362,2023-12-28,5154,liability,377,Minor damage to vehicle
+1363,2023-12-29,3064,collision,360,Flooded basement
+1364,2023-12-30,3944,liability,206,Flooded basement
+1365,2023-12-31,14190,flood,269,Liability from slip and fall
+1366,2024-01-01,2439,fire,326,Stolen vehicle report
+1367,2024-01-02,16245,fire,342,Minor damage to vehicle
+1368,2024-01-03,11787,fire,359,Flooded basement
+1369,2024-01-04,1089,fire,347,Fire in garage
+1370,2024-01-05,359,fire,342,Flooded basement
+1371,2024-01-06,531,fire,375,Fire in garage
+1372,2024-01-07,91,fire,398,Minor damage to vehicle
+1373,2024-01-08,496,flood,348,Flooded basement
+1374,2024-01-09,5744,collision,369,Flooded basement
+1375,2024-01-10,369,theft,353,Minor damage to vehicle
+1376,2024-01-11,1920,liability,319,Flooded basement
+1377,2024-01-12,9317,theft,327,Fire in garage
+1378,2024-01-13,117,theft,341,Flooded basement
+1379,2024-01-14,8422,collision,256,Stolen vehicle report
+1380,2024-01-15,1655,collision,364,Liability from slip and fall
+1381,2024-01-16,628,collision,257,Fire in garage
+1382,2024-01-17,5965,fire,220,Stolen vehicle report
+1383,2024-01-18,4956,flood,281,Minor damage to vehicle
+1384,2024-01-19,10497,fire,268,Fire in garage
+1385,2024-01-20,6641,flood,330,Liability from slip and fall
+1386,2024-01-21,8134,flood,286,Liability from slip and fall
+1387,2024-01-22,1656,theft,364,Minor damage to vehicle
+1388,2024-01-23,976,theft,248,Minor damage to vehicle
+1389,2024-01-24,6943,flood,346,Fire in garage
+1390,2024-01-25,8221,flood,314,Flooded basement
+1391,2024-01-26,23285,fire,288,Minor damage to vehicle
+1392,2024-01-27,2660,fire,284,Flooded basement
+1393,2024-01-28,2326,theft,327,Stolen vehicle report
+1394,2024-01-29,7489,collision,339,Liability from slip and fall
+1395,2024-01-30,2083,flood,388,Flooded basement
+1396,2024-01-31,13350,fire,368,Liability from slip and fall
+1397,2024-02-01,9774,theft,360,Flooded basement
+1398,2024-02-02,2801,fire,377,Stolen vehicle report
+1399,2024-02-03,6948,flood,316,Minor damage to vehicle
+1400,2024-02-04,7023,flood,395,Stolen vehicle report
+1401,2024-02-05,544,liability,326,Minor damage to vehicle
+1402,2024-02-06,11642,collision,270,Minor damage to vehicle
+1403,2024-02-07,3518,liability,285,Liability from slip and fall
+1404,2024-02-08,8756,theft,232,Stolen vehicle report
+1405,2024-02-09,1928,fire,280,Flooded basement
+1406,2024-02-10,11293,theft,351,Stolen vehicle report
+1407,2024-02-11,2464,flood,260,Liability from slip and fall
+1408,2024-02-12,54,liability,260,Minor damage to vehicle
+1409,2024-02-13,11789,liability,297,Liability from slip and fall
+1410,2024-02-14,478,liability,227,Fire in garage
+1411,2024-02-15,1923,theft,385,Fire in garage
+1412,2024-02-16,14984,flood,242,Flooded basement
+1413,2024-02-17,15039,fire,368,Liability from slip and fall
+1414,2024-02-18,4259,fire,366,Flooded basement
+1415,2024-02-19,4996,theft,285,Flooded basement
+1416,2024-02-20,2975,liability,376,Fire in garage
+1417,2024-02-21,1735,collision,216,Flooded basement
+1418,2024-02-22,1992,theft,297,Fire in garage
+1419,2024-02-23,5581,theft,397,Minor damage to vehicle
+1420,2024-02-24,6979,flood,397,Liability from slip and fall
+1421,2024-02-25,7840,fire,297,Flooded basement
+1422,2024-02-26,7794,theft,264,Fire in garage
+1423,2024-02-27,478,theft,273,Stolen vehicle report
+1424,2024-02-28,3410,liability,284,Flooded basement
+1425,2024-02-29,296,liability,204,Minor damage to vehicle
+1426,2024-03-01,3987,collision,201,Minor damage to vehicle
+1427,2024-03-02,2912,flood,221,Stolen vehicle report
+1428,2024-03-03,10933,collision,311,Fire in garage
+1429,2024-03-04,2160,liability,256,Flooded basement
+1430,2024-03-05,622,fire,265,Fire in garage
+1431,2024-03-06,771,liability,273,Minor damage to vehicle
+1432,2024-03-07,7167,flood,297,Fire in garage
+1433,2024-03-08,4814,liability,343,Minor damage to vehicle
+1434,2024-03-09,533,flood,311,Fire in garage
+1435,2024-03-10,439,flood,378,Stolen vehicle report
+1436,2024-03-11,6036,flood,324,Liability from slip and fall
+1437,2024-03-12,377,flood,366,Stolen vehicle report
+1438,2024-03-13,8625,flood,285,Stolen vehicle report
+1439,2024-03-14,6124,fire,275,Liability from slip and fall
+1440,2024-03-15,424,collision,287,Liability from slip and fall
+1441,2024-03-16,443,theft,367,Flooded basement
+1442,2024-03-17,21577,collision,237,Flooded basement
+1443,2024-03-18,2344,flood,387,Stolen vehicle report
+1444,2024-03-19,2315,fire,258,Stolen vehicle report
+1445,2024-03-20,8377,liability,337,Minor damage to vehicle
+1446,2024-03-21,14710,fire,298,Minor damage to vehicle
+1447,2024-03-22,21343,flood,391,Flooded basement
+1448,2024-03-23,6999,fire,262,Flooded basement
+1449,2024-03-24,2360,fire,248,Minor damage to vehicle
+1450,2024-03-25,435,flood,391,Minor damage to vehicle
+1451,2024-03-26,7506,fire,231,Fire in garage
+1452,2024-03-27,4086,theft,334,Fire in garage
+1453,2024-03-28,2760,theft,220,Minor damage to vehicle
+1454,2024-03-29,11841,fire,219,Fire in garage
+1455,2024-03-30,589,liability,353,Liability from slip and fall
+1456,2024-03-31,3392,flood,326,Flooded basement
+1457,2024-04-01,57,theft,267,Flooded basement
+1458,2024-04-02,3161,liability,309,Minor damage to vehicle
+1459,2024-04-03,289,fire,315,Stolen vehicle report
+1460,2024-04-04,632,liability,342,Minor damage to vehicle
+1461,2024-04-05,625,collision,319,Fire in garage
+1462,2024-04-06,5237,theft,278,Stolen vehicle report
+1463,2024-04-07,6852,fire,315,Fire in garage
+1464,2024-04-08,4377,flood,291,Liability from slip and fall
+1465,2024-04-09,16373,fire,213,Fire in garage
+1466,2024-04-10,2348,flood,354,Liability from slip and fall
+1467,2024-04-11,1682,fire,324,Liability from slip and fall
+1468,2024-04-12,10147,liability,367,Fire in garage
+1469,2024-04-13,1265,liability,257,Fire in garage
+1470,2024-04-14,16514,liability,227,Liability from slip and fall
+1471,2024-04-15,61,collision,225,Stolen vehicle report
+1472,2024-04-16,17512,flood,312,Liability from slip and fall
+1473,2024-04-17,220,liability,390,Flooded basement
+1474,2024-04-18,11088,collision,265,Liability from slip and fall
+1475,2024-04-19,3750,flood,352,Stolen vehicle report
+1476,2024-04-20,24784,fire,330,Flooded basement
+1477,2024-04-21,383,collision,399,Minor damage to vehicle
+1478,2024-04-22,4035,theft,243,Minor damage to vehicle
+1479,2024-04-23,17417,collision,296,Stolen vehicle report
+1480,2024-04-24,3702,collision,241,Liability from slip and fall
+1481,2024-04-25,4963,flood,205,Fire in garage
+1482,2024-04-26,5949,fire,366,Stolen vehicle report
+1483,2024-04-27,3030,theft,379,Flooded basement
+1484,2024-04-28,4938,liability,222,Flooded basement
+1485,2024-04-29,4389,liability,288,Minor damage to vehicle
+1486,2024-04-30,11571,collision,322,Flooded basement
+1487,2024-05-01,232,flood,377,Stolen vehicle report
+1488,2024-05-02,1649,flood,370,Flooded basement
+1489,2024-05-03,15019,liability,346,Stolen vehicle report
+1490,2024-05-04,11048,theft,396,Fire in garage
+1491,2024-05-05,3040,fire,250,Minor damage to vehicle
+1492,2024-05-06,4839,theft,210,Flooded basement
+1493,2024-05-07,1624,fire,211,Stolen vehicle report
+1494,2024-05-08,1042,liability,273,Liability from slip and fall
+1495,2024-05-09,3115,fire,207,Minor damage to vehicle
+1496,2024-05-10,2179,flood,351,Fire in garage
+1497,2024-05-11,4381,collision,240,Stolen vehicle report
+1498,2024-05-12,404,collision,363,Fire in garage
+1499,2024-05-13,18324,liability,284,Fire in garage
+1500,2024-05-14,21419,flood,271,Flooded basement
+1501,2024-05-15,5989,theft,254,Flooded basement
+1502,2024-05-16,3840,flood,336,Stolen vehicle report
+1503,2024-05-17,1851,collision,246,Liability from slip and fall
+1504,2024-05-18,8404,collision,342,Stolen vehicle report
+1505,2024-05-19,5771,flood,375,Liability from slip and fall
+1506,2024-05-20,887,flood,303,Fire in garage
+1507,2024-05-21,12091,collision,241,Minor damage to vehicle
+1508,2024-05-22,8644,theft,259,Stolen vehicle report
+1509,2024-05-23,14958,liability,397,Stolen vehicle report
+1510,2024-05-24,6468,liability,211,Liability from slip and fall
+1511,2024-05-25,4752,flood,329,Fire in garage
+1512,2024-05-26,2708,liability,206,Fire in garage
+1513,2024-05-27,13495,collision,279,Liability from slip and fall
+1514,2024-05-28,10051,collision,330,Fire in garage
+1515,2024-05-29,231,flood,308,Flooded basement
+1516,2024-05-30,133,flood,202,Minor damage to vehicle
+1517,2024-05-31,2361,flood,226,Stolen vehicle report
+1518,2024-06-01,8318,theft,313,Minor damage to vehicle
+1519,2024-06-02,21821,liability,306,Stolen vehicle report
+1520,2024-06-03,815,flood,239,Flooded basement
+1521,2024-06-04,4508,fire,360,Fire in garage
+1522,2024-06-05,2397,fire,328,Liability from slip and fall
+1523,2024-06-06,17518,collision,207,Flooded basement
+1524,2024-06-07,9229,liability,300,Minor damage to vehicle
+1525,2024-06-08,9110,flood,359,Liability from slip and fall
+1526,2024-06-09,3162,fire,323,Fire in garage
+1527,2024-06-10,2679,liability,375,Flooded basement
+1528,2024-06-11,1596,collision,306,Liability from slip and fall
+1529,2024-06-12,290,theft,300,Flooded basement
+1530,2024-06-13,10002,liability,203,Flooded basement
+1531,2024-06-14,8380,liability,397,Fire in garage
+1532,2024-06-15,40862,theft,309,Stolen vehicle report
+1533,2024-06-16,28474,liability,218,Liability from slip and fall
+1534,2024-06-17,4053,collision,231,Fire in garage
+1535,2024-06-18,7326,collision,336,Flooded basement
+1536,2024-06-19,14480,theft,211,Fire in garage
+1537,2024-06-20,9473,flood,338,Stolen vehicle report
+1538,2024-06-21,1420,fire,245,Liability from slip and fall
+1539,2024-06-22,2994,flood,318,Stolen vehicle report
+1540,2024-06-23,691,liability,215,Minor damage to vehicle
+1541,2024-06-24,15401,fire,328,Liability from slip and fall
+1542,2024-06-25,4659,theft,262,Stolen vehicle report
+1543,2024-06-26,1298,theft,308,Flooded basement
+1544,2024-06-27,5569,fire,318,Liability from slip and fall
+1545,2024-06-28,4813,collision,220,Liability from slip and fall
+1546,2024-06-29,2217,fire,357,Fire in garage
+1547,2024-06-30,602,liability,212,Flooded basement
+1548,2024-07-01,5567,collision,361,Minor damage to vehicle
+1549,2024-07-02,3673,theft,203,Stolen vehicle report
+1550,2024-07-03,7399,fire,355,Fire in garage
+1551,2024-07-04,3671,flood,301,Stolen vehicle report
+1552,2024-07-05,9558,flood,258,Minor damage to vehicle
+1553,2024-07-06,4013,liability,327,Minor damage to vehicle
+1554,2024-07-07,4115,flood,226,Liability from slip and fall
+1555,2024-07-08,10463,fire,268,Minor damage to vehicle
+1556,2024-07-09,2583,fire,224,Stolen vehicle report
+1557,2024-07-10,719,flood,330,Flooded basement
+1558,2024-07-11,146,fire,296,Flooded basement
+1559,2024-07-12,7035,liability,395,Liability from slip and fall
+1560,2024-07-13,4841,collision,224,Stolen vehicle report
+1561,2024-07-14,6088,liability,347,Stolen vehicle report
+1562,2024-07-15,1197,liability,361,Minor damage to vehicle
+1563,2024-07-16,733,fire,353,Stolen vehicle report
+1564,2024-07-17,73,collision,325,Fire in garage
+1565,2024-07-18,2158,fire,332,Minor damage to vehicle
+1566,2024-07-19,4456,theft,388,Fire in garage
+1567,2024-07-20,2489,fire,208,Liability from slip and fall
+1568,2024-07-21,2876,fire,315,Flooded basement
+1569,2024-07-22,11725,fire,377,Liability from slip and fall
+1570,2024-07-23,2140,collision,333,Flooded basement
+1571,2024-07-24,3607,fire,259,Liability from slip and fall
+1572,2024-07-25,7654,collision,371,Stolen vehicle report
+1573,2024-07-26,2525,flood,320,Fire in garage
+1574,2024-07-27,4865,theft,338,Flooded basement
+1575,2024-07-28,9915,collision,393,Minor damage to vehicle
+1576,2024-07-29,14930,flood,374,Fire in garage
+1577,2024-07-30,795,collision,307,Minor damage to vehicle
+1578,2024-07-31,13058,collision,307,Fire in garage
+1579,2024-08-01,3387,theft,330,Fire in garage
+1580,2024-08-02,1493,liability,275,Liability from slip and fall
+1581,2024-08-03,3072,liability,229,Flooded basement
+1582,2024-08-04,19568,collision,220,Flooded basement
+1583,2024-08-05,3392,fire,355,Fire in garage
+1584,2024-08-06,1993,flood,389,Stolen vehicle report
+1585,2024-08-07,5017,fire,360,Stolen vehicle report
+1586,2024-08-08,1373,fire,362,Minor damage to vehicle
+1587,2024-08-09,394,collision,379,Minor damage to vehicle
+1588,2024-08-10,689,collision,233,Liability from slip and fall
+1589,2024-08-11,685,collision,240,Fire in garage
+1590,2024-08-12,823,collision,250,Minor damage to vehicle
+1591,2024-08-13,747,liability,374,Minor damage to vehicle
+1592,2024-08-14,5120,collision,281,Fire in garage
+1593,2024-08-15,1003,liability,257,Liability from slip and fall
+1594,2024-08-16,2120,liability,274,Minor damage to vehicle
+1595,2024-08-17,11354,collision,384,Liability from slip and fall
+1596,2024-08-18,3211,theft,222,Flooded basement
+1597,2024-08-19,5506,flood,375,Liability from slip and fall
+1598,2024-08-20,945,fire,327,Stolen vehicle report
+1599,2024-08-21,1067,liability,349,Stolen vehicle report
+1600,2024-08-22,208,flood,216,Liability from slip and fall
+1601,2024-08-23,925,theft,268,Stolen vehicle report
+1602,2024-08-24,1632,fire,307,Flooded basement
+1603,2024-08-25,974,fire,338,Fire in garage
+1604,2024-08-26,464,liability,293,Stolen vehicle report
+1605,2024-08-27,642,collision,214,Stolen vehicle report
+1606,2024-08-28,3088,theft,290,Liability from slip and fall
+1607,2024-08-29,1155,liability,362,Flooded basement
+1608,2024-08-30,2264,theft,232,Fire in garage
+1609,2024-08-31,3500,collision,324,Liability from slip and fall
+1610,2024-09-01,5862,collision,215,Liability from slip and fall
+1611,2024-09-02,200,liability,361,Flooded basement
+1612,2024-09-03,8032,collision,265,Fire in garage
+1613,2024-09-04,4942,flood,367,Flooded basement
+1614,2024-09-05,426,fire,355,Fire in garage
+1615,2024-09-06,10340,liability,246,Flooded basement
+1616,2024-09-07,12683,theft,366,Liability from slip and fall
+1617,2024-09-08,315,flood,397,Liability from slip and fall
+1618,2024-09-09,1620,liability,347,Minor damage to vehicle
+1619,2024-09-10,8204,collision,323,Stolen vehicle report
+1620,2024-09-11,6896,collision,200,Flooded basement
+1621,2024-09-12,1019,collision,399,Minor damage to vehicle
+1622,2024-09-13,1174,collision,286,Stolen vehicle report
+1623,2024-09-14,2313,theft,327,Flooded basement
+1624,2024-09-15,3313,flood,390,Fire in garage
+1625,2024-09-16,4815,fire,266,Stolen vehicle report
+1626,2024-09-17,2301,theft,203,Liability from slip and fall
+1627,2024-09-18,3104,theft,385,Minor damage to vehicle
+1628,2024-09-19,6881,fire,352,Stolen vehicle report
+1629,2024-09-20,186,fire,246,Stolen vehicle report
+1630,2024-09-21,1454,collision,237,Liability from slip and fall
+1631,2024-09-22,6247,theft,342,Flooded basement
+1632,2024-09-23,11278,liability,390,Fire in garage
+1633,2024-09-24,3583,fire,220,Liability from slip and fall
+1634,2024-09-25,3797,fire,256,Fire in garage
+1635,2024-09-26,566,flood,316,Flooded basement
+1636,2024-09-27,2965,liability,380,Stolen vehicle report
+1637,2024-09-28,3803,liability,245,Fire in garage
+1638,2024-09-29,1388,fire,341,Minor damage to vehicle
+1639,2024-09-30,1568,collision,344,Minor damage to vehicle
+1640,2024-10-01,2368,flood,238,Liability from slip and fall
+1641,2024-10-02,101,liability,336,Flooded basement
+1642,2024-10-03,1943,fire,298,Liability from slip and fall
+1643,2024-10-04,1187,liability,276,Liability from slip and fall
+1644,2024-10-05,1983,flood,314,Liability from slip and fall
+1645,2024-10-06,637,flood,333,Minor damage to vehicle
+1646,2024-10-07,11060,theft,350,Minor damage to vehicle
+1647,2024-10-08,4501,fire,386,Liability from slip and fall
+1648,2024-10-09,5683,flood,290,Minor damage to vehicle
+1649,2024-10-10,7783,theft,297,Flooded basement
+1650,2024-10-11,3450,theft,319,Liability from slip and fall
+1651,2024-10-12,454,liability,245,Minor damage to vehicle
+1652,2024-10-13,3851,liability,237,Fire in garage
+1653,2024-10-14,4419,theft,341,Liability from slip and fall
+1654,2024-10-15,6841,liability,299,Liability from slip and fall
+1655,2024-10-16,2825,flood,271,Flooded basement
+1656,2024-10-17,682,collision,389,Stolen vehicle report
+1657,2024-10-18,1668,flood,234,Stolen vehicle report
+1658,2024-10-19,2255,theft,346,Flooded basement
+1659,2024-10-20,5191,theft,229,Flooded basement
+1660,2024-10-21,4228,flood,277,Flooded basement
+1661,2024-10-22,2201,liability,283,Stolen vehicle report
+1662,2024-10-23,21530,liability,312,Flooded basement
+1663,2024-10-24,4654,theft,224,Minor damage to vehicle
+1664,2024-10-25,1353,fire,367,Liability from slip and fall
+1665,2024-10-26,536,liability,287,Liability from slip and fall
+1666,2024-10-27,829,flood,213,Fire in garage
+1667,2024-10-28,1411,liability,353,Fire in garage
+1668,2024-10-29,875,flood,301,Liability from slip and fall
+1669,2024-10-30,1032,theft,349,Minor damage to vehicle
+1670,2024-10-31,1678,liability,375,Stolen vehicle report
+1671,2024-11-01,952,flood,282,Stolen vehicle report
+1672,2024-11-02,11353,theft,309,Minor damage to vehicle
+1673,2024-11-03,418,fire,378,Stolen vehicle report
+1674,2024-11-04,3717,flood,330,Flooded basement
+1675,2024-11-05,2641,fire,369,Liability from slip and fall
+1676,2024-11-06,20193,fire,218,Liability from slip and fall
+1677,2024-11-07,594,collision,227,Minor damage to vehicle
+1678,2024-11-08,2536,liability,372,Stolen vehicle report
+1679,2024-11-09,17445,flood,270,Fire in garage
+1680,2024-11-10,10031,fire,262,Fire in garage
+1681,2024-11-11,8493,collision,272,Stolen vehicle report
+1682,2024-11-12,1491,theft,323,Fire in garage
+1683,2024-11-13,936,flood,318,Minor damage to vehicle
+1684,2024-11-14,5522,fire,320,Minor damage to vehicle
+1685,2024-11-15,13251,liability,218,Stolen vehicle report
+1686,2024-11-16,4068,collision,374,Fire in garage
+1687,2024-11-17,4238,fire,341,Minor damage to vehicle
+1688,2024-11-18,1642,liability,319,Minor damage to vehicle
+1689,2024-11-19,7337,fire,365,Flooded basement
+1690,2024-11-20,1035,flood,380,Flooded basement
+1691,2024-11-21,1955,flood,260,Minor damage to vehicle
+1692,2024-11-22,2770,flood,363,Stolen vehicle report
+1693,2024-11-23,3542,collision,367,Liability from slip and fall
+1694,2024-11-24,1388,flood,229,Liability from slip and fall
+1695,2024-11-25,609,liability,208,Minor damage to vehicle
+1696,2024-11-26,4715,fire,263,Minor damage to vehicle
+1697,2024-11-27,1702,theft,360,Minor damage to vehicle
+1698,2024-11-28,4352,liability,319,Stolen vehicle report
+1699,2024-11-29,838,liability,251,Flooded basement
+1700,2024-11-30,3280,flood,288,Minor damage to vehicle
+1701,2024-12-01,3802,collision,341,Minor damage to vehicle
+1702,2024-12-02,266,fire,252,Fire in garage
+1703,2024-12-03,2051,collision,386,Stolen vehicle report
+1704,2024-12-04,721,fire,277,Minor damage to vehicle
+1705,2024-12-05,327,fire,240,Fire in garage
+1706,2024-12-06,23006,collision,395,Liability from slip and fall
+1707,2024-12-07,1945,liability,267,Minor damage to vehicle
+1708,2024-12-08,8300,fire,207,Minor damage to vehicle
+1709,2024-12-09,1469,collision,201,Fire in garage
+1710,2024-12-10,5720,fire,304,Stolen vehicle report
+1711,2024-12-11,7140,theft,324,Minor damage to vehicle
+1712,2024-12-12,4527,liability,309,Liability from slip and fall
+1713,2024-12-13,3189,flood,285,Minor damage to vehicle
+1714,2024-12-14,2653,fire,368,Liability from slip and fall
+1715,2024-12-15,2145,theft,319,Flooded basement
+1716,2024-12-16,13262,flood,326,Flooded basement
+1717,2024-12-17,8878,flood,382,Liability from slip and fall
+1718,2024-12-18,16765,fire,215,Stolen vehicle report
+1719,2024-12-19,663,collision,261,Minor damage to vehicle
+1720,2024-12-20,6562,fire,312,Minor damage to vehicle
+1721,2024-12-21,13930,theft,375,Flooded basement
+1722,2024-12-22,999,flood,357,Liability from slip and fall
+1723,2024-12-23,344,fire,211,Minor damage to vehicle
+1724,2024-12-24,6756,collision,234,Minor damage to vehicle
+1725,2024-12-25,4272,fire,210,Stolen vehicle report
+1726,2024-12-26,9220,liability,263,Fire in garage
+1727,2024-12-27,752,collision,249,Flooded basement
+1728,2024-12-28,7930,theft,348,Flooded basement
+1729,2024-12-29,1125,flood,268,Fire in garage
+1730,2024-12-30,893,fire,247,Minor damage to vehicle
+1731,2024-12-31,897,collision,219,Stolen vehicle report
+1732,2025-01-01,8425,liability,300,Stolen vehicle report
+1733,2025-01-02,5471,collision,394,Flooded basement
+1734,2025-01-03,3701,liability,371,Stolen vehicle report
+1735,2025-01-04,2222,theft,360,Fire in garage
+1736,2025-01-05,10486,flood,388,Minor damage to vehicle
+1737,2025-01-06,2491,theft,336,Fire in garage
+1738,2025-01-07,8480,fire,267,Liability from slip and fall
+1739,2025-01-08,2891,collision,234,Flooded basement
+1740,2025-01-09,2365,liability,264,Stolen vehicle report
+1741,2025-01-10,3105,liability,207,Liability from slip and fall
+1742,2025-01-11,1793,collision,244,Stolen vehicle report
+1743,2025-01-12,6883,collision,286,Minor damage to vehicle
+1744,2025-01-13,3493,fire,374,Minor damage to vehicle
+1745,2025-01-14,1321,theft,367,Minor damage to vehicle
+1746,2025-01-15,11491,liability,275,Stolen vehicle report
+1747,2025-01-16,2421,fire,381,Liability from slip and fall
+1748,2025-01-17,3921,theft,275,Minor damage to vehicle
+1749,2025-01-18,11847,fire,373,Liability from slip and fall
+1750,2025-01-19,4893,liability,246,Stolen vehicle report
+1751,2025-01-20,621,collision,214,Liability from slip and fall
+1752,2025-01-21,14053,collision,304,Stolen vehicle report
+1753,2025-01-22,4940,theft,346,Stolen vehicle report
+1754,2025-01-23,2039,flood,225,Flooded basement
+1755,2025-01-24,749,theft,251,Stolen vehicle report
+1756,2025-01-25,7900,flood,292,Stolen vehicle report
+1757,2025-01-26,4838,fire,349,Fire in garage
+1758,2025-01-27,3812,fire,220,Minor damage to vehicle
+1759,2025-01-28,11216,liability,250,Flooded basement
+1760,2025-01-29,7769,flood,237,Flooded basement
+1761,2025-01-30,822,liability,219,Flooded basement
+1762,2025-01-31,1867,collision,356,Fire in garage
+1763,2025-02-01,1428,flood,378,Stolen vehicle report
+1764,2025-02-02,6811,theft,331,Minor damage to vehicle
+1765,2025-02-03,170,collision,254,Liability from slip and fall
+1766,2025-02-04,4218,collision,398,Stolen vehicle report
+1767,2025-02-05,7187,theft,291,Fire in garage
+1768,2025-02-06,10468,collision,227,Stolen vehicle report
+1769,2025-02-07,2093,flood,203,Stolen vehicle report
+1770,2025-02-08,8609,liability,349,Fire in garage
+1771,2025-02-09,586,collision,275,Flooded basement
+1772,2025-02-10,9368,flood,372,Flooded basement
+1773,2025-02-11,681,fire,266,Minor damage to vehicle
+1774,2025-02-12,2531,flood,285,Minor damage to vehicle
+1775,2025-02-13,7980,liability,393,Flooded basement
+1776,2025-02-14,812,flood,361,Liability from slip and fall
+1777,2025-02-15,1301,theft,290,Stolen vehicle report
+1778,2025-02-16,6405,liability,382,Liability from slip and fall
+1779,2025-02-17,6365,fire,304,Stolen vehicle report
+1780,2025-02-18,5124,theft,200,Flooded basement
+1781,2025-02-19,5920,flood,271,Minor damage to vehicle
+1782,2025-02-20,3912,liability,286,Minor damage to vehicle
+1783,2025-02-21,1450,fire,365,Liability from slip and fall
+1784,2025-02-22,2120,theft,205,Minor damage to vehicle
+1785,2025-02-23,1002,fire,352,Flooded basement
+1786,2025-02-24,11954,flood,344,Liability from slip and fall
+1787,2025-02-25,4378,fire,260,Stolen vehicle report
+1788,2025-02-26,2561,collision,211,Minor damage to vehicle
+1789,2025-02-27,3099,theft,205,Fire in garage
+1790,2025-02-28,14714,fire,226,Minor damage to vehicle
+1791,2025-03-01,832,flood,335,Stolen vehicle report
+1792,2025-03-02,4412,flood,323,Liability from slip and fall
+1793,2025-03-03,3524,fire,305,Stolen vehicle report
+1794,2025-03-04,4726,flood,392,Fire in garage
+1795,2025-03-05,91,liability,384,Flooded basement
+1796,2025-03-06,10283,liability,292,Minor damage to vehicle
+1797,2025-03-07,13449,liability,308,Liability from slip and fall
+1798,2025-03-08,4163,collision,298,Flooded basement
+1799,2025-03-09,5964,fire,367,Stolen vehicle report
+1800,2025-03-10,12787,collision,341,Liability from slip and fall
+1801,2025-03-11,6141,flood,234,Flooded basement
+1802,2025-03-12,827,collision,375,Liability from slip and fall
+1803,2025-03-13,4293,flood,283,Fire in garage
+1804,2025-03-14,4666,flood,255,Fire in garage
+1805,2025-03-15,2759,theft,376,Minor damage to vehicle
+1806,2025-03-16,6667,liability,340,Minor damage to vehicle
+1807,2025-03-17,13618,flood,388,Fire in garage
+1808,2025-03-18,12989,theft,248,Liability from slip and fall
+1809,2025-03-19,2996,liability,245,Fire in garage
+1810,2025-03-20,600,flood,312,Minor damage to vehicle
+1811,2025-03-21,20945,flood,389,Fire in garage
+1812,2025-03-22,9128,collision,335,Fire in garage
+1813,2025-03-23,665,collision,242,Liability from slip and fall
+1814,2025-03-24,12681,liability,347,Flooded basement
+1815,2025-03-25,10197,flood,323,Minor damage to vehicle
+1816,2025-03-26,3657,fire,296,Liability from slip and fall
+1817,2025-03-27,4473,collision,289,Fire in garage
+1818,2025-03-28,2545,liability,238,Fire in garage
+1819,2025-03-29,281,flood,284,Flooded basement
+1820,2025-03-30,2041,flood,376,Minor damage to vehicle
+1821,2025-03-31,8119,fire,391,Minor damage to vehicle
+1822,2025-04-01,23,liability,261,Stolen vehicle report
+1823,2025-04-02,2028,flood,305,Minor damage to vehicle
+1824,2025-04-03,2538,collision,306,Flooded basement
+1825,2025-04-04,3854,fire,253,Stolen vehicle report
+1826,2025-04-05,12619,liability,325,Stolen vehicle report
+1827,2025-04-06,2125,fire,208,Fire in garage
+1828,2025-04-07,2130,collision,287,Fire in garage
+1829,2025-04-08,6687,liability,236,Minor damage to vehicle
+1830,2025-04-09,3009,fire,248,Stolen vehicle report
+1831,2025-04-10,1271,theft,240,Fire in garage
+1832,2025-04-11,3011,collision,216,Flooded basement
+1833,2025-04-12,759,collision,287,Fire in garage
+1834,2025-04-13,970,collision,220,Fire in garage
+1835,2025-04-14,3449,theft,250,Stolen vehicle report
+1836,2025-04-15,2714,theft,258,Stolen vehicle report
+1837,2025-04-16,12316,flood,366,Liability from slip and fall
+1838,2025-04-17,2250,fire,382,Flooded basement
+1839,2025-04-18,4344,flood,240,Stolen vehicle report
+1840,2025-04-19,5001,fire,238,Minor damage to vehicle
+1841,2025-04-20,65,theft,340,Flooded basement
+1842,2025-04-21,5446,theft,391,Flooded basement
+1843,2025-04-22,980,flood,210,Stolen vehicle report
+1844,2025-04-23,16229,liability,346,Flooded basement
+1845,2025-04-24,804,flood,338,Stolen vehicle report
+1846,2025-04-25,2677,fire,276,Fire in garage
+1847,2025-04-26,446,flood,326,Liability from slip and fall
+1848,2025-04-27,28840,collision,245,Fire in garage
+1849,2025-04-28,3487,fire,244,Stolen vehicle report
+1850,2025-04-29,4524,fire,200,Stolen vehicle report
+1851,2025-04-30,347,liability,367,Fire in garage
+1852,2025-05-01,6930,theft,307,Minor damage to vehicle
+1853,2025-05-02,1178,fire,218,Minor damage to vehicle
+1854,2025-05-03,11416,theft,275,Minor damage to vehicle
+1855,2025-05-04,1147,flood,271,Stolen vehicle report
+1856,2025-05-05,1057,collision,399,Flooded basement
+1857,2025-05-06,186,liability,388,Stolen vehicle report
+1858,2025-05-07,3193,theft,308,Flooded basement
+1859,2025-05-08,4160,fire,211,Fire in garage
+1860,2025-05-09,339,theft,388,Liability from slip and fall
+1861,2025-05-10,7470,fire,360,Flooded basement
+1862,2025-05-11,3019,theft,244,Minor damage to vehicle
+1863,2025-05-12,3715,fire,289,Stolen vehicle report
+1864,2025-05-13,2905,flood,302,Fire in garage
+1865,2025-05-14,2560,fire,396,Minor damage to vehicle
+1866,2025-05-15,4100,fire,207,Fire in garage
+1867,2025-05-16,843,collision,352,Liability from slip and fall
+1868,2025-05-17,1004,fire,290,Stolen vehicle report
+1869,2025-05-18,9894,collision,373,Stolen vehicle report
+1870,2025-05-19,14604,liability,286,Liability from slip and fall
+1871,2025-05-20,2336,collision,357,Stolen vehicle report
+1872,2025-05-21,1578,flood,374,Flooded basement
+1873,2025-05-22,5164,collision,376,Fire in garage
+1874,2025-05-23,2627,liability,374,Minor damage to vehicle
+1875,2025-05-24,128,flood,283,Liability from slip and fall
+1876,2025-05-25,848,theft,281,Flooded basement
+1877,2025-05-26,6293,theft,345,Minor damage to vehicle
+1878,2025-05-27,5378,collision,393,Minor damage to vehicle
+1879,2025-05-28,137,collision,267,Liability from slip and fall
+1880,2025-05-29,1254,liability,360,Flooded basement
+1881,2025-05-30,1313,liability,326,Minor damage to vehicle
+1882,2025-05-31,5572,fire,363,Minor damage to vehicle
+1883,2025-06-01,99,liability,281,Flooded basement
+1884,2025-06-02,549,fire,346,Stolen vehicle report
+1885,2025-06-03,8045,flood,355,Minor damage to vehicle
+1886,2025-06-04,983,collision,367,Fire in garage
+1887,2025-06-05,5288,flood,283,Flooded basement
+1888,2025-06-06,1360,liability,312,Minor damage to vehicle
+1889,2025-06-07,523,flood,275,Liability from slip and fall
+1890,2025-06-08,1393,flood,321,Fire in garage
+1891,2025-06-09,6405,flood,342,Minor damage to vehicle
+1892,2025-06-10,9679,liability,240,Fire in garage
+1893,2025-06-11,8866,flood,366,Fire in garage
+1894,2025-06-12,2530,fire,201,Stolen vehicle report
+1895,2025-06-13,5514,liability,390,Fire in garage
+1896,2025-06-14,1146,flood,228,Stolen vehicle report
+1897,2025-06-15,1734,liability,304,Flooded basement
+1898,2025-06-16,11332,theft,393,Stolen vehicle report
+1899,2025-06-17,65,fire,250,Liability from slip and fall
+1900,2025-06-18,446,flood,274,Minor damage to vehicle
+1901,2025-06-19,1165,theft,209,Flooded basement
+1902,2025-06-20,134,theft,341,Flooded basement
+1903,2025-06-21,1001,liability,250,Liability from slip and fall
+1904,2025-06-22,4373,theft,317,Stolen vehicle report
+1905,2025-06-23,2735,fire,320,Minor damage to vehicle
+1906,2025-06-24,11159,fire,238,Stolen vehicle report
+1907,2025-06-25,8503,collision,227,Fire in garage
+1908,2025-06-26,2091,fire,202,Stolen vehicle report
+1909,2025-06-27,1501,theft,283,Flooded basement
+1910,2025-06-28,2387,fire,397,Minor damage to vehicle
+1911,2025-06-29,4461,liability,354,Stolen vehicle report
+1912,2025-06-30,1560,collision,316,Minor damage to vehicle
+1913,2025-07-01,4892,theft,201,Minor damage to vehicle
+1914,2025-07-02,2633,collision,292,Fire in garage
+1915,2025-07-03,4015,theft,365,Fire in garage
+1916,2025-07-04,2864,liability,330,Flooded basement
+1917,2025-07-05,1743,collision,343,Liability from slip and fall
+1918,2025-07-06,14826,flood,293,Minor damage to vehicle
+1919,2025-07-07,7211,theft,239,Liability from slip and fall
+1920,2025-07-08,754,flood,201,Flooded basement
+1921,2025-07-09,10142,collision,280,Minor damage to vehicle
+1922,2025-07-10,3341,flood,368,Minor damage to vehicle
+1923,2025-07-11,11247,flood,211,Liability from slip and fall
+1924,2025-07-12,8043,collision,362,Stolen vehicle report
+1925,2025-07-13,2768,liability,264,Fire in garage
+1926,2025-07-14,113,flood,254,Stolen vehicle report
+1927,2025-07-15,1564,flood,244,Liability from slip and fall
+1928,2025-07-16,3900,liability,300,Fire in garage
+1929,2025-07-17,5018,flood,261,Stolen vehicle report
+1930,2025-07-18,1491,flood,248,Fire in garage
+1931,2025-07-19,750,flood,326,Minor damage to vehicle
+1932,2025-07-20,9006,fire,352,Stolen vehicle report
+1933,2025-07-21,20803,liability,222,Fire in garage
+1934,2025-07-22,3729,flood,351,Fire in garage
+1935,2025-07-23,941,liability,237,Fire in garage
+1936,2025-07-24,1589,theft,227,Stolen vehicle report
+1937,2025-07-25,92,theft,220,Flooded basement
+1938,2025-07-26,12284,flood,381,Stolen vehicle report
+1939,2025-07-27,626,liability,306,Liability from slip and fall
+1940,2025-07-28,4296,liability,345,Stolen vehicle report
+1941,2025-07-29,1601,liability,363,Fire in garage
+1942,2025-07-30,4039,fire,298,Minor damage to vehicle
+1943,2025-07-31,5269,theft,372,Stolen vehicle report
+1944,2025-08-01,8852,liability,318,Stolen vehicle report
+1945,2025-08-02,1156,liability,272,Fire in garage
+1946,2025-08-03,55,fire,380,Minor damage to vehicle
+1947,2025-08-04,736,fire,321,Minor damage to vehicle
+1948,2025-08-05,11513,liability,229,Liability from slip and fall
+1949,2025-08-06,10353,collision,387,Stolen vehicle report
+1950,2025-08-07,4549,liability,307,Minor damage to vehicle
+1951,2025-08-08,4587,liability,297,Minor damage to vehicle
+1952,2025-08-09,5468,fire,231,Flooded basement
+1953,2025-08-10,964,fire,394,Flooded basement
+1954,2025-08-11,12291,liability,394,Minor damage to vehicle
+1955,2025-08-12,2713,liability,355,Liability from slip and fall
+1956,2025-08-13,2415,liability,371,Minor damage to vehicle
+1957,2025-08-14,3658,fire,278,Fire in garage
+1958,2025-08-15,240,liability,240,Stolen vehicle report
+1959,2025-08-16,909,liability,262,Liability from slip and fall
+1960,2025-08-17,6697,flood,222,Fire in garage
+1961,2025-08-18,432,collision,303,Liability from slip and fall
+1962,2025-08-19,4621,theft,274,Fire in garage
+1963,2025-08-20,1407,collision,247,Stolen vehicle report
+1964,2025-08-21,2465,flood,359,Stolen vehicle report
+1965,2025-08-22,1703,theft,256,Flooded basement
+1966,2025-08-23,2197,liability,317,Fire in garage
+1967,2025-08-24,6347,flood,299,Flooded basement
+1968,2025-08-25,1762,liability,323,Fire in garage
+1969,2025-08-26,4178,fire,360,Flooded basement
+1970,2025-08-27,3231,flood,351,Stolen vehicle report
+1971,2025-08-28,5448,fire,366,Liability from slip and fall
+1972,2025-08-29,13809,flood,233,Flooded basement
+1973,2025-08-30,6594,flood,383,Fire in garage
+1974,2025-08-31,1209,fire,355,Fire in garage
+1975,2025-09-01,158,theft,364,Stolen vehicle report
+1976,2025-09-02,1520,collision,206,Fire in garage
+1977,2025-09-03,4520,liability,395,Minor damage to vehicle
+1978,2025-09-04,263,flood,364,Liability from slip and fall
+1979,2025-09-05,3429,liability,255,Flooded basement
+1980,2025-09-06,4542,fire,264,Liability from slip and fall
+1981,2025-09-07,2034,liability,392,Stolen vehicle report
+1982,2025-09-08,7368,fire,246,Flooded basement
+1983,2025-09-09,563,liability,347,Flooded basement
+1984,2025-09-10,390,collision,218,Minor damage to vehicle
+1985,2025-09-11,6513,collision,356,Stolen vehicle report
+1986,2025-09-12,3420,collision,387,Fire in garage
+1987,2025-09-13,5830,collision,345,Minor damage to vehicle
+1988,2025-09-14,2853,collision,362,Minor damage to vehicle
+1989,2025-09-15,1414,collision,370,Liability from slip and fall
+1990,2025-09-16,8549,fire,325,Liability from slip and fall
+1991,2025-09-17,8032,flood,338,Liability from slip and fall
+1992,2025-09-18,5932,liability,248,Minor damage to vehicle
+1993,2025-09-19,1588,collision,312,Fire in garage
+1994,2025-09-20,4460,fire,237,Flooded basement
+1995,2025-09-21,2239,fire,263,Liability from slip and fall
+1996,2025-09-22,480,fire,268,Fire in garage
+1997,2025-09-23,12463,flood,335,Stolen vehicle report
+1998,2025-09-24,735,liability,361,Liability from slip and fall
+1999,2025-09-25,15002,flood,375,Flooded basement
+2000,2025-09-26,2953,theft,315,Stolen vehicle report

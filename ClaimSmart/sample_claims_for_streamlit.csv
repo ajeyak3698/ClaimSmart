@@ -1,0 +1,2001 @@
+claim_id,claim_date,claim_amount,claim_type,policy_id,description
+5001,2024-01-01 00:00,4358,liability,1116,Injury due to slippery floor
+5002,2024-01-01 01:00,5073,collision,1996,Water leak from roof
+5003,2024-01-01 02:00,173,theft,1890,Water leak from roof
+5004,2024-01-01 03:00,1128,flood,1435,Minor collision on street
+5005,2024-01-01 04:00,6936,fire,1700,Basement flooded after storm
+5006,2024-01-01 05:00,10770,collision,1734,Stolen bike reported
+5007,2024-01-01 06:00,2200,fire,1231,Minor collision on street
+5008,2024-01-01 07:00,13444,collision,1351,Stolen bike reported
+5009,2024-01-01 08:00,7670,flood,1543,Car vandalism report
+5010,2024-01-01 09:00,1263,collision,1208,Water leak from roof
+5011,2024-01-01 10:00,4847,fire,1873,Stolen bike reported
+5012,2024-01-01 11:00,2604,liability,1132,Water leak from roof
+5013,2024-01-01 12:00,1204,fire,1672,Stolen bike reported
+5014,2024-01-01 13:00,9239,collision,1811,Minor collision on street
+5015,2024-01-01 14:00,20197,collision,1874,Fire damage in kitchen
+5016,2024-01-01 15:00,1586,collision,1740,Water leak from roof
+5017,2024-01-01 16:00,523,flood,1100,Basement flooded after storm
+5018,2024-01-01 17:00,5551,flood,1604,Car vandalism report
+5019,2024-01-01 18:00,7833,flood,1574,Fire damage in kitchen
+5020,2024-01-01 19:00,1939,flood,1938,Water leak from roof
+5021,2024-01-01 20:00,6936,flood,1874,Basement flooded after storm
+5022,2024-01-01 21:00,4377,flood,1804,Water leak from roof
+5023,2024-01-01 22:00,298,collision,1476,Water leak from roof
+5024,2024-01-01 23:00,890,liability,1365,Injury due to slippery floor
+5025,2024-01-02 00:00,1241,fire,1143,Water leak from roof
+5026,2024-01-02 01:00,31022,fire,1164,Injury due to slippery floor
+5027,2024-01-02 02:00,4412,theft,1882,Water leak from roof
+5028,2024-01-02 03:00,5187,fire,1610,Minor collision on street
+5029,2024-01-02 04:00,7964,flood,1255,Stolen bike reported
+5030,2024-01-02 05:00,4684,liability,1390,Electrical fire in bedroom
+5031,2024-01-02 06:00,14661,theft,1034,Stolen bike reported
+5032,2024-01-02 07:00,9899,theft,1961,Electrical fire in bedroom
+5033,2024-01-02 08:00,3095,theft,1764,Car vandalism report
+5034,2024-01-02 09:00,2651,theft,1953,Minor collision on street
+5035,2024-01-02 10:00,18329,flood,1576,Fire damage in kitchen
+5036,2024-01-02 11:00,2526,collision,1870,Basement flooded after storm
+5037,2024-01-02 12:00,12019,fire,1195,Stolen bike reported
+5038,2024-01-02 13:00,10641,flood,1376,Water leak from roof
+5039,2024-01-02 14:00,4635,flood,1797,Stolen bike reported
+5040,2024-01-02 15:00,15342,collision,1301,Minor collision on street
+5041,2024-01-02 16:00,613,theft,1853,Electrical fire in bedroom
+5042,2024-01-02 17:00,651,collision,1761,Basement flooded after storm
+5043,2024-01-02 18:00,7254,theft,1902,Water leak from roof
+5044,2024-01-02 19:00,13269,liability,1725,Stolen bike reported
+5045,2024-01-02 20:00,1042,theft,1485,Electrical fire in bedroom
+5046,2024-01-02 21:00,1934,theft,1366,Injury due to slippery floor
+5047,2024-01-02 22:00,6697,liability,1275,Car vandalism report
+5048,2024-01-02 23:00,1076,fire,1402,Car vandalism report
+5049,2024-01-03 00:00,7251,flood,1106,Injury due to slippery floor
+5050,2024-01-03 01:00,4012,collision,1837,Basement flooded after storm
+5051,2024-01-03 02:00,6849,theft,1903,Car vandalism report
+5052,2024-01-03 03:00,4423,flood,1846,Water leak from roof
+5053,2024-01-03 04:00,266,collision,1412,Stolen bike reported
+5054,2024-01-03 05:00,1521,fire,1838,Basement flooded after storm
+5055,2024-01-03 06:00,5136,fire,1817,Water leak from roof
+5056,2024-01-03 07:00,769,fire,1144,Injury due to slippery floor
+5057,2024-01-03 08:00,4160,liability,1082,Car vandalism report
+5058,2024-01-03 09:00,891,flood,1125,Injury due to slippery floor
+5059,2024-01-03 10:00,325,collision,1074,Fire damage in kitchen
+5060,2024-01-03 11:00,1178,theft,1595,Fire damage in kitchen
+5061,2024-01-03 12:00,3504,fire,1220,Car vandalism report
+5062,2024-01-03 13:00,12602,fire,1454,Fire damage in kitchen
+5063,2024-01-03 14:00,17886,flood,1161,Electrical fire in bedroom
+5064,2024-01-03 15:00,3902,fire,1539,Electrical fire in bedroom
+5065,2024-01-03 16:00,3709,liability,1107,Stolen bike reported
+5066,2024-01-03 17:00,6084,fire,1466,Injury due to slippery floor
+5067,2024-01-03 18:00,2354,theft,1618,Car vandalism report
+5068,2024-01-03 19:00,750,fire,1402,Minor collision on street
+5069,2024-01-03 20:00,314,fire,1577,Water leak from roof
+5070,2024-01-03 21:00,6091,theft,1667,Basement flooded after storm
+5071,2024-01-03 22:00,10036,collision,1656,Stolen bike reported
+5072,2024-01-03 23:00,6656,collision,1025,Water leak from roof
+5073,2024-01-04 00:00,6329,theft,1522,Stolen bike reported
+5074,2024-01-04 01:00,3315,collision,1355,Electrical fire in bedroom
+5075,2024-01-04 02:00,6413,theft,1973,Injury due to slippery floor
+5076,2024-01-04 03:00,1407,collision,1548,Stolen bike reported
+5077,2024-01-04 04:00,6471,liability,1753,Electrical fire in bedroom
+5078,2024-01-04 05:00,4525,collision,1756,Basement flooded after storm
+5079,2024-01-04 06:00,8282,theft,1466,Fire damage in kitchen
+5080,2024-01-04 07:00,590,theft,1013,Basement flooded after storm
+5081,2024-01-04 08:00,9209,theft,1188,Minor collision on street
+5082,2024-01-04 09:00,6973,fire,1485,Car vandalism report
+5083,2024-01-04 10:00,7126,flood,1172,Electrical fire in bedroom
+5084,2024-01-04 11:00,4121,fire,1005,Fire damage in kitchen
+5085,2024-01-04 12:00,22220,fire,1467,Car vandalism report
+5086,2024-01-04 13:00,1365,theft,1154,Injury due to slippery floor
+5087,2024-01-04 14:00,2131,liability,1398,Injury due to slippery floor
+5088,2024-01-04 15:00,1549,collision,1927,Minor collision on street
+5089,2024-01-04 16:00,296,flood,1078,Minor collision on street
+5090,2024-01-04 17:00,14058,fire,1793,Fire damage in kitchen
+5091,2024-01-04 18:00,500,theft,1612,Minor collision on street
+5092,2024-01-04 19:00,5606,collision,1758,Fire damage in kitchen
+5093,2024-01-04 20:00,5979,theft,1656,Minor collision on street
+5094,2024-01-04 21:00,2848,liability,1125,Car vandalism report
+5095,2024-01-04 22:00,79,fire,1315,Water leak from roof
+5096,2024-01-04 23:00,11079,collision,1508,Stolen bike reported
+5097,2024-01-05 00:00,2916,liability,1371,Basement flooded after storm
+5098,2024-01-05 01:00,4813,fire,1081,Car vandalism report
+5099,2024-01-05 02:00,7438,fire,1999,Injury due to slippery floor
+5100,2024-01-05 03:00,6748,fire,1436,Minor collision on street
+5101,2024-01-05 04:00,7116,collision,1219,Electrical fire in bedroom
+5102,2024-01-05 05:00,2515,collision,1934,Basement flooded after storm
+5103,2024-01-05 06:00,3190,collision,1921,Water leak from roof
+5104,2024-01-05 07:00,1644,fire,1305,Minor collision on street
+5105,2024-01-05 08:00,20810,collision,1872,Fire damage in kitchen
+5106,2024-01-05 09:00,2042,flood,1948,Water leak from roof
+5107,2024-01-05 10:00,956,liability,1425,Basement flooded after storm
+5108,2024-01-05 11:00,831,theft,1680,Fire damage in kitchen
+5109,2024-01-05 12:00,17300,flood,1475,Electrical fire in bedroom
+5110,2024-01-05 13:00,2597,theft,1252,Water leak from roof
+5111,2024-01-05 14:00,7935,flood,1706,Car vandalism report
+5112,2024-01-05 15:00,14712,theft,1829,Injury due to slippery floor
+5113,2024-01-05 16:00,7243,collision,1207,Stolen bike reported
+5114,2024-01-05 17:00,2951,liability,1198,Stolen bike reported
+5115,2024-01-05 18:00,17110,flood,1516,Injury due to slippery floor
+5116,2024-01-05 19:00,8002,liability,1620,Electrical fire in bedroom
+5117,2024-01-05 20:00,1634,collision,1686,Water leak from roof
+5118,2024-01-05 21:00,10415,liability,1644,Electrical fire in bedroom
+5119,2024-01-05 22:00,8578,liability,1683,Water leak from roof
+5120,2024-01-05 23:00,3012,flood,1926,Basement flooded after storm
+5121,2024-01-06 00:00,1340,flood,1719,Stolen bike reported
+5122,2024-01-06 01:00,7481,fire,1576,Electrical fire in bedroom
+5123,2024-01-06 02:00,11197,flood,1629,Fire damage in kitchen
+5124,2024-01-06 03:00,2759,collision,1439,Fire damage in kitchen
+5125,2024-01-06 04:00,3446,collision,1799,Basement flooded after storm
+5126,2024-01-06 05:00,2645,liability,1671,Water leak from roof
+5127,2024-01-06 06:00,1644,liability,1505,Stolen bike reported
+5128,2024-01-06 07:00,6357,liability,1890,Minor collision on street
+5129,2024-01-06 08:00,2970,liability,1602,Basement flooded after storm
+5130,2024-01-06 09:00,6433,theft,1274,Fire damage in kitchen
+5131,2024-01-06 10:00,2699,theft,1390,Water leak from roof
+5132,2024-01-06 11:00,2645,flood,1266,Water leak from roof
+5133,2024-01-06 12:00,1303,fire,1880,Basement flooded after storm
+5134,2024-01-06 13:00,26202,flood,1127,Fire damage in kitchen
+5135,2024-01-06 14:00,141,flood,1658,Injury due to slippery floor
+5136,2024-01-06 15:00,4765,fire,1319,Car vandalism report
+5137,2024-01-06 16:00,4938,fire,1920,Fire damage in kitchen
+5138,2024-01-06 17:00,466,collision,1423,Stolen bike reported
+5139,2024-01-06 18:00,13368,collision,1120,Basement flooded after storm
+5140,2024-01-06 19:00,703,collision,1077,Stolen bike reported
+5141,2024-01-06 20:00,5897,collision,1806,Stolen bike reported
+5142,2024-01-06 21:00,637,collision,1392,Basement flooded after storm
+5143,2024-01-06 22:00,7444,theft,1422,Basement flooded after storm
+5144,2024-01-06 23:00,12788,theft,1497,Water leak from roof
+5145,2024-01-07 00:00,7130,collision,1506,Basement flooded after storm
+5146,2024-01-07 01:00,1856,collision,1044,Car vandalism report
+5147,2024-01-07 02:00,14445,fire,1464,Fire damage in kitchen
+5148,2024-01-07 03:00,5199,fire,1192,Car vandalism report
+5149,2024-01-07 04:00,2674,liability,1985,Minor collision on street
+5150,2024-01-07 05:00,11489,collision,1845,Basement flooded after storm
+5151,2024-01-07 06:00,1695,liability,1946,Stolen bike reported
+5152,2024-01-07 07:00,9096,fire,1104,Minor collision on street
+5153,2024-01-07 08:00,279,fire,1566,Car vandalism report
+5154,2024-01-07 09:00,12979,liability,1812,Injury due to slippery floor
+5155,2024-01-07 10:00,1941,liability,1529,Fire damage in kitchen
+5156,2024-01-07 11:00,5218,liability,1652,Basement flooded after storm
+5157,2024-01-07 12:00,14491,fire,1062,Injury due to slippery floor
+5158,2024-01-07 13:00,29430,flood,1726,Electrical fire in bedroom
+5159,2024-01-07 14:00,385,collision,1244,Fire damage in kitchen
+5160,2024-01-07 15:00,15826,theft,1950,Injury due to slippery floor
+5161,2024-01-07 16:00,4368,flood,1702,Water leak from roof
+5162,2024-01-07 17:00,17444,collision,1844,Fire damage in kitchen
+5163,2024-01-07 18:00,4750,flood,1854,Basement flooded after storm
+5164,2024-01-07 19:00,1840,theft,1011,Water leak from roof
+5165,2024-01-07 20:00,6251,theft,1744,Injury due to slippery floor
+5166,2024-01-07 21:00,3730,fire,1935,Injury due to slippery floor
+5167,2024-01-07 22:00,5981,collision,1501,Minor collision on street
+5168,2024-01-07 23:00,4295,flood,1696,Car vandalism report
+5169,2024-01-08 00:00,1509,collision,1348,Basement flooded after storm
+5170,2024-01-08 01:00,7956,fire,1701,Minor collision on street
+5171,2024-01-08 02:00,9646,theft,1899,Basement flooded after storm
+5172,2024-01-08 03:00,12554,flood,1118,Fire damage in kitchen
+5173,2024-01-08 04:00,2162,flood,1213,Fire damage in kitchen
+5174,2024-01-08 05:00,5638,flood,1580,Minor collision on street
+5175,2024-01-08 06:00,532,collision,1928,Injury due to slippery floor
+5176,2024-01-08 07:00,2306,theft,1775,Electrical fire in bedroom
+5177,2024-01-08 08:00,10140,liability,1753,Car vandalism report
+5178,2024-01-08 09:00,12353,flood,1916,Fire damage in kitchen
+5179,2024-01-08 10:00,13282,liability,1676,Fire damage in kitchen
+5180,2024-01-08 11:00,7025,flood,1470,Minor collision on street
+5181,2024-01-08 12:00,14858,flood,1620,Basement flooded after storm
+5182,2024-01-08 13:00,3137,theft,1059,Electrical fire in bedroom
+5183,2024-01-08 14:00,1064,liability,1057,Car vandalism report
+5184,2024-01-08 15:00,1220,collision,1488,Water leak from roof
+5185,2024-01-08 16:00,1519,flood,1736,Fire damage in kitchen
+5186,2024-01-08 17:00,7,flood,1342,Minor collision on street
+5187,2024-01-08 18:00,1543,theft,1533,Minor collision on street
+5188,2024-01-08 19:00,16040,collision,1280,Car vandalism report
+5189,2024-01-08 20:00,8048,collision,1593,Car vandalism report
+5190,2024-01-08 21:00,14968,flood,1983,Basement flooded after storm
+5191,2024-01-08 22:00,5550,flood,1068,Water leak from roof
+5192,2024-01-08 23:00,3635,fire,1535,Fire damage in kitchen
+5193,2024-01-09 00:00,2256,liability,1090,Injury due to slippery floor
+5194,2024-01-09 01:00,2877,flood,1361,Stolen bike reported
+5195,2024-01-09 02:00,6176,theft,1490,Injury due to slippery floor
+5196,2024-01-09 03:00,9855,flood,1233,Car vandalism report
+5197,2024-01-09 04:00,839,flood,1278,Fire damage in kitchen
+5198,2024-01-09 05:00,7868,fire,1941,Electrical fire in bedroom
+5199,2024-01-09 06:00,32,collision,1569,Basement flooded after storm
+5200,2024-01-09 07:00,6310,liability,1328,Minor collision on street
+5201,2024-01-09 08:00,3620,liability,1230,Water leak from roof
+5202,2024-01-09 09:00,1343,theft,1142,Water leak from roof
+5203,2024-01-09 10:00,5983,theft,1660,Injury due to slippery floor
+5204,2024-01-09 11:00,107,flood,1410,Minor collision on street
+5205,2024-01-09 12:00,10941,collision,1388,Water leak from roof
+5206,2024-01-09 13:00,4473,liability,1680,Electrical fire in bedroom
+5207,2024-01-09 14:00,2781,fire,1137,Fire damage in kitchen
+5208,2024-01-09 15:00,3328,liability,1494,Stolen bike reported
+5209,2024-01-09 16:00,1848,flood,1099,Fire damage in kitchen
+5210,2024-01-09 17:00,3547,theft,1026,Water leak from roof
+5211,2024-01-09 18:00,24326,theft,1205,Car vandalism report
+5212,2024-01-09 19:00,8367,theft,1279,Stolen bike reported
+5213,2024-01-09 20:00,4415,liability,1092,Basement flooded after storm
+5214,2024-01-09 21:00,3723,theft,1197,Water leak from roof
+5215,2024-01-09 22:00,419,liability,1870,Water leak from roof
+5216,2024-01-09 23:00,5850,liability,1843,Basement flooded after storm
+5217,2024-01-10 00:00,7629,fire,1859,Water leak from roof
+5218,2024-01-10 01:00,3595,flood,1738,Electrical fire in bedroom
+5219,2024-01-10 02:00,6926,fire,1354,Minor collision on street
+5220,2024-01-10 03:00,7913,collision,1816,Stolen bike reported
+5221,2024-01-10 04:00,973,flood,1946,Car vandalism report
+5222,2024-01-10 05:00,5634,collision,1965,Basement flooded after storm
+5223,2024-01-10 06:00,11911,fire,1619,Electrical fire in bedroom
+5224,2024-01-10 07:00,70,theft,1075,Electrical fire in bedroom
+5225,2024-01-10 08:00,9654,liability,1320,Water leak from roof
+5226,2024-01-10 09:00,18408,theft,1806,Stolen bike reported
+5227,2024-01-10 10:00,666,theft,1558,Car vandalism report
+5228,2024-01-10 11:00,3561,collision,1972,Fire damage in kitchen
+5229,2024-01-10 12:00,3455,fire,1278,Car vandalism report
+5230,2024-01-10 13:00,5816,liability,1137,Electrical fire in bedroom
+5231,2024-01-10 14:00,2764,flood,1608,Water leak from roof
+5232,2024-01-10 15:00,3018,fire,1394,Water leak from roof
+5233,2024-01-10 16:00,2213,fire,1711,Electrical fire in bedroom
+5234,2024-01-10 17:00,5380,collision,1987,Fire damage in kitchen
+5235,2024-01-10 18:00,1225,flood,1318,Water leak from roof
+5236,2024-01-10 19:00,20548,fire,1295,Electrical fire in bedroom
+5237,2024-01-10 20:00,12696,liability,1472,Car vandalism report
+5238,2024-01-10 21:00,763,flood,1327,Basement flooded after storm
+5239,2024-01-10 22:00,7028,collision,1917,Water leak from roof
+5240,2024-01-10 23:00,14060,collision,1299,Car vandalism report
+5241,2024-01-11 00:00,5560,fire,1472,Minor collision on street
+5242,2024-01-11 01:00,4056,flood,1910,Injury due to slippery floor
+5243,2024-01-11 02:00,9454,collision,1517,Basement flooded after storm
+5244,2024-01-11 03:00,1168,collision,1806,Car vandalism report
+5245,2024-01-11 04:00,2511,liability,1679,Basement flooded after storm
+5246,2024-01-11 05:00,1770,fire,1627,Stolen bike reported
+5247,2024-01-11 06:00,1589,flood,1447,Stolen bike reported
+5248,2024-01-11 07:00,8590,collision,1330,Injury due to slippery floor
+5249,2024-01-11 08:00,17235,collision,1332,Car vandalism report
+5250,2024-01-11 09:00,3898,collision,1679,Injury due to slippery floor
+5251,2024-01-11 10:00,187,collision,1848,Minor collision on street
+5252,2024-01-11 11:00,5380,collision,1853,Fire damage in kitchen
+5253,2024-01-11 12:00,2463,collision,1471,Fire damage in kitchen
+5254,2024-01-11 13:00,4208,theft,1444,Injury due to slippery floor
+5255,2024-01-11 14:00,144,flood,1414,Stolen bike reported
+5256,2024-01-11 15:00,2240,theft,1644,Water leak from roof
+5257,2024-01-11 16:00,11692,theft,1443,Fire damage in kitchen
+5258,2024-01-11 17:00,3124,flood,1354,Fire damage in kitchen
+5259,2024-01-11 18:00,5146,liability,1640,Stolen bike reported
+5260,2024-01-11 19:00,7049,fire,1292,Car vandalism report
+5261,2024-01-11 20:00,11964,liability,1323,Fire damage in kitchen
+5262,2024-01-11 21:00,10757,liability,1903,Stolen bike reported
+5263,2024-01-11 22:00,8766,flood,1335,Injury due to slippery floor
+5264,2024-01-11 23:00,2026,liability,1569,Fire damage in kitchen
+5265,2024-01-12 00:00,2190,fire,1626,Basement flooded after storm
+5266,2024-01-12 01:00,10488,theft,1686,Car vandalism report
+5267,2024-01-12 02:00,5074,flood,1872,Electrical fire in bedroom
+5268,2024-01-12 03:00,1711,theft,1053,Stolen bike reported
+5269,2024-01-12 04:00,75,fire,1055,Injury due to slippery floor
+5270,2024-01-12 05:00,2428,fire,1594,Car vandalism report
+5271,2024-01-12 06:00,2994,liability,1270,Car vandalism report
+5272,2024-01-12 07:00,9695,collision,1304,Stolen bike reported
+5273,2024-01-12 08:00,13554,theft,1244,Fire damage in kitchen
+5274,2024-01-12 09:00,8444,flood,1943,Basement flooded after storm
+5275,2024-01-12 10:00,6634,collision,1848,Injury due to slippery floor
+5276,2024-01-12 11:00,10467,liability,1325,Fire damage in kitchen
+5277,2024-01-12 12:00,388,fire,1979,Stolen bike reported
+5278,2024-01-12 13:00,9101,collision,1094,Basement flooded after storm
+5279,2024-01-12 14:00,416,flood,1446,Fire damage in kitchen
+5280,2024-01-12 15:00,851,collision,1302,Minor collision on street
+5281,2024-01-12 16:00,7791,fire,1908,Basement flooded after storm
+5282,2024-01-12 17:00,1734,liability,1802,Stolen bike reported
+5283,2024-01-12 18:00,4757,theft,1190,Minor collision on street
+5284,2024-01-12 19:00,81,theft,1174,Water leak from roof
+5285,2024-01-12 20:00,447,theft,1053,Basement flooded after storm
+5286,2024-01-12 21:00,886,theft,1218,Injury due to slippery floor
+5287,2024-01-12 22:00,2505,fire,1403,Electrical fire in bedroom
+5288,2024-01-12 23:00,5157,theft,1688,Basement flooded after storm
+5289,2024-01-13 00:00,1396,liability,1568,Minor collision on street
+5290,2024-01-13 01:00,15421,theft,1839,Electrical fire in bedroom
+5291,2024-01-13 02:00,1788,theft,1447,Electrical fire in bedroom
+5292,2024-01-13 03:00,7111,liability,1901,Fire damage in kitchen
+5293,2024-01-13 04:00,8558,fire,1208,Car vandalism report
+5294,2024-01-13 05:00,36317,liability,1672,Stolen bike reported
+5295,2024-01-13 06:00,9293,theft,1415,Fire damage in kitchen
+5296,2024-01-13 07:00,2696,liability,1414,Stolen bike reported
+5297,2024-01-13 08:00,2438,flood,1343,Basement flooded after storm
+5298,2024-01-13 09:00,8157,collision,1693,Electrical fire in bedroom
+5299,2024-01-13 10:00,2333,flood,1461,Water leak from roof
+5300,2024-01-13 11:00,2867,theft,1763,Basement flooded after storm
+5301,2024-01-13 12:00,7092,collision,1297,Car vandalism report
+5302,2024-01-13 13:00,3033,liability,1874,Car vandalism report
+5303,2024-01-13 14:00,762,fire,1460,Electrical fire in bedroom
+5304,2024-01-13 15:00,5078,liability,1416,Minor collision on street
+5305,2024-01-13 16:00,1210,liability,1478,Injury due to slippery floor
+5306,2024-01-13 17:00,3794,liability,1248,Injury due to slippery floor
+5307,2024-01-13 18:00,16696,fire,1154,Injury due to slippery floor
+5308,2024-01-13 19:00,3521,flood,1331,Injury due to slippery floor
+5309,2024-01-13 20:00,6004,fire,1497,Injury due to slippery floor
+5310,2024-01-13 21:00,2019,liability,1919,Minor collision on street
+5311,2024-01-13 22:00,5628,fire,1134,Minor collision on street
+5312,2024-01-13 23:00,6937,collision,1547,Injury due to slippery floor
+5313,2024-01-14 00:00,10304,liability,1487,Minor collision on street
+5314,2024-01-14 01:00,2248,liability,1266,Injury due to slippery floor
+5315,2024-01-14 02:00,1978,theft,1930,Electrical fire in bedroom
+5316,2024-01-14 03:00,2117,fire,1626,Electrical fire in bedroom
+5317,2024-01-14 04:00,3561,collision,1047,Car vandalism report
+5318,2024-01-14 05:00,5341,collision,1616,Fire damage in kitchen
+5319,2024-01-14 06:00,12972,collision,1753,Injury due to slippery floor
+5320,2024-01-14 07:00,38642,theft,1517,Basement flooded after storm
+5321,2024-01-14 08:00,2809,theft,1080,Basement flooded after storm
+5322,2024-01-14 09:00,636,theft,1989,Basement flooded after storm
+5323,2024-01-14 10:00,10344,collision,1238,Injury due to slippery floor
+5324,2024-01-14 11:00,4429,fire,1989,Basement flooded after storm
+5325,2024-01-14 12:00,7907,flood,1896,Stolen bike reported
+5326,2024-01-14 13:00,6058,flood,1221,Minor collision on street
+5327,2024-01-14 14:00,6301,liability,1534,Water leak from roof
+5328,2024-01-14 15:00,13461,flood,1219,Fire damage in kitchen
+5329,2024-01-14 16:00,4559,theft,1102,Car vandalism report
+5330,2024-01-14 17:00,1303,collision,1383,Stolen bike reported
+5331,2024-01-14 18:00,787,theft,1362,Water leak from roof
+5332,2024-01-14 19:00,22044,fire,1184,Injury due to slippery floor
+5333,2024-01-14 20:00,1567,liability,1546,Electrical fire in bedroom
+5334,2024-01-14 21:00,1539,fire,1063,Electrical fire in bedroom
+5335,2024-01-14 22:00,6522,collision,1448,Minor collision on street
+5336,2024-01-14 23:00,3898,liability,1075,Car vandalism report
+5337,2024-01-15 00:00,7498,fire,1947,Basement flooded after storm
+5338,2024-01-15 01:00,7379,theft,1850,Water leak from roof
+5339,2024-01-15 02:00,4157,theft,1515,Fire damage in kitchen
+5340,2024-01-15 03:00,812,collision,1505,Car vandalism report
+5341,2024-01-15 04:00,13062,theft,1599,Stolen bike reported
+5342,2024-01-15 05:00,1411,theft,1519,Basement flooded after storm
+5343,2024-01-15 06:00,3379,flood,1933,Car vandalism report
+5344,2024-01-15 07:00,14600,fire,1185,Car vandalism report
+5345,2024-01-15 08:00,16781,liability,1093,Basement flooded after storm
+5346,2024-01-15 09:00,5184,flood,1481,Basement flooded after storm
+5347,2024-01-15 10:00,11960,liability,1497,Water leak from roof
+5348,2024-01-15 11:00,6903,flood,1915,Car vandalism report
+5349,2024-01-15 12:00,3918,fire,1926,Car vandalism report
+5350,2024-01-15 13:00,3513,collision,1490,Basement flooded after storm
+5351,2024-01-15 14:00,766,fire,1648,Injury due to slippery floor
+5352,2024-01-15 15:00,3497,theft,1239,Car vandalism report
+5353,2024-01-15 16:00,3416,collision,1575,Water leak from roof
+5354,2024-01-15 17:00,3832,fire,1877,Fire damage in kitchen
+5355,2024-01-15 18:00,2173,fire,1478,Stolen bike reported
+5356,2024-01-15 19:00,13211,flood,1067,Water leak from roof
+5357,2024-01-15 20:00,57,fire,1148,Minor collision on street
+5358,2024-01-15 21:00,599,fire,1040,Stolen bike reported
+5359,2024-01-15 22:00,6647,theft,1705,Car vandalism report
+5360,2024-01-15 23:00,3146,theft,1137,Electrical fire in bedroom
+5361,2024-01-16 00:00,11201,collision,1320,Fire damage in kitchen
+5362,2024-01-16 01:00,2241,theft,1696,Basement flooded after storm
+5363,2024-01-16 02:00,11630,collision,1515,Injury due to slippery floor
+5364,2024-01-16 03:00,205,flood,1520,Car vandalism report
+5365,2024-01-16 04:00,29140,collision,1111,Fire damage in kitchen
+5366,2024-01-16 05:00,20301,theft,1080,Stolen bike reported
+5367,2024-01-16 06:00,21286,fire,1473,Stolen bike reported
+5368,2024-01-16 07:00,270,theft,1793,Electrical fire in bedroom
+5369,2024-01-16 08:00,15175,flood,1994,Electrical fire in bedroom
+5370,2024-01-16 09:00,6408,fire,1705,Fire damage in kitchen
+5371,2024-01-16 10:00,3993,theft,1535,Injury due to slippery floor
+5372,2024-01-16 11:00,2379,theft,1563,Car vandalism report
+5373,2024-01-16 12:00,14810,liability,1170,Water leak from roof
+5374,2024-01-16 13:00,549,liability,1456,Injury due to slippery floor
+5375,2024-01-16 14:00,11570,fire,1030,Injury due to slippery floor
+5376,2024-01-16 15:00,1883,theft,1074,Minor collision on street
+5377,2024-01-16 16:00,4395,theft,1989,Injury due to slippery floor
+5378,2024-01-16 17:00,4598,collision,1031,Electrical fire in bedroom
+5379,2024-01-16 18:00,12259,flood,1958,Injury due to slippery floor
+5380,2024-01-16 19:00,185,collision,1687,Basement flooded after storm
+5381,2024-01-16 20:00,13547,liability,1142,Car vandalism report
+5382,2024-01-16 21:00,630,theft,1492,Electrical fire in bedroom
+5383,2024-01-16 22:00,12006,theft,1429,Minor collision on street
+5384,2024-01-16 23:00,14592,theft,1126,Injury due to slippery floor
+5385,2024-01-17 00:00,8832,liability,1237,Electrical fire in bedroom
+5386,2024-01-17 01:00,214,collision,1029,Minor collision on street
+5387,2024-01-17 02:00,2641,fire,1719,Stolen bike reported
+5388,2024-01-17 03:00,5894,theft,1512,Electrical fire in bedroom
+5389,2024-01-17 04:00,878,liability,1002,Water leak from roof
+5390,2024-01-17 05:00,10425,theft,1156,Water leak from roof
+5391,2024-01-17 06:00,6,flood,1980,Fire damage in kitchen
+5392,2024-01-17 07:00,7132,liability,1789,Fire damage in kitchen
+5393,2024-01-17 08:00,4993,flood,1535,Injury due to slippery floor
+5394,2024-01-17 09:00,1438,collision,1108,Fire damage in kitchen
+5395,2024-01-17 10:00,5765,theft,1581,Stolen bike reported
+5396,2024-01-17 11:00,11746,liability,1688,Minor collision on street
+5397,2024-01-17 12:00,7468,collision,1846,Injury due to slippery floor
+5398,2024-01-17 13:00,6207,liability,1195,Injury due to slippery floor
+5399,2024-01-17 14:00,6876,fire,1880,Stolen bike reported
+5400,2024-01-17 15:00,3750,collision,1179,Water leak from roof
+5401,2024-01-17 16:00,3035,theft,1560,Minor collision on street
+5402,2024-01-17 17:00,647,fire,1372,Basement flooded after storm
+5403,2024-01-17 18:00,164,fire,1018,Basement flooded after storm
+5404,2024-01-17 19:00,3531,flood,1985,Electrical fire in bedroom
+5405,2024-01-17 20:00,5868,collision,1630,Water leak from roof
+5406,2024-01-17 21:00,2350,collision,1376,Basement flooded after storm
+5407,2024-01-17 22:00,4816,liability,1441,Injury due to slippery floor
+5408,2024-01-17 23:00,7060,liability,1151,Fire damage in kitchen
+5409,2024-01-18 00:00,244,fire,1301,Injury due to slippery floor
+5410,2024-01-18 01:00,6180,flood,1641,Injury due to slippery floor
+5411,2024-01-18 02:00,11090,flood,1309,Injury due to slippery floor
+5412,2024-01-18 03:00,8784,collision,1372,Car vandalism report
+5413,2024-01-18 04:00,413,liability,1966,Injury due to slippery floor
+5414,2024-01-18 05:00,2765,liability,1069,Water leak from roof
+5415,2024-01-18 06:00,4144,liability,1077,Car vandalism report
+5416,2024-01-18 07:00,3084,theft,1505,Electrical fire in bedroom
+5417,2024-01-18 08:00,1220,liability,1834,Car vandalism report
+5418,2024-01-18 09:00,13604,fire,1503,Minor collision on street
+5419,2024-01-18 10:00,16596,theft,1281,Car vandalism report
+5420,2024-01-18 11:00,598,flood,1601,Stolen bike reported
+5421,2024-01-18 12:00,1576,collision,1936,Minor collision on street
+5422,2024-01-18 13:00,2,theft,1064,Injury due to slippery floor
+5423,2024-01-18 14:00,4319,flood,1697,Minor collision on street
+5424,2024-01-18 15:00,9784,fire,1923,Car vandalism report
+5425,2024-01-18 16:00,2970,flood,1338,Minor collision on street
+5426,2024-01-18 17:00,2091,liability,1437,Minor collision on street
+5427,2024-01-18 18:00,3355,liability,1244,Minor collision on street
+5428,2024-01-18 19:00,3529,collision,1590,Water leak from roof
+5429,2024-01-18 20:00,18338,liability,1780,Minor collision on street
+5430,2024-01-18 21:00,98,liability,1875,Electrical fire in bedroom
+5431,2024-01-18 22:00,1782,fire,1931,Basement flooded after storm
+5432,2024-01-18 23:00,30,liability,1011,Minor collision on street
+5433,2024-01-19 00:00,4559,flood,1971,Water leak from roof
+5434,2024-01-19 01:00,9052,fire,1043,Basement flooded after storm
+5435,2024-01-19 02:00,10947,liability,1983,Fire damage in kitchen
+5436,2024-01-19 03:00,14830,collision,1697,Basement flooded after storm
+5437,2024-01-19 04:00,2703,collision,1067,Car vandalism report
+5438,2024-01-19 05:00,4515,fire,1172,Water leak from roof
+5439,2024-01-19 06:00,10431,theft,1267,Injury due to slippery floor
+5440,2024-01-19 07:00,8381,theft,1515,Water leak from roof
+5441,2024-01-19 08:00,2451,liability,1494,Minor collision on street
+5442,2024-01-19 09:00,7159,theft,1549,Car vandalism report
+5443,2024-01-19 10:00,12891,fire,1532,Stolen bike reported
+5444,2024-01-19 11:00,372,theft,1785,Electrical fire in bedroom
+5445,2024-01-19 12:00,6398,collision,1884,Injury due to slippery floor
+5446,2024-01-19 13:00,2526,fire,1417,Water leak from roof
+5447,2024-01-19 14:00,2273,collision,1148,Fire damage in kitchen
+5448,2024-01-19 15:00,13826,fire,1657,Basement flooded after storm
+5449,2024-01-19 16:00,2497,theft,1666,Water leak from roof
+5450,2024-01-19 17:00,22035,theft,1086,Electrical fire in bedroom
+5451,2024-01-19 18:00,6909,fire,1935,Injury due to slippery floor
+5452,2024-01-19 19:00,5191,collision,1872,Minor collision on street
+5453,2024-01-19 20:00,27817,fire,1061,Fire damage in kitchen
+5454,2024-01-19 21:00,1579,flood,1734,Fire damage in kitchen
+5455,2024-01-19 22:00,420,flood,1581,Stolen bike reported
+5456,2024-01-19 23:00,271,liability,1697,Injury due to slippery floor
+5457,2024-01-20 00:00,13460,flood,1794,Basement flooded after storm
+5458,2024-01-20 01:00,7816,collision,1876,Fire damage in kitchen
+5459,2024-01-20 02:00,7570,theft,1611,Minor collision on street
+5460,2024-01-20 03:00,8901,theft,1434,Stolen bike reported
+5461,2024-01-20 04:00,8493,collision,1172,Basement flooded after storm
+5462,2024-01-20 05:00,469,flood,1837,Fire damage in kitchen
+5463,2024-01-20 06:00,3304,theft,1476,Car vandalism report
+5464,2024-01-20 07:00,2969,theft,1990,Basement flooded after storm
+5465,2024-01-20 08:00,3932,flood,1560,Stolen bike reported
+5466,2024-01-20 09:00,5228,collision,1368,Car vandalism report
+5467,2024-01-20 10:00,265,fire,1233,Electrical fire in bedroom
+5468,2024-01-20 11:00,16822,theft,1242,Basement flooded after storm
+5469,2024-01-20 12:00,5408,flood,1804,Fire damage in kitchen
+5470,2024-01-20 13:00,2873,fire,1563,Electrical fire in bedroom
+5471,2024-01-20 14:00,32044,flood,1018,Car vandalism report
+5472,2024-01-20 15:00,2090,theft,1611,Stolen bike reported
+5473,2024-01-20 16:00,1676,theft,1708,Electrical fire in bedroom
+5474,2024-01-20 17:00,23643,theft,1852,Fire damage in kitchen
+5475,2024-01-20 18:00,3213,theft,1075,Water leak from roof
+5476,2024-01-20 19:00,5756,theft,1482,Fire damage in kitchen
+5477,2024-01-20 20:00,71,flood,1490,Fire damage in kitchen
+5478,2024-01-20 21:00,5126,collision,1079,Fire damage in kitchen
+5479,2024-01-20 22:00,739,collision,1335,Basement flooded after storm
+5480,2024-01-20 23:00,2671,liability,1468,Minor collision on street
+5481,2024-01-21 00:00,2121,flood,1323,Basement flooded after storm
+5482,2024-01-21 01:00,1044,collision,1609,Water leak from roof
+5483,2024-01-21 02:00,2588,fire,1170,Water leak from roof
+5484,2024-01-21 03:00,16307,collision,1530,Basement flooded after storm
+5485,2024-01-21 04:00,8902,collision,1963,Minor collision on street
+5486,2024-01-21 05:00,14263,liability,1207,Minor collision on street
+5487,2024-01-21 06:00,458,theft,1322,Basement flooded after storm
+5488,2024-01-21 07:00,2791,collision,1278,Fire damage in kitchen
+5489,2024-01-21 08:00,2489,collision,1800,Basement flooded after storm
+5490,2024-01-21 09:00,847,liability,1797,Minor collision on street
+5491,2024-01-21 10:00,12227,theft,1628,Fire damage in kitchen
+5492,2024-01-21 11:00,232,fire,1021,Water leak from roof
+5493,2024-01-21 12:00,1345,collision,1471,Basement flooded after storm
+5494,2024-01-21 13:00,4118,flood,1507,Water leak from roof
+5495,2024-01-21 14:00,18616,collision,1562,Minor collision on street
+5496,2024-01-21 15:00,103,theft,1455,Electrical fire in bedroom
+5497,2024-01-21 16:00,8634,flood,1564,Minor collision on street
+5498,2024-01-21 17:00,2050,collision,1248,Electrical fire in bedroom
+5499,2024-01-21 18:00,4958,fire,1705,Water leak from roof
+5500,2024-01-21 19:00,520,flood,1051,Basement flooded after storm
+5501,2024-01-21 20:00,6026,flood,1718,Basement flooded after storm
+5502,2024-01-21 21:00,2571,fire,1132,Stolen bike reported
+5503,2024-01-21 22:00,4901,theft,1437,Fire damage in kitchen
+5504,2024-01-21 23:00,9838,theft,1490,Basement flooded after storm
+5505,2024-01-22 00:00,18650,flood,1129,Water leak from roof
+5506,2024-01-22 01:00,5856,fire,1489,Minor collision on street
+5507,2024-01-22 02:00,429,liability,1785,Injury due to slippery floor
+5508,2024-01-22 03:00,3244,theft,1522,Fire damage in kitchen
+5509,2024-01-22 04:00,1854,theft,1088,Injury due to slippery floor
+5510,2024-01-22 05:00,9036,collision,1205,Injury due to slippery floor
+5511,2024-01-22 06:00,9756,collision,1201,Injury due to slippery floor
+5512,2024-01-22 07:00,5489,collision,1473,Fire damage in kitchen
+5513,2024-01-22 08:00,3674,theft,1826,Injury due to slippery floor
+5514,2024-01-22 09:00,1006,fire,1790,Water leak from roof
+5515,2024-01-22 10:00,2526,theft,1985,Fire damage in kitchen
+5516,2024-01-22 11:00,4170,flood,1352,Fire damage in kitchen
+5517,2024-01-22 12:00,5027,liability,1916,Car vandalism report
+5518,2024-01-22 13:00,214,liability,1928,Minor collision on street
+5519,2024-01-22 14:00,6422,liability,1920,Minor collision on street
+5520,2024-01-22 15:00,2116,liability,1253,Injury due to slippery floor
+5521,2024-01-22 16:00,5432,flood,1990,Minor collision on street
+5522,2024-01-22 17:00,5616,flood,1802,Water leak from roof
+5523,2024-01-22 18:00,3890,collision,1042,Car vandalism report
+5524,2024-01-22 19:00,6534,fire,1719,Minor collision on street
+5525,2024-01-22 20:00,5403,theft,1837,Basement flooded after storm
+5526,2024-01-22 21:00,10544,collision,1833,Stolen bike reported
+5527,2024-01-22 22:00,2437,flood,1095,Car vandalism report
+5528,2024-01-22 23:00,1996,theft,1961,Injury due to slippery floor
+5529,2024-01-23 00:00,2035,flood,1104,Fire damage in kitchen
+5530,2024-01-23 01:00,3610,theft,1422,Electrical fire in bedroom
+5531,2024-01-23 02:00,14150,flood,1056,Electrical fire in bedroom
+5532,2024-01-23 03:00,1396,liability,1943,Fire damage in kitchen
+5533,2024-01-23 04:00,21095,flood,1306,Fire damage in kitchen
+5534,2024-01-23 05:00,933,collision,1702,Electrical fire in bedroom
+5535,2024-01-23 06:00,4235,collision,1571,Injury due to slippery floor
+5536,2024-01-23 07:00,4930,liability,1251,Fire damage in kitchen
+5537,2024-01-23 08:00,675,flood,1326,Basement flooded after storm
+5538,2024-01-23 09:00,904,theft,1363,Stolen bike reported
+5539,2024-01-23 10:00,5602,flood,1129,Injury due to slippery floor
+5540,2024-01-23 11:00,8694,collision,1523,Basement flooded after storm
+5541,2024-01-23 12:00,1787,liability,1810,Fire damage in kitchen
+5542,2024-01-23 13:00,306,theft,1292,Water leak from roof
+5543,2024-01-23 14:00,1439,fire,1573,Fire damage in kitchen
+5544,2024-01-23 15:00,2113,flood,1597,Water leak from roof
+5545,2024-01-23 16:00,1921,theft,1507,Basement flooded after storm
+5546,2024-01-23 17:00,721,collision,1086,Fire damage in kitchen
+5547,2024-01-23 18:00,11883,theft,1354,Minor collision on street
+5548,2024-01-23 19:00,42,theft,1799,Car vandalism report
+5549,2024-01-23 20:00,6762,theft,1698,Basement flooded after storm
+5550,2024-01-23 21:00,6545,theft,1888,Water leak from roof
+5551,2024-01-23 22:00,1702,theft,1325,Water leak from roof
+5552,2024-01-23 23:00,627,fire,1188,Electrical fire in bedroom
+5553,2024-01-24 00:00,3090,liability,1410,Water leak from roof
+5554,2024-01-24 01:00,558,theft,1728,Electrical fire in bedroom
+5555,2024-01-24 02:00,91,collision,1768,Car vandalism report
+5556,2024-01-24 03:00,19963,fire,1006,Water leak from roof
+5557,2024-01-24 04:00,107,liability,1649,Car vandalism report
+5558,2024-01-24 05:00,97,fire,1387,Injury due to slippery floor
+5559,2024-01-24 06:00,589,flood,1337,Water leak from roof
+5560,2024-01-24 07:00,7288,fire,1967,Stolen bike reported
+5561,2024-01-24 08:00,11816,theft,1717,Injury due to slippery floor
+5562,2024-01-24 09:00,12087,theft,1173,Water leak from roof
+5563,2024-01-24 10:00,380,flood,1459,Minor collision on street
+5564,2024-01-24 11:00,5460,flood,1125,Electrical fire in bedroom
+5565,2024-01-24 12:00,4823,flood,1503,Basement flooded after storm
+5566,2024-01-24 13:00,9906,flood,1447,Minor collision on street
+5567,2024-01-24 14:00,8504,liability,1825,Stolen bike reported
+5568,2024-01-24 15:00,3030,fire,1509,Water leak from roof
+5569,2024-01-24 16:00,3955,theft,1270,Stolen bike reported
+5570,2024-01-24 17:00,1885,liability,1171,Water leak from roof
+5571,2024-01-24 18:00,5749,collision,1722,Car vandalism report
+5572,2024-01-24 19:00,6219,flood,1846,Water leak from roof
+5573,2024-01-24 20:00,3931,collision,1178,Basement flooded after storm
+5574,2024-01-24 21:00,15501,flood,1693,Basement flooded after storm
+5575,2024-01-24 22:00,7099,liability,1415,Water leak from roof
+5576,2024-01-24 23:00,8839,collision,1332,Car vandalism report
+5577,2024-01-25 00:00,2193,fire,1715,Stolen bike reported
+5578,2024-01-25 01:00,7381,flood,1242,Water leak from roof
+5579,2024-01-25 02:00,1761,theft,1297,Stolen bike reported
+5580,2024-01-25 03:00,23319,flood,1783,Water leak from roof
+5581,2024-01-25 04:00,2268,fire,1751,Water leak from roof
+5582,2024-01-25 05:00,7818,collision,1037,Injury due to slippery floor
+5583,2024-01-25 06:00,62,collision,1746,Basement flooded after storm
+5584,2024-01-25 07:00,1256,fire,1966,Basement flooded after storm
+5585,2024-01-25 08:00,219,theft,1167,Water leak from roof
+5586,2024-01-25 09:00,2133,flood,1273,Electrical fire in bedroom
+5587,2024-01-25 10:00,1731,fire,1714,Electrical fire in bedroom
+5588,2024-01-25 11:00,344,liability,1951,Stolen bike reported
+5589,2024-01-25 12:00,4131,flood,1644,Fire damage in kitchen
+5590,2024-01-25 13:00,1120,collision,1496,Water leak from roof
+5591,2024-01-25 14:00,13741,fire,1707,Fire damage in kitchen
+5592,2024-01-25 15:00,11003,liability,1808,Stolen bike reported
+5593,2024-01-25 16:00,10573,collision,1719,Car vandalism report
+5594,2024-01-25 17:00,3942,flood,1092,Electrical fire in bedroom
+5595,2024-01-25 18:00,13932,liability,1530,Water leak from roof
+5596,2024-01-25 19:00,1607,fire,1753,Fire damage in kitchen
+5597,2024-01-25 20:00,2117,theft,1775,Fire damage in kitchen
+5598,2024-01-25 21:00,2437,fire,1283,Electrical fire in bedroom
+5599,2024-01-25 22:00,12542,fire,1838,Basement flooded after storm
+5600,2024-01-25 23:00,1854,liability,1355,Stolen bike reported
+5601,2024-01-26 00:00,3860,fire,1196,Water leak from roof
+5602,2024-01-26 01:00,4963,theft,1238,Basement flooded after storm
+5603,2024-01-26 02:00,3774,theft,1945,Basement flooded after storm
+5604,2024-01-26 03:00,7429,collision,1919,Car vandalism report
+5605,2024-01-26 04:00,2827,flood,1740,Car vandalism report
+5606,2024-01-26 05:00,5798,fire,1675,Electrical fire in bedroom
+5607,2024-01-26 06:00,8399,fire,1577,Fire damage in kitchen
+5608,2024-01-26 07:00,14952,theft,1627,Fire damage in kitchen
+5609,2024-01-26 08:00,1784,fire,1819,Water leak from roof
+5610,2024-01-26 09:00,646,liability,1443,Minor collision on street
+5611,2024-01-26 10:00,36903,liability,1941,Water leak from roof
+5612,2024-01-26 11:00,4114,liability,1124,Basement flooded after storm
+5613,2024-01-26 12:00,22588,collision,1654,Basement flooded after storm
+5614,2024-01-26 13:00,16942,theft,1682,Fire damage in kitchen
+5615,2024-01-26 14:00,3326,theft,1632,Injury due to slippery floor
+5616,2024-01-26 15:00,2944,theft,1958,Electrical fire in bedroom
+5617,2024-01-26 16:00,3519,liability,1331,Car vandalism report
+5618,2024-01-26 17:00,3946,fire,1146,Stolen bike reported
+5619,2024-01-26 18:00,5925,theft,1227,Minor collision on street
+5620,2024-01-26 19:00,1830,collision,1804,Minor collision on street
+5621,2024-01-26 20:00,25651,theft,1338,Injury due to slippery floor
+5622,2024-01-26 21:00,254,flood,1559,Fire damage in kitchen
+5623,2024-01-26 22:00,818,flood,1590,Water leak from roof
+5624,2024-01-26 23:00,5851,liability,1139,Car vandalism report
+5625,2024-01-27 00:00,12374,collision,1815,Injury due to slippery floor
+5626,2024-01-27 01:00,29448,theft,1859,Water leak from roof
+5627,2024-01-27 02:00,4116,fire,1214,Stolen bike reported
+5628,2024-01-27 03:00,13854,theft,1291,Electrical fire in bedroom
+5629,2024-01-27 04:00,7228,fire,1106,Electrical fire in bedroom
+5630,2024-01-27 05:00,1322,fire,1731,Minor collision on street
+5631,2024-01-27 06:00,15531,theft,1324,Basement flooded after storm
+5632,2024-01-27 07:00,570,collision,1024,Basement flooded after storm
+5633,2024-01-27 08:00,3272,liability,1631,Injury due to slippery floor
+5634,2024-01-27 09:00,9622,flood,1812,Basement flooded after storm
+5635,2024-01-27 10:00,6427,theft,1283,Injury due to slippery floor
+5636,2024-01-27 11:00,13635,fire,1531,Basement flooded after storm
+5637,2024-01-27 12:00,1214,collision,1280,Water leak from roof
+5638,2024-01-27 13:00,5231,theft,1267,Car vandalism report
+5639,2024-01-27 14:00,2641,flood,1759,Injury due to slippery floor
+5640,2024-01-27 15:00,2348,flood,1916,Electrical fire in bedroom
+5641,2024-01-27 16:00,3023,theft,1075,Car vandalism report
+5642,2024-01-27 17:00,22391,liability,1460,Minor collision on street
+5643,2024-01-27 18:00,10370,fire,1891,Injury due to slippery floor
+5644,2024-01-27 19:00,3620,theft,1357,Minor collision on street
+5645,2024-01-27 20:00,3189,liability,1892,Minor collision on street
+5646,2024-01-27 21:00,5079,theft,1474,Electrical fire in bedroom
+5647,2024-01-27 22:00,3790,theft,1599,Electrical fire in bedroom
+5648,2024-01-27 23:00,2624,liability,1243,Basement flooded after storm
+5649,2024-01-28 00:00,11338,collision,1465,Injury due to slippery floor
+5650,2024-01-28 01:00,8675,flood,1990,Injury due to slippery floor
+5651,2024-01-28 02:00,2532,liability,1400,Car vandalism report
+5652,2024-01-28 03:00,3926,liability,1339,Minor collision on street
+5653,2024-01-28 04:00,3451,liability,1061,Electrical fire in bedroom
+5654,2024-01-28 05:00,6646,fire,1524,Stolen bike reported
+5655,2024-01-28 06:00,4507,liability,1204,Fire damage in kitchen
+5656,2024-01-28 07:00,24570,fire,1358,Electrical fire in bedroom
+5657,2024-01-28 08:00,11027,fire,1576,Car vandalism report
+5658,2024-01-28 09:00,3053,fire,1386,Water leak from roof
+5659,2024-01-28 10:00,2556,fire,1303,Stolen bike reported
+5660,2024-01-28 11:00,6154,fire,1853,Electrical fire in bedroom
+5661,2024-01-28 12:00,3913,flood,1427,Electrical fire in bedroom
+5662,2024-01-28 13:00,3252,flood,1101,Basement flooded after storm
+5663,2024-01-28 14:00,9643,fire,1963,Fire damage in kitchen
+5664,2024-01-28 15:00,12242,liability,1473,Electrical fire in bedroom
+5665,2024-01-28 16:00,10797,flood,1863,Electrical fire in bedroom
+5666,2024-01-28 17:00,5585,theft,1649,Car vandalism report
+5667,2024-01-28 18:00,2631,theft,1055,Water leak from roof
+5668,2024-01-28 19:00,10850,fire,1779,Basement flooded after storm
+5669,2024-01-28 20:00,2789,collision,1595,Minor collision on street
+5670,2024-01-28 21:00,1867,collision,1863,Water leak from roof
+5671,2024-01-28 22:00,2510,flood,1574,Injury due to slippery floor
+5672,2024-01-28 23:00,8669,theft,1976,Stolen bike reported
+5673,2024-01-29 00:00,21381,collision,1783,Stolen bike reported
+5674,2024-01-29 01:00,599,flood,1624,Stolen bike reported
+5675,2024-01-29 02:00,6547,flood,1748,Stolen bike reported
+5676,2024-01-29 03:00,8986,flood,1305,Water leak from roof
+5677,2024-01-29 04:00,4149,theft,1021,Electrical fire in bedroom
+5678,2024-01-29 05:00,6351,fire,1755,Stolen bike reported
+5679,2024-01-29 06:00,4531,fire,1561,Injury due to slippery floor
+5680,2024-01-29 07:00,3755,liability,1359,Electrical fire in bedroom
+5681,2024-01-29 08:00,116,liability,1064,Electrical fire in bedroom
+5682,2024-01-29 09:00,5960,collision,1645,Basement flooded after storm
+5683,2024-01-29 10:00,3392,flood,1365,Basement flooded after storm
+5684,2024-01-29 11:00,9106,liability,1082,Electrical fire in bedroom
+5685,2024-01-29 12:00,2930,collision,1670,Water leak from roof
+5686,2024-01-29 13:00,1008,flood,1318,Fire damage in kitchen
+5687,2024-01-29 14:00,1743,collision,1733,Minor collision on street
+5688,2024-01-29 15:00,12066,theft,1049,Electrical fire in bedroom
+5689,2024-01-29 16:00,3261,theft,1444,Electrical fire in bedroom
+5690,2024-01-29 17:00,6319,theft,1281,Minor collision on street
+5691,2024-01-29 18:00,1877,flood,1367,Injury due to slippery floor
+5692,2024-01-29 19:00,2761,theft,1403,Stolen bike reported
+5693,2024-01-29 20:00,4963,theft,1675,Fire damage in kitchen
+5694,2024-01-29 21:00,5054,theft,1834,Injury due to slippery floor
+5695,2024-01-29 22:00,723,flood,1776,Stolen bike reported
+5696,2024-01-29 23:00,524,fire,1314,Fire damage in kitchen
+5697,2024-01-30 00:00,771,theft,1444,Minor collision on street
+5698,2024-01-30 01:00,2781,flood,1752,Electrical fire in bedroom
+5699,2024-01-30 02:00,5249,collision,1402,Stolen bike reported
+5700,2024-01-30 03:00,3040,liability,1116,Minor collision on street
+5701,2024-01-30 04:00,9441,fire,1530,Basement flooded after storm
+5702,2024-01-30 05:00,9206,theft,1794,Electrical fire in bedroom
+5703,2024-01-30 06:00,10233,liability,1484,Injury due to slippery floor
+5704,2024-01-30 07:00,3070,liability,1853,Fire damage in kitchen
+5705,2024-01-30 08:00,988,collision,1160,Car vandalism report
+5706,2024-01-30 09:00,4245,collision,1906,Injury due to slippery floor
+5707,2024-01-30 10:00,5648,collision,1108,Fire damage in kitchen
+5708,2024-01-30 11:00,749,theft,1731,Fire damage in kitchen
+5709,2024-01-30 12:00,5548,collision,1073,Water leak from roof
+5710,2024-01-30 13:00,1566,collision,1551,Minor collision on street
+5711,2024-01-30 14:00,2411,fire,1207,Basement flooded after storm
+5712,2024-01-30 15:00,1085,fire,1921,Basement flooded after storm
+5713,2024-01-30 16:00,1831,collision,1390,Stolen bike reported
+5714,2024-01-30 17:00,737,theft,1909,Electrical fire in bedroom
+5715,2024-01-30 18:00,1509,flood,1260,Minor collision on street
+5716,2024-01-30 19:00,5617,theft,1129,Water leak from roof
+5717,2024-01-30 20:00,1769,fire,1352,Electrical fire in bedroom
+5718,2024-01-30 21:00,2880,collision,1368,Car vandalism report
+5719,2024-01-30 22:00,1202,flood,1187,Minor collision on street
+5720,2024-01-30 23:00,2451,flood,1808,Electrical fire in bedroom
+5721,2024-01-31 00:00,18590,fire,1688,Injury due to slippery floor
+5722,2024-01-31 01:00,6021,collision,1214,Stolen bike reported
+5723,2024-01-31 02:00,3636,liability,1409,Car vandalism report
+5724,2024-01-31 03:00,6812,collision,1861,Injury due to slippery floor
+5725,2024-01-31 04:00,2924,liability,1360,Basement flooded after storm
+5726,2024-01-31 05:00,8881,collision,1890,Water leak from roof
+5727,2024-01-31 06:00,8802,fire,1633,Basement flooded after storm
+5728,2024-01-31 07:00,1345,theft,1416,Injury due to slippery floor
+5729,2024-01-31 08:00,7428,collision,1004,Minor collision on street
+5730,2024-01-31 09:00,7131,theft,1450,Car vandalism report
+5731,2024-01-31 10:00,5913,collision,1741,Basement flooded after storm
+5732,2024-01-31 11:00,17777,flood,1943,Stolen bike reported
+5733,2024-01-31 12:00,3503,fire,1157,Injury due to slippery floor
+5734,2024-01-31 13:00,7367,flood,1899,Car vandalism report
+5735,2024-01-31 14:00,1941,collision,1421,Water leak from roof
+5736,2024-01-31 15:00,1349,theft,1003,Water leak from roof
+5737,2024-01-31 16:00,2725,fire,1635,Basement flooded after storm
+5738,2024-01-31 17:00,1677,flood,1008,Car vandalism report
+5739,2024-01-31 18:00,3091,theft,1784,Injury due to slippery floor
+5740,2024-01-31 19:00,5417,theft,1695,Minor collision on street
+5741,2024-01-31 20:00,3231,liability,1017,Car vandalism report
+5742,2024-01-31 21:00,5402,theft,1147,Water leak from roof
+5743,2024-01-31 22:00,3561,fire,1693,Stolen bike reported
+5744,2024-01-31 23:00,4407,fire,1881,Electrical fire in bedroom
+5745,2024-02-01 00:00,3302,liability,1039,Injury due to slippery floor
+5746,2024-02-01 01:00,7046,collision,1360,Water leak from roof
+5747,2024-02-01 02:00,2099,fire,1549,Injury due to slippery floor
+5748,2024-02-01 03:00,17992,theft,1097,Electrical fire in bedroom
+5749,2024-02-01 04:00,8558,collision,1365,Injury due to slippery floor
+5750,2024-02-01 05:00,3491,fire,1963,Injury due to slippery floor
+5751,2024-02-01 06:00,3908,theft,1019,Basement flooded after storm
+5752,2024-02-01 07:00,12448,flood,1111,Electrical fire in bedroom
+5753,2024-02-01 08:00,10922,collision,1524,Electrical fire in bedroom
+5754,2024-02-01 09:00,6610,theft,1243,Basement flooded after storm
+5755,2024-02-01 10:00,694,collision,1638,Water leak from roof
+5756,2024-02-01 11:00,32501,flood,1207,Water leak from roof
+5757,2024-02-01 12:00,12832,fire,1528,Electrical fire in bedroom
+5758,2024-02-01 13:00,2716,fire,1626,Basement flooded after storm
+5759,2024-02-01 14:00,2409,flood,1730,Basement flooded after storm
+5760,2024-02-01 15:00,9655,theft,1687,Car vandalism report
+5761,2024-02-01 16:00,358,flood,1840,Water leak from roof
+5762,2024-02-01 17:00,22575,liability,1691,Injury due to slippery floor
+5763,2024-02-01 18:00,7736,fire,1174,Basement flooded after storm
+5764,2024-02-01 19:00,141,flood,1570,Basement flooded after storm
+5765,2024-02-01 20:00,5457,flood,1206,Water leak from roof
+5766,2024-02-01 21:00,1097,fire,1548,Water leak from roof
+5767,2024-02-01 22:00,19525,flood,1483,Water leak from roof
+5768,2024-02-01 23:00,12504,fire,1596,Minor collision on street
+5769,2024-02-02 00:00,6643,theft,1649,Electrical fire in bedroom
+5770,2024-02-02 01:00,965,liability,1935,Minor collision on street
+5771,2024-02-02 02:00,1592,fire,1910,Basement flooded after storm
+5772,2024-02-02 03:00,256,liability,1850,Electrical fire in bedroom
+5773,2024-02-02 04:00,12029,liability,1240,Injury due to slippery floor
+5774,2024-02-02 05:00,3055,fire,1931,Injury due to slippery floor
+5775,2024-02-02 06:00,5822,flood,1226,Basement flooded after storm
+5776,2024-02-02 07:00,4823,flood,1213,Water leak from roof
+5777,2024-02-02 08:00,879,theft,1914,Basement flooded after storm
+5778,2024-02-02 09:00,289,collision,1353,Water leak from roof
+5779,2024-02-02 10:00,5838,flood,1105,Fire damage in kitchen
+5780,2024-02-02 11:00,9287,theft,1706,Fire damage in kitchen
+5781,2024-02-02 12:00,1332,theft,1025,Stolen bike reported
+5782,2024-02-02 13:00,2307,liability,1608,Injury due to slippery floor
+5783,2024-02-02 14:00,9022,flood,1815,Injury due to slippery floor
+5784,2024-02-02 15:00,5674,theft,1813,Electrical fire in bedroom
+5785,2024-02-02 16:00,3495,flood,1793,Electrical fire in bedroom
+5786,2024-02-02 17:00,14005,flood,1814,Electrical fire in bedroom
+5787,2024-02-02 18:00,9563,fire,1930,Injury due to slippery floor
+5788,2024-02-02 19:00,2660,theft,1263,Electrical fire in bedroom
+5789,2024-02-02 20:00,1982,fire,1445,Fire damage in kitchen
+5790,2024-02-02 21:00,4554,fire,1320,Electrical fire in bedroom
+5791,2024-02-02 22:00,3425,fire,1568,Minor collision on street
+5792,2024-02-02 23:00,4729,fire,1431,Car vandalism report
+5793,2024-02-03 00:00,1002,theft,1774,Minor collision on street
+5794,2024-02-03 01:00,273,flood,1598,Electrical fire in bedroom
+5795,2024-02-03 02:00,13187,theft,1025,Basement flooded after storm
+5796,2024-02-03 03:00,18900,flood,1425,Water leak from roof
+5797,2024-02-03 04:00,2220,fire,1502,Water leak from roof
+5798,2024-02-03 05:00,867,theft,1254,Car vandalism report
+5799,2024-02-03 06:00,1482,liability,1133,Basement flooded after storm
+5800,2024-02-03 07:00,10181,fire,1890,Stolen bike reported
+5801,2024-02-03 08:00,8224,theft,1490,Fire damage in kitchen
+5802,2024-02-03 09:00,348,liability,1249,Electrical fire in bedroom
+5803,2024-02-03 10:00,3927,theft,1050,Water leak from roof
+5804,2024-02-03 11:00,352,collision,1654,Basement flooded after storm
+5805,2024-02-03 12:00,208,liability,1536,Electrical fire in bedroom
+5806,2024-02-03 13:00,10482,collision,1866,Minor collision on street
+5807,2024-02-03 14:00,702,fire,1605,Water leak from roof
+5808,2024-02-03 15:00,274,collision,1826,Electrical fire in bedroom
+5809,2024-02-03 16:00,3093,theft,1815,Fire damage in kitchen
+5810,2024-02-03 17:00,10823,liability,1679,Injury due to slippery floor
+5811,2024-02-03 18:00,12288,fire,1630,Minor collision on street
+5812,2024-02-03 19:00,1073,collision,1261,Injury due to slippery floor
+5813,2024-02-03 20:00,4407,theft,1804,Stolen bike reported
+5814,2024-02-03 21:00,6438,liability,1040,Minor collision on street
+5815,2024-02-03 22:00,1395,liability,1295,Electrical fire in bedroom
+5816,2024-02-03 23:00,1041,liability,1661,Injury due to slippery floor
+5817,2024-02-04 00:00,9173,theft,1233,Electrical fire in bedroom
+5818,2024-02-04 01:00,1470,liability,1329,Minor collision on street
+5819,2024-02-04 02:00,1819,theft,1204,Minor collision on street
+5820,2024-02-04 03:00,474,fire,1077,Fire damage in kitchen
+5821,2024-02-04 04:00,6948,collision,1173,Stolen bike reported
+5822,2024-02-04 05:00,3428,collision,1744,Electrical fire in bedroom
+5823,2024-02-04 06:00,3764,collision,1471,Car vandalism report
+5824,2024-02-04 07:00,2209,liability,1937,Electrical fire in bedroom
+5825,2024-02-04 08:00,12130,liability,1619,Electrical fire in bedroom
+5826,2024-02-04 09:00,793,fire,1611,Fire damage in kitchen
+5827,2024-02-04 10:00,9616,collision,1713,Water leak from roof
+5828,2024-02-04 11:00,11870,collision,1221,Basement flooded after storm
+5829,2024-02-04 12:00,16150,theft,1494,Minor collision on street
+5830,2024-02-04 13:00,4449,theft,1357,Injury due to slippery floor
+5831,2024-02-04 14:00,1329,collision,1409,Electrical fire in bedroom
+5832,2024-02-04 15:00,12861,theft,1025,Electrical fire in bedroom
+5833,2024-02-04 16:00,5726,flood,1584,Car vandalism report
+5834,2024-02-04 17:00,957,collision,1237,Electrical fire in bedroom
+5835,2024-02-04 18:00,2901,collision,1413,Minor collision on street
+5836,2024-02-04 19:00,3447,fire,1032,Water leak from roof
+5837,2024-02-04 20:00,3036,flood,1926,Basement flooded after storm
+5838,2024-02-04 21:00,12471,collision,1077,Electrical fire in bedroom
+5839,2024-02-04 22:00,2366,flood,1918,Car vandalism report
+5840,2024-02-04 23:00,418,theft,1417,Fire damage in kitchen
+5841,2024-02-05 00:00,20665,collision,1130,Basement flooded after storm
+5842,2024-02-05 01:00,135,flood,1357,Electrical fire in bedroom
+5843,2024-02-05 02:00,337,fire,1122,Fire damage in kitchen
+5844,2024-02-05 03:00,2207,collision,1083,Stolen bike reported
+5845,2024-02-05 04:00,5688,fire,1581,Electrical fire in bedroom
+5846,2024-02-05 05:00,59024,fire,1057,Stolen bike reported
+5847,2024-02-05 06:00,13159,flood,1308,Minor collision on street
+5848,2024-02-05 07:00,1367,theft,1587,Electrical fire in bedroom
+5849,2024-02-05 08:00,17994,fire,1325,Water leak from roof
+5850,2024-02-05 09:00,2957,theft,1260,Car vandalism report
+5851,2024-02-05 10:00,4531,collision,1131,Minor collision on street
+5852,2024-02-05 11:00,5141,flood,1547,Stolen bike reported
+5853,2024-02-05 12:00,5579,liability,1131,Stolen bike reported
+5854,2024-02-05 13:00,19032,fire,1315,Stolen bike reported
+5855,2024-02-05 14:00,12192,collision,1766,Car vandalism report
+5856,2024-02-05 15:00,6766,liability,1323,Minor collision on street
+5857,2024-02-05 16:00,9948,liability,1250,Injury due to slippery floor
+5858,2024-02-05 17:00,5798,theft,1028,Basement flooded after storm
+5859,2024-02-05 18:00,2283,liability,1606,Water leak from roof
+5860,2024-02-05 19:00,51,flood,1565,Injury due to slippery floor
+5861,2024-02-05 20:00,3454,collision,1111,Car vandalism report
+5862,2024-02-05 21:00,11852,collision,1127,Fire damage in kitchen
+5863,2024-02-05 22:00,545,liability,1008,Minor collision on street
+5864,2024-02-05 23:00,662,collision,1128,Stolen bike reported
+5865,2024-02-06 00:00,10521,theft,1575,Minor collision on street
+5866,2024-02-06 01:00,1328,theft,1766,Fire damage in kitchen
+5867,2024-02-06 02:00,5,fire,1240,Electrical fire in bedroom
+5868,2024-02-06 03:00,2528,fire,1887,Injury due to slippery floor
+5869,2024-02-06 04:00,3078,flood,1138,Stolen bike reported
+5870,2024-02-06 05:00,6381,collision,1618,Injury due to slippery floor
+5871,2024-02-06 06:00,3588,fire,1025,Car vandalism report
+5872,2024-02-06 07:00,21338,fire,1941,Injury due to slippery floor
+5873,2024-02-06 08:00,572,collision,1048,Car vandalism report
+5874,2024-02-06 09:00,1547,fire,1253,Minor collision on street
+5875,2024-02-06 10:00,5711,flood,1353,Basement flooded after storm
+5876,2024-02-06 11:00,6568,liability,1325,Fire damage in kitchen
+5877,2024-02-06 12:00,347,fire,1555,Minor collision on street
+5878,2024-02-06 13:00,6164,flood,1298,Minor collision on street
+5879,2024-02-06 14:00,6158,theft,1704,Minor collision on street
+5880,2024-02-06 15:00,11894,collision,1536,Minor collision on street
+5881,2024-02-06 16:00,7394,fire,1381,Car vandalism report
+5882,2024-02-06 17:00,19071,collision,1107,Water leak from roof
+5883,2024-02-06 18:00,1213,collision,1593,Basement flooded after storm
+5884,2024-02-06 19:00,1106,theft,1555,Basement flooded after storm
+5885,2024-02-06 20:00,1772,flood,1375,Minor collision on street
+5886,2024-02-06 21:00,4656,flood,1669,Fire damage in kitchen
+5887,2024-02-06 22:00,421,theft,1181,Electrical fire in bedroom
+5888,2024-02-06 23:00,1916,flood,1034,Injury due to slippery floor
+5889,2024-02-07 00:00,10250,flood,1500,Minor collision on street
+5890,2024-02-07 01:00,1686,collision,1767,Water leak from roof
+5891,2024-02-07 02:00,5945,fire,1724,Car vandalism report
+5892,2024-02-07 03:00,585,theft,1728,Injury due to slippery floor
+5893,2024-02-07 04:00,1119,collision,1172,Car vandalism report
+5894,2024-02-07 05:00,1147,liability,1022,Stolen bike reported
+5895,2024-02-07 06:00,13989,collision,1676,Stolen bike reported
+5896,2024-02-07 07:00,116,theft,1675,Car vandalism report
+5897,2024-02-07 08:00,4921,fire,1946,Fire damage in kitchen
+5898,2024-02-07 09:00,4037,flood,1965,Basement flooded after storm
+5899,2024-02-07 10:00,523,fire,1882,Fire damage in kitchen
+5900,2024-02-07 11:00,4811,liability,1814,Stolen bike reported
+5901,2024-02-07 12:00,838,flood,1361,Basement flooded after storm
+5902,2024-02-07 13:00,99,theft,1365,Car vandalism report
+5903,2024-02-07 14:00,3037,liability,1074,Fire damage in kitchen
+5904,2024-02-07 15:00,2950,theft,1914,Water leak from roof
+5905,2024-02-07 16:00,2471,collision,1195,Injury due to slippery floor
+5906,2024-02-07 17:00,1103,liability,1865,Water leak from roof
+5907,2024-02-07 18:00,7090,liability,1292,Electrical fire in bedroom
+5908,2024-02-07 19:00,19622,theft,1052,Injury due to slippery floor
+5909,2024-02-07 20:00,12177,liability,1437,Basement flooded after storm
+5910,2024-02-07 21:00,3371,liability,1203,Car vandalism report
+5911,2024-02-07 22:00,9106,fire,1124,Minor collision on street
+5912,2024-02-07 23:00,914,theft,1821,Basement flooded after storm
+5913,2024-02-08 00:00,18648,liability,1973,Water leak from roof
+5914,2024-02-08 01:00,3890,theft,1473,Electrical fire in bedroom
+5915,2024-02-08 02:00,4514,fire,1727,Basement flooded after storm
+5916,2024-02-08 03:00,20640,flood,1565,Car vandalism report
+5917,2024-02-08 04:00,7010,fire,1360,Electrical fire in bedroom
+5918,2024-02-08 05:00,4042,flood,1617,Minor collision on street
+5919,2024-02-08 06:00,919,flood,1976,Minor collision on street
+5920,2024-02-08 07:00,4579,theft,1295,Stolen bike reported
+5921,2024-02-08 08:00,312,flood,1285,Basement flooded after storm
+5922,2024-02-08 09:00,13393,fire,1165,Injury due to slippery floor
+5923,2024-02-08 10:00,8267,liability,1312,Minor collision on street
+5924,2024-02-08 11:00,149,theft,1574,Water leak from roof
+5925,2024-02-08 12:00,2011,fire,1023,Basement flooded after storm
+5926,2024-02-08 13:00,3321,theft,1296,Stolen bike reported
+5927,2024-02-08 14:00,22242,collision,1575,Car vandalism report
+5928,2024-02-08 15:00,136,liability,1550,Water leak from roof
+5929,2024-02-08 16:00,1807,theft,1240,Minor collision on street
+5930,2024-02-08 17:00,3006,collision,1981,Stolen bike reported
+5931,2024-02-08 18:00,10280,liability,1762,Fire damage in kitchen
+5932,2024-02-08 19:00,28223,fire,1545,Stolen bike reported
+5933,2024-02-08 20:00,5487,flood,1200,Minor collision on street
+5934,2024-02-08 21:00,4730,theft,1004,Injury due to slippery floor
+5935,2024-02-08 22:00,642,liability,1082,Water leak from roof
+5936,2024-02-08 23:00,6200,collision,1987,Stolen bike reported
+5937,2024-02-09 00:00,1731,theft,1671,Stolen bike reported
+5938,2024-02-09 01:00,2627,fire,1555,Minor collision on street
+5939,2024-02-09 02:00,3544,flood,1990,Minor collision on street
+5940,2024-02-09 03:00,1356,theft,1076,Minor collision on street
+5941,2024-02-09 04:00,2719,liability,1741,Basement flooded after storm
+5942,2024-02-09 05:00,11183,fire,1834,Injury due to slippery floor
+5943,2024-02-09 06:00,682,collision,1010,Car vandalism report
+5944,2024-02-09 07:00,16095,theft,1933,Fire damage in kitchen
+5945,2024-02-09 08:00,843,liability,1181,Stolen bike reported
+5946,2024-02-09 09:00,18013,fire,1215,Injury due to slippery floor
+5947,2024-02-09 10:00,4881,collision,1892,Stolen bike reported
+5948,2024-02-09 11:00,3612,liability,1646,Water leak from roof
+5949,2024-02-09 12:00,38,theft,1028,Fire damage in kitchen
+5950,2024-02-09 13:00,1886,collision,1471,Injury due to slippery floor
+5951,2024-02-09 14:00,4877,collision,1967,Car vandalism report
+5952,2024-02-09 15:00,2351,liability,1772,Stolen bike reported
+5953,2024-02-09 16:00,5118,flood,1490,Water leak from roof
+5954,2024-02-09 17:00,5771,collision,1195,Basement flooded after storm
+5955,2024-02-09 18:00,2591,collision,1749,Car vandalism report
+5956,2024-02-09 19:00,4922,flood,1751,Minor collision on street
+5957,2024-02-09 20:00,1768,liability,1244,Stolen bike reported
+5958,2024-02-09 21:00,9096,liability,1565,Water leak from roof
+5959,2024-02-09 22:00,1368,liability,1451,Fire damage in kitchen
+5960,2024-02-09 23:00,4110,fire,1411,Minor collision on street
+5961,2024-02-10 00:00,2450,flood,1026,Car vandalism report
+5962,2024-02-10 01:00,2118,collision,1487,Water leak from roof
+5963,2024-02-10 02:00,3380,flood,1261,Stolen bike reported
+5964,2024-02-10 03:00,6243,collision,1404,Car vandalism report
+5965,2024-02-10 04:00,3448,liability,1000,Basement flooded after storm
+5966,2024-02-10 05:00,3741,collision,1691,Stolen bike reported
+5967,2024-02-10 06:00,5033,liability,1990,Car vandalism report
+5968,2024-02-10 07:00,6879,fire,1216,Fire damage in kitchen
+5969,2024-02-10 08:00,3053,flood,1297,Fire damage in kitchen
+5970,2024-02-10 09:00,3896,theft,1379,Electrical fire in bedroom
+5971,2024-02-10 10:00,2235,theft,1485,Stolen bike reported
+5972,2024-02-10 11:00,1669,collision,1986,Electrical fire in bedroom
+5973,2024-02-10 12:00,9407,collision,1422,Minor collision on street
+5974,2024-02-10 13:00,18847,liability,1717,Electrical fire in bedroom
+5975,2024-02-10 14:00,3506,fire,1888,Car vandalism report
+5976,2024-02-10 15:00,5999,flood,1892,Fire damage in kitchen
+5977,2024-02-10 16:00,2147,fire,1352,Basement flooded after storm
+5978,2024-02-10 17:00,5149,fire,1760,Fire damage in kitchen
+5979,2024-02-10 18:00,19,flood,1909,Car vandalism report
+5980,2024-02-10 19:00,5034,fire,1614,Minor collision on street
+5981,2024-02-10 20:00,18924,flood,1310,Car vandalism report
+5982,2024-02-10 21:00,891,collision,1771,Electrical fire in bedroom
+5983,2024-02-10 22:00,11474,liability,1373,Car vandalism report
+5984,2024-02-10 23:00,2847,flood,1893,Injury due to slippery floor
+5985,2024-02-11 00:00,1726,collision,1748,Water leak from roof
+5986,2024-02-11 01:00,2972,flood,1393,Stolen bike reported
+5987,2024-02-11 02:00,221,theft,1128,Water leak from roof
+5988,2024-02-11 03:00,1394,collision,1358,Stolen bike reported
+5989,2024-02-11 04:00,8176,flood,1115,Minor collision on street
+5990,2024-02-11 05:00,10056,flood,1357,Car vandalism report
+5991,2024-02-11 06:00,11142,liability,1534,Water leak from roof
+5992,2024-02-11 07:00,5368,collision,1924,Basement flooded after storm
+5993,2024-02-11 08:00,9234,liability,1630,Car vandalism report
+5994,2024-02-11 09:00,933,flood,1471,Injury due to slippery floor
+5995,2024-02-11 10:00,3250,fire,1493,Electrical fire in bedroom
+5996,2024-02-11 11:00,985,flood,1015,Minor collision on street
+5997,2024-02-11 12:00,2557,fire,1848,Water leak from roof
+5998,2024-02-11 13:00,4216,theft,1620,Minor collision on street
+5999,2024-02-11 14:00,9857,liability,1881,Minor collision on street
+6000,2024-02-11 15:00,1634,theft,1226,Stolen bike reported
+6001,2024-02-11 16:00,8760,collision,1907,Electrical fire in bedroom
+6002,2024-02-11 17:00,16619,theft,1783,Water leak from roof
+6003,2024-02-11 18:00,3115,collision,1288,Injury due to slippery floor
+6004,2024-02-11 19:00,2035,theft,1565,Injury due to slippery floor
+6005,2024-02-11 20:00,24764,fire,1199,Car vandalism report
+6006,2024-02-11 21:00,154,fire,1383,Electrical fire in bedroom
+6007,2024-02-11 22:00,4786,theft,1423,Car vandalism report
+6008,2024-02-11 23:00,4180,liability,1132,Electrical fire in bedroom
+6009,2024-02-12 00:00,2336,fire,1527,Stolen bike reported
+6010,2024-02-12 01:00,10244,flood,1526,Basement flooded after storm
+6011,2024-02-12 02:00,3497,fire,1138,Fire damage in kitchen
+6012,2024-02-12 03:00,1691,flood,1045,Basement flooded after storm
+6013,2024-02-12 04:00,12224,theft,1448,Fire damage in kitchen
+6014,2024-02-12 05:00,4290,flood,1970,Fire damage in kitchen
+6015,2024-02-12 06:00,10628,fire,1405,Fire damage in kitchen
+6016,2024-02-12 07:00,2068,collision,1252,Injury due to slippery floor
+6017,2024-02-12 08:00,3305,fire,1963,Water leak from roof
+6018,2024-02-12 09:00,11557,collision,1807,Electrical fire in bedroom
+6019,2024-02-12 10:00,2347,fire,1037,Minor collision on street
+6020,2024-02-12 11:00,12499,flood,1225,Minor collision on street
+6021,2024-02-12 12:00,1487,liability,1233,Fire damage in kitchen
+6022,2024-02-12 13:00,4220,collision,1926,Water leak from roof
+6023,2024-02-12 14:00,14769,theft,1997,Car vandalism report
+6024,2024-02-12 15:00,4432,theft,1682,Electrical fire in bedroom
+6025,2024-02-12 16:00,2370,flood,1256,Water leak from roof
+6026,2024-02-12 17:00,15011,theft,1802,Electrical fire in bedroom
+6027,2024-02-12 18:00,13609,theft,1245,Basement flooded after storm
+6028,2024-02-12 19:00,659,fire,1141,Fire damage in kitchen
+6029,2024-02-12 20:00,2321,liability,1170,Basement flooded after storm
+6030,2024-02-12 21:00,9852,liability,1057,Electrical fire in bedroom
+6031,2024-02-12 22:00,1299,liability,1345,Water leak from roof
+6032,2024-02-12 23:00,3569,liability,1451,Water leak from roof
+6033,2024-02-13 00:00,1910,flood,1090,Electrical fire in bedroom
+6034,2024-02-13 01:00,11755,liability,1624,Water leak from roof
+6035,2024-02-13 02:00,9989,theft,1218,Fire damage in kitchen
+6036,2024-02-13 03:00,12572,liability,1049,Minor collision on street
+6037,2024-02-13 04:00,1999,theft,1505,Electrical fire in bedroom
+6038,2024-02-13 05:00,33475,theft,1350,Minor collision on street
+6039,2024-02-13 06:00,26623,theft,1751,Fire damage in kitchen
+6040,2024-02-13 07:00,4070,flood,1511,Fire damage in kitchen
+6041,2024-02-13 08:00,3586,flood,1287,Basement flooded after storm
+6042,2024-02-13 09:00,16013,fire,1542,Basement flooded after storm
+6043,2024-02-13 10:00,13161,liability,1482,Stolen bike reported
+6044,2024-02-13 11:00,33108,fire,1323,Basement flooded after storm
+6045,2024-02-13 12:00,17146,fire,1632,Car vandalism report
+6046,2024-02-13 13:00,1615,flood,1654,Injury due to slippery floor
+6047,2024-02-13 14:00,12184,fire,1711,Electrical fire in bedroom
+6048,2024-02-13 15:00,350,liability,1311,Electrical fire in bedroom
+6049,2024-02-13 16:00,6092,flood,1011,Electrical fire in bedroom
+6050,2024-02-13 17:00,16711,flood,1200,Minor collision on street
+6051,2024-02-13 18:00,16555,flood,1335,Fire damage in kitchen
+6052,2024-02-13 19:00,13140,fire,1871,Car vandalism report
+6053,2024-02-13 20:00,2361,theft,1799,Injury due to slippery floor
+6054,2024-02-13 21:00,14953,fire,1295,Water leak from roof
+6055,2024-02-13 22:00,6811,flood,1642,Stolen bike reported
+6056,2024-02-13 23:00,9525,collision,1413,Injury due to slippery floor
+6057,2024-02-14 00:00,3282,fire,1303,Electrical fire in bedroom
+6058,2024-02-14 01:00,577,collision,1085,Electrical fire in bedroom
+6059,2024-02-14 02:00,2314,collision,1640,Injury due to slippery floor
+6060,2024-02-14 03:00,3318,theft,1781,Injury due to slippery floor
+6061,2024-02-14 04:00,10082,liability,1984,Stolen bike reported
+6062,2024-02-14 05:00,3586,collision,1412,Minor collision on street
+6063,2024-02-14 06:00,4089,flood,1144,Fire damage in kitchen
+6064,2024-02-14 07:00,17389,liability,1165,Electrical fire in bedroom
+6065,2024-02-14 08:00,11751,flood,1795,Injury due to slippery floor
+6066,2024-02-14 09:00,7919,fire,1726,Injury due to slippery floor
+6067,2024-02-14 10:00,6531,collision,1635,Basement flooded after storm
+6068,2024-02-14 11:00,8019,liability,1391,Injury due to slippery floor
+6069,2024-02-14 12:00,4854,flood,1514,Basement flooded after storm
+6070,2024-02-14 13:00,5507,liability,1348,Stolen bike reported
+6071,2024-02-14 14:00,4378,fire,1698,Electrical fire in bedroom
+6072,2024-02-14 15:00,1863,collision,1569,Car vandalism report
+6073,2024-02-14 16:00,489,collision,1418,Electrical fire in bedroom
+6074,2024-02-14 17:00,20285,flood,1693,Car vandalism report
+6075,2024-02-14 18:00,3357,collision,1787,Injury due to slippery floor
+6076,2024-02-14 19:00,12283,fire,1134,Basement flooded after storm
+6077,2024-02-14 20:00,4265,collision,1963,Stolen bike reported
+6078,2024-02-14 21:00,1554,fire,1375,Stolen bike reported
+6079,2024-02-14 22:00,8158,collision,1635,Basement flooded after storm
+6080,2024-02-14 23:00,25363,theft,1774,Car vandalism report
+6081,2024-02-15 00:00,14599,liability,1875,Injury due to slippery floor
+6082,2024-02-15 01:00,11465,liability,1526,Electrical fire in bedroom
+6083,2024-02-15 02:00,21073,theft,1651,Fire damage in kitchen
+6084,2024-02-15 03:00,387,liability,1737,Car vandalism report
+6085,2024-02-15 04:00,2805,flood,1694,Basement flooded after storm
+6086,2024-02-15 05:00,3756,fire,1225,Electrical fire in bedroom
+6087,2024-02-15 06:00,12192,collision,1546,Minor collision on street
+6088,2024-02-15 07:00,3666,fire,1211,Water leak from roof
+6089,2024-02-15 08:00,8895,fire,1536,Basement flooded after storm
+6090,2024-02-15 09:00,8977,liability,1897,Electrical fire in bedroom
+6091,2024-02-15 10:00,839,fire,1074,Car vandalism report
+6092,2024-02-15 11:00,4925,collision,1306,Fire damage in kitchen
+6093,2024-02-15 12:00,3478,theft,1404,Car vandalism report
+6094,2024-02-15 13:00,10689,collision,1052,Car vandalism report
+6095,2024-02-15 14:00,6015,liability,1807,Injury due to slippery floor
+6096,2024-02-15 15:00,420,liability,1432,Electrical fire in bedroom
+6097,2024-02-15 16:00,4957,collision,1586,Electrical fire in bedroom
+6098,2024-02-15 17:00,7447,theft,1748,Car vandalism report
+6099,2024-02-15 18:00,856,collision,1611,Car vandalism report
+6100,2024-02-15 19:00,6207,flood,1343,Car vandalism report
+6101,2024-02-15 20:00,5000,liability,1392,Electrical fire in bedroom
+6102,2024-02-15 21:00,6150,liability,1881,Injury due to slippery floor
+6103,2024-02-15 22:00,5213,flood,1750,Minor collision on street
+6104,2024-02-15 23:00,5086,theft,1296,Stolen bike reported
+6105,2024-02-16 00:00,6721,liability,1999,Stolen bike reported
+6106,2024-02-16 01:00,1894,theft,1364,Stolen bike reported
+6107,2024-02-16 02:00,2384,collision,1555,Fire damage in kitchen
+6108,2024-02-16 03:00,5149,collision,1355,Electrical fire in bedroom
+6109,2024-02-16 04:00,920,flood,1242,Basement flooded after storm
+6110,2024-02-16 05:00,9312,collision,1824,Stolen bike reported
+6111,2024-02-16 06:00,4912,liability,1684,Injury due to slippery floor
+6112,2024-02-16 07:00,2613,liability,1960,Electrical fire in bedroom
+6113,2024-02-16 08:00,2686,flood,1321,Fire damage in kitchen
+6114,2024-02-16 09:00,152,theft,1809,Minor collision on street
+6115,2024-02-16 10:00,4744,theft,1234,Basement flooded after storm
+6116,2024-02-16 11:00,15914,liability,1869,Stolen bike reported
+6117,2024-02-16 12:00,1320,fire,1447,Car vandalism report
+6118,2024-02-16 13:00,5639,liability,1815,Minor collision on street
+6119,2024-02-16 14:00,2391,collision,1413,Injury due to slippery floor
+6120,2024-02-16 15:00,12547,theft,1459,Basement flooded after storm
+6121,2024-02-16 16:00,2830,flood,1903,Injury due to slippery floor
+6122,2024-02-16 17:00,968,flood,1374,Minor collision on street
+6123,2024-02-16 18:00,1922,fire,1467,Basement flooded after storm
+6124,2024-02-16 19:00,5752,liability,1970,Water leak from roof
+6125,2024-02-16 20:00,2068,theft,1705,Electrical fire in bedroom
+6126,2024-02-16 21:00,12467,flood,1851,Fire damage in kitchen
+6127,2024-02-16 22:00,12330,flood,1158,Car vandalism report
+6128,2024-02-16 23:00,721,collision,1401,Injury due to slippery floor
+6129,2024-02-17 00:00,5006,fire,1081,Car vandalism report
+6130,2024-02-17 01:00,6641,fire,1907,Minor collision on street
+6131,2024-02-17 02:00,724,collision,1013,Fire damage in kitchen
+6132,2024-02-17 03:00,563,liability,1283,Minor collision on street
+6133,2024-02-17 04:00,12810,theft,1239,Electrical fire in bedroom
+6134,2024-02-17 05:00,6352,fire,1331,Car vandalism report
+6135,2024-02-17 06:00,9604,fire,1971,Water leak from roof
+6136,2024-02-17 07:00,1153,fire,1087,Car vandalism report
+6137,2024-02-17 08:00,415,flood,1378,Electrical fire in bedroom
+6138,2024-02-17 09:00,2574,collision,1323,Injury due to slippery floor
+6139,2024-02-17 10:00,2036,flood,1282,Electrical fire in bedroom
+6140,2024-02-17 11:00,17028,theft,1090,Minor collision on street
+6141,2024-02-17 12:00,5060,collision,1538,Fire damage in kitchen
+6142,2024-02-17 13:00,9673,theft,1199,Injury due to slippery floor
+6143,2024-02-17 14:00,3270,fire,1305,Basement flooded after storm
+6144,2024-02-17 15:00,27,liability,1843,Stolen bike reported
+6145,2024-02-17 16:00,91,fire,1378,Electrical fire in bedroom
+6146,2024-02-17 17:00,1011,fire,1725,Injury due to slippery floor
+6147,2024-02-17 18:00,13263,flood,1955,Electrical fire in bedroom
+6148,2024-02-17 19:00,642,fire,1180,Water leak from roof
+6149,2024-02-17 20:00,2041,flood,1098,Water leak from roof
+6150,2024-02-17 21:00,16214,fire,1208,Basement flooded after storm
+6151,2024-02-17 22:00,2934,flood,1364,Minor collision on street
+6152,2024-02-17 23:00,5182,theft,1042,Injury due to slippery floor
+6153,2024-02-18 00:00,3269,liability,1884,Stolen bike reported
+6154,2024-02-18 01:00,2817,liability,1856,Car vandalism report
+6155,2024-02-18 02:00,12343,fire,1733,Injury due to slippery floor
+6156,2024-02-18 03:00,14144,fire,1845,Water leak from roof
+6157,2024-02-18 04:00,2255,liability,1453,Stolen bike reported
+6158,2024-02-18 05:00,4180,flood,1388,Injury due to slippery floor
+6159,2024-02-18 06:00,19763,liability,1587,Minor collision on street
+6160,2024-02-18 07:00,8789,theft,1502,Injury due to slippery floor
+6161,2024-02-18 08:00,6866,fire,1905,Injury due to slippery floor
+6162,2024-02-18 09:00,1478,flood,1473,Fire damage in kitchen
+6163,2024-02-18 10:00,1689,flood,1944,Minor collision on street
+6164,2024-02-18 11:00,5393,liability,1165,Minor collision on street
+6165,2024-02-18 12:00,7655,collision,1868,Water leak from roof
+6166,2024-02-18 13:00,5497,flood,1140,Fire damage in kitchen
+6167,2024-02-18 14:00,4313,collision,1386,Minor collision on street
+6168,2024-02-18 15:00,6379,flood,1040,Car vandalism report
+6169,2024-02-18 16:00,2528,flood,1352,Water leak from roof
+6170,2024-02-18 17:00,19658,fire,1439,Electrical fire in bedroom
+6171,2024-02-18 18:00,5022,collision,1854,Fire damage in kitchen
+6172,2024-02-18 19:00,7541,fire,1007,Minor collision on street
+6173,2024-02-18 20:00,7728,liability,1976,Injury due to slippery floor
+6174,2024-02-18 21:00,1734,liability,1904,Water leak from roof
+6175,2024-02-18 22:00,9374,theft,1181,Minor collision on street
+6176,2024-02-18 23:00,1352,flood,1198,Fire damage in kitchen
+6177,2024-02-19 00:00,3815,liability,1478,Minor collision on street
+6178,2024-02-19 01:00,1115,flood,1928,Injury due to slippery floor
+6179,2024-02-19 02:00,3759,theft,1384,Car vandalism report
+6180,2024-02-19 03:00,5068,flood,1577,Basement flooded after storm
+6181,2024-02-19 04:00,11110,liability,1407,Injury due to slippery floor
+6182,2024-02-19 05:00,5060,collision,1264,Minor collision on street
+6183,2024-02-19 06:00,11784,flood,1398,Minor collision on street
+6184,2024-02-19 07:00,3294,flood,1792,Fire damage in kitchen
+6185,2024-02-19 08:00,1045,collision,1984,Electrical fire in bedroom
+6186,2024-02-19 09:00,8651,theft,1905,Basement flooded after storm
+6187,2024-02-19 10:00,5587,flood,1243,Car vandalism report
+6188,2024-02-19 11:00,566,collision,1591,Fire damage in kitchen
+6189,2024-02-19 12:00,3202,flood,1860,Fire damage in kitchen
+6190,2024-02-19 13:00,2861,flood,1928,Fire damage in kitchen
+6191,2024-02-19 14:00,1070,theft,1314,Water leak from roof
+6192,2024-02-19 15:00,4852,collision,1951,Stolen bike reported
+6193,2024-02-19 16:00,1098,theft,1507,Stolen bike reported
+6194,2024-02-19 17:00,3386,liability,1552,Basement flooded after storm
+6195,2024-02-19 18:00,6490,theft,1645,Electrical fire in bedroom
+6196,2024-02-19 19:00,7713,collision,1466,Basement flooded after storm
+6197,2024-02-19 20:00,6894,liability,1619,Water leak from roof
+6198,2024-02-19 21:00,16284,theft,1903,Electrical fire in bedroom
+6199,2024-02-19 22:00,1325,flood,1685,Basement flooded after storm
+6200,2024-02-19 23:00,2686,liability,1366,Injury due to slippery floor
+6201,2024-02-20 00:00,1023,theft,1108,Fire damage in kitchen
+6202,2024-02-20 01:00,18891,theft,1418,Injury due to slippery floor
+6203,2024-02-20 02:00,4670,theft,1267,Electrical fire in bedroom
+6204,2024-02-20 03:00,6137,collision,1891,Injury due to slippery floor
+6205,2024-02-20 04:00,2683,collision,1914,Basement flooded after storm
+6206,2024-02-20 05:00,49,flood,1302,Car vandalism report
+6207,2024-02-20 06:00,328,theft,1260,Fire damage in kitchen
+6208,2024-02-20 07:00,17218,flood,1630,Fire damage in kitchen
+6209,2024-02-20 08:00,17307,flood,1185,Car vandalism report
+6210,2024-02-20 09:00,2481,collision,1613,Stolen bike reported
+6211,2024-02-20 10:00,7385,theft,1548,Fire damage in kitchen
+6212,2024-02-20 11:00,6335,flood,1521,Electrical fire in bedroom
+6213,2024-02-20 12:00,5288,liability,1142,Minor collision on street
+6214,2024-02-20 13:00,7125,liability,1139,Water leak from roof
+6215,2024-02-20 14:00,4680,theft,1285,Water leak from roof
+6216,2024-02-20 15:00,505,collision,1577,Stolen bike reported
+6217,2024-02-20 16:00,3337,fire,1153,Water leak from roof
+6218,2024-02-20 17:00,19621,collision,1536,Minor collision on street
+6219,2024-02-20 18:00,550,fire,1235,Minor collision on street
+6220,2024-02-20 19:00,27,liability,1370,Fire damage in kitchen
+6221,2024-02-20 20:00,3638,fire,1660,Car vandalism report
+6222,2024-02-20 21:00,4173,flood,1172,Stolen bike reported
+6223,2024-02-20 22:00,3887,flood,1840,Water leak from roof
+6224,2024-02-20 23:00,8160,fire,1431,Fire damage in kitchen
+6225,2024-02-21 00:00,5366,collision,1418,Fire damage in kitchen
+6226,2024-02-21 01:00,6574,liability,1574,Stolen bike reported
+6227,2024-02-21 02:00,6553,fire,1723,Minor collision on street
+6228,2024-02-21 03:00,4571,theft,1226,Fire damage in kitchen
+6229,2024-02-21 04:00,4959,theft,1419,Water leak from roof
+6230,2024-02-21 05:00,3974,collision,1237,Water leak from roof
+6231,2024-02-21 06:00,2062,theft,1569,Minor collision on street
+6232,2024-02-21 07:00,4290,flood,1640,Injury due to slippery floor
+6233,2024-02-21 08:00,5128,collision,1300,Fire damage in kitchen
+6234,2024-02-21 09:00,417,liability,1933,Electrical fire in bedroom
+6235,2024-02-21 10:00,3966,flood,1357,Water leak from roof
+6236,2024-02-21 11:00,2017,flood,1006,Water leak from roof
+6237,2024-02-21 12:00,9543,flood,1998,Fire damage in kitchen
+6238,2024-02-21 13:00,17393,liability,1603,Car vandalism report
+6239,2024-02-21 14:00,12597,theft,1238,Stolen bike reported
+6240,2024-02-21 15:00,26148,liability,1988,Minor collision on street
+6241,2024-02-21 16:00,977,liability,1734,Basement flooded after storm
+6242,2024-02-21 17:00,1922,collision,1805,Car vandalism report
+6243,2024-02-21 18:00,1172,fire,1875,Water leak from roof
+6244,2024-02-21 19:00,1912,flood,1995,Minor collision on street
+6245,2024-02-21 20:00,13508,fire,1759,Car vandalism report
+6246,2024-02-21 21:00,9137,flood,1093,Basement flooded after storm
+6247,2024-02-21 22:00,1247,flood,1198,Water leak from roof
+6248,2024-02-21 23:00,28063,liability,1147,Water leak from roof
+6249,2024-02-22 00:00,7483,flood,1736,Stolen bike reported
+6250,2024-02-22 01:00,311,theft,1284,Injury due to slippery floor
+6251,2024-02-22 02:00,13562,theft,1716,Minor collision on street
+6252,2024-02-22 03:00,7523,collision,1049,Basement flooded after storm
+6253,2024-02-22 04:00,7290,collision,1119,Car vandalism report
+6254,2024-02-22 05:00,4462,collision,1668,Fire damage in kitchen
+6255,2024-02-22 06:00,3122,fire,1362,Basement flooded after storm
+6256,2024-02-22 07:00,6378,flood,1908,Electrical fire in bedroom
+6257,2024-02-22 08:00,2133,liability,1650,Car vandalism report
+6258,2024-02-22 09:00,2083,fire,1351,Stolen bike reported
+6259,2024-02-22 10:00,1803,flood,1440,Water leak from roof
+6260,2024-02-22 11:00,9991,fire,1901,Injury due to slippery floor
+6261,2024-02-22 12:00,2367,flood,1140,Basement flooded after storm
+6262,2024-02-22 13:00,7705,liability,1184,Electrical fire in bedroom
+6263,2024-02-22 14:00,2987,flood,1714,Basement flooded after storm
+6264,2024-02-22 15:00,3171,theft,1721,Stolen bike reported
+6265,2024-02-22 16:00,3501,flood,1761,Minor collision on street
+6266,2024-02-22 17:00,1877,collision,1327,Car vandalism report
+6267,2024-02-22 18:00,4797,fire,1820,Water leak from roof
+6268,2024-02-22 19:00,6192,theft,1568,Injury due to slippery floor
+6269,2024-02-22 20:00,626,fire,1111,Basement flooded after storm
+6270,2024-02-22 21:00,391,flood,1506,Electrical fire in bedroom
+6271,2024-02-22 22:00,13967,theft,1786,Electrical fire in bedroom
+6272,2024-02-22 23:00,796,liability,1267,Car vandalism report
+6273,2024-02-23 00:00,427,flood,1101,Water leak from roof
+6274,2024-02-23 01:00,5161,theft,1605,Basement flooded after storm
+6275,2024-02-23 02:00,20979,theft,1210,Basement flooded after storm
+6276,2024-02-23 03:00,1791,flood,1236,Water leak from roof
+6277,2024-02-23 04:00,749,liability,1593,Stolen bike reported
+6278,2024-02-23 05:00,2455,flood,1874,Water leak from roof
+6279,2024-02-23 06:00,7418,fire,1610,Car vandalism report
+6280,2024-02-23 07:00,457,theft,1592,Minor collision on street
+6281,2024-02-23 08:00,2031,collision,1649,Water leak from roof
+6282,2024-02-23 09:00,12751,fire,1565,Basement flooded after storm
+6283,2024-02-23 10:00,3574,theft,1541,Stolen bike reported
+6284,2024-02-23 11:00,17522,liability,1101,Minor collision on street
+6285,2024-02-23 12:00,11187,flood,1139,Minor collision on street
+6286,2024-02-23 13:00,1314,theft,1986,Minor collision on street
+6287,2024-02-23 14:00,5142,liability,1423,Injury due to slippery floor
+6288,2024-02-23 15:00,234,flood,1913,Basement flooded after storm
+6289,2024-02-23 16:00,12701,fire,1418,Fire damage in kitchen
+6290,2024-02-23 17:00,4071,flood,1472,Electrical fire in bedroom
+6291,2024-02-23 18:00,21446,theft,1467,Fire damage in kitchen
+6292,2024-02-23 19:00,3009,collision,1241,Car vandalism report
+6293,2024-02-23 20:00,3247,liability,1202,Stolen bike reported
+6294,2024-02-23 21:00,831,flood,1500,Injury due to slippery floor
+6295,2024-02-23 22:00,6273,theft,1345,Water leak from roof
+6296,2024-02-23 23:00,6173,theft,1117,Injury due to slippery floor
+6297,2024-02-24 00:00,1676,liability,1341,Electrical fire in bedroom
+6298,2024-02-24 01:00,10451,collision,1038,Basement flooded after storm
+6299,2024-02-24 02:00,1672,collision,1764,Fire damage in kitchen
+6300,2024-02-24 03:00,1720,liability,1973,Electrical fire in bedroom
+6301,2024-02-24 04:00,8274,flood,1102,Minor collision on street
+6302,2024-02-24 05:00,817,flood,1605,Stolen bike reported
+6303,2024-02-24 06:00,1516,theft,1914,Fire damage in kitchen
+6304,2024-02-24 07:00,2198,theft,1903,Stolen bike reported
+6305,2024-02-24 08:00,7,collision,1007,Basement flooded after storm
+6306,2024-02-24 09:00,56,fire,1561,Minor collision on street
+6307,2024-02-24 10:00,2480,liability,1543,Water leak from roof
+6308,2024-02-24 11:00,1624,flood,1298,Basement flooded after storm
+6309,2024-02-24 12:00,3516,theft,1610,Basement flooded after storm
+6310,2024-02-24 13:00,3292,fire,1165,Basement flooded after storm
+6311,2024-02-24 14:00,2809,flood,1277,Car vandalism report
+6312,2024-02-24 15:00,902,collision,1273,Basement flooded after storm
+6313,2024-02-24 16:00,5440,theft,1014,Electrical fire in bedroom
+6314,2024-02-24 17:00,7220,collision,1047,Water leak from roof
+6315,2024-02-24 18:00,555,fire,1533,Minor collision on street
+6316,2024-02-24 19:00,10925,fire,1186,Basement flooded after storm
+6317,2024-02-24 20:00,575,fire,1053,Injury due to slippery floor
+6318,2024-02-24 21:00,1077,fire,1167,Electrical fire in bedroom
+6319,2024-02-24 22:00,281,flood,1165,Minor collision on street
+6320,2024-02-24 23:00,1735,fire,1386,Water leak from roof
+6321,2024-02-25 00:00,1655,liability,1812,Water leak from roof
+6322,2024-02-25 01:00,4592,theft,1222,Electrical fire in bedroom
+6323,2024-02-25 02:00,10555,fire,1672,Stolen bike reported
+6324,2024-02-25 03:00,1597,theft,1085,Basement flooded after storm
+6325,2024-02-25 04:00,3322,flood,1300,Basement flooded after storm
+6326,2024-02-25 05:00,4671,theft,1199,Fire damage in kitchen
+6327,2024-02-25 06:00,3700,theft,1486,Basement flooded after storm
+6328,2024-02-25 07:00,9920,theft,1390,Car vandalism report
+6329,2024-02-25 08:00,10,theft,1123,Injury due to slippery floor
+6330,2024-02-25 09:00,1585,collision,1158,Water leak from roof
+6331,2024-02-25 10:00,2157,theft,1485,Car vandalism report
+6332,2024-02-25 11:00,10173,theft,1476,Car vandalism report
+6333,2024-02-25 12:00,1001,liability,1211,Electrical fire in bedroom
+6334,2024-02-25 13:00,3959,fire,1463,Injury due to slippery floor
+6335,2024-02-25 14:00,8911,theft,1294,Injury due to slippery floor
+6336,2024-02-25 15:00,4351,fire,1874,Injury due to slippery floor
+6337,2024-02-25 16:00,6228,liability,1292,Fire damage in kitchen
+6338,2024-02-25 17:00,7877,flood,1004,Stolen bike reported
+6339,2024-02-25 18:00,2861,theft,1800,Water leak from roof
+6340,2024-02-25 19:00,627,flood,1623,Basement flooded after storm
+6341,2024-02-25 20:00,7745,theft,1614,Fire damage in kitchen
+6342,2024-02-25 21:00,739,flood,1990,Minor collision on street
+6343,2024-02-25 22:00,2033,liability,1410,Basement flooded after storm
+6344,2024-02-25 23:00,6775,theft,1030,Basement flooded after storm
+6345,2024-02-26 00:00,10439,flood,1727,Injury due to slippery floor
+6346,2024-02-26 01:00,2250,theft,1553,Minor collision on street
+6347,2024-02-26 02:00,10200,flood,1789,Fire damage in kitchen
+6348,2024-02-26 03:00,433,flood,1202,Water leak from roof
+6349,2024-02-26 04:00,2238,flood,1241,Fire damage in kitchen
+6350,2024-02-26 05:00,6685,fire,1548,Water leak from roof
+6351,2024-02-26 06:00,10967,flood,1083,Injury due to slippery floor
+6352,2024-02-26 07:00,3904,collision,1875,Electrical fire in bedroom
+6353,2024-02-26 08:00,3120,collision,1230,Water leak from roof
+6354,2024-02-26 09:00,10182,collision,1412,Water leak from roof
+6355,2024-02-26 10:00,498,theft,1771,Stolen bike reported
+6356,2024-02-26 11:00,11366,collision,1003,Stolen bike reported
+6357,2024-02-26 12:00,5757,flood,1991,Fire damage in kitchen
+6358,2024-02-26 13:00,11044,liability,1622,Stolen bike reported
+6359,2024-02-26 14:00,7140,flood,1728,Injury due to slippery floor
+6360,2024-02-26 15:00,217,theft,1909,Fire damage in kitchen
+6361,2024-02-26 16:00,6632,collision,1638,Injury due to slippery floor
+6362,2024-02-26 17:00,3106,theft,1175,Water leak from roof
+6363,2024-02-26 18:00,2745,liability,1123,Injury due to slippery floor
+6364,2024-02-26 19:00,252,flood,1066,Minor collision on street
+6365,2024-02-26 20:00,3316,collision,1956,Stolen bike reported
+6366,2024-02-26 21:00,1809,collision,1933,Electrical fire in bedroom
+6367,2024-02-26 22:00,648,fire,1327,Basement flooded after storm
+6368,2024-02-26 23:00,13582,collision,1629,Car vandalism report
+6369,2024-02-27 00:00,2272,liability,1652,Car vandalism report
+6370,2024-02-27 01:00,3327,liability,1981,Stolen bike reported
+6371,2024-02-27 02:00,915,flood,1477,Car vandalism report
+6372,2024-02-27 03:00,7592,fire,1079,Car vandalism report
+6373,2024-02-27 04:00,2854,flood,1388,Basement flooded after storm
+6374,2024-02-27 05:00,12490,theft,1479,Fire damage in kitchen
+6375,2024-02-27 06:00,4373,liability,1559,Electrical fire in bedroom
+6376,2024-02-27 07:00,11908,liability,1095,Stolen bike reported
+6377,2024-02-27 08:00,925,collision,1816,Stolen bike reported
+6378,2024-02-27 09:00,1071,collision,1858,Electrical fire in bedroom
+6379,2024-02-27 10:00,2150,theft,1225,Basement flooded after storm
+6380,2024-02-27 11:00,1055,liability,1669,Fire damage in kitchen
+6381,2024-02-27 12:00,8349,theft,1257,Minor collision on street
+6382,2024-02-27 13:00,8421,flood,1063,Electrical fire in bedroom
+6383,2024-02-27 14:00,1506,theft,1207,Fire damage in kitchen
+6384,2024-02-27 15:00,553,flood,1435,Car vandalism report
+6385,2024-02-27 16:00,3060,flood,1954,Minor collision on street
+6386,2024-02-27 17:00,1517,theft,1428,Car vandalism report
+6387,2024-02-27 18:00,1504,flood,1557,Fire damage in kitchen
+6388,2024-02-27 19:00,2948,liability,1897,Car vandalism report
+6389,2024-02-27 20:00,3498,fire,1071,Stolen bike reported
+6390,2024-02-27 21:00,11055,liability,1516,Injury due to slippery floor
+6391,2024-02-27 22:00,15375,fire,1456,Water leak from roof
+6392,2024-02-27 23:00,3398,flood,1005,Basement flooded after storm
+6393,2024-02-28 00:00,7516,flood,1659,Injury due to slippery floor
+6394,2024-02-28 01:00,1419,flood,1228,Water leak from roof
+6395,2024-02-28 02:00,3792,fire,1998,Stolen bike reported
+6396,2024-02-28 03:00,2833,theft,1649,Fire damage in kitchen
+6397,2024-02-28 04:00,4993,collision,1363,Electrical fire in bedroom
+6398,2024-02-28 05:00,3006,flood,1431,Injury due to slippery floor
+6399,2024-02-28 06:00,1666,fire,1403,Injury due to slippery floor
+6400,2024-02-28 07:00,9575,liability,1295,Electrical fire in bedroom
+6401,2024-02-28 08:00,520,liability,1212,Minor collision on street
+6402,2024-02-28 09:00,4190,fire,1013,Water leak from roof
+6403,2024-02-28 10:00,15369,theft,1962,Minor collision on street
+6404,2024-02-28 11:00,1199,theft,1916,Injury due to slippery floor
+6405,2024-02-28 12:00,11976,liability,1021,Car vandalism report
+6406,2024-02-28 13:00,7108,liability,1116,Minor collision on street
+6407,2024-02-28 14:00,7952,liability,1600,Car vandalism report
+6408,2024-02-28 15:00,828,theft,1869,Basement flooded after storm
+6409,2024-02-28 16:00,413,theft,1098,Basement flooded after storm
+6410,2024-02-28 17:00,1706,collision,1699,Car vandalism report
+6411,2024-02-28 18:00,2628,theft,1628,Electrical fire in bedroom
+6412,2024-02-28 19:00,777,theft,1313,Fire damage in kitchen
+6413,2024-02-28 20:00,14462,collision,1128,Stolen bike reported
+6414,2024-02-28 21:00,5769,fire,1019,Fire damage in kitchen
+6415,2024-02-28 22:00,39168,fire,1152,Injury due to slippery floor
+6416,2024-02-28 23:00,14855,flood,1728,Basement flooded after storm
+6417,2024-02-29 00:00,3349,flood,1199,Electrical fire in bedroom
+6418,2024-02-29 01:00,362,collision,1870,Water leak from roof
+6419,2024-02-29 02:00,11514,flood,1549,Injury due to slippery floor
+6420,2024-02-29 03:00,7366,collision,1537,Minor collision on street
+6421,2024-02-29 04:00,3751,liability,1977,Electrical fire in bedroom
+6422,2024-02-29 05:00,9701,fire,1168,Minor collision on street
+6423,2024-02-29 06:00,2400,collision,1910,Injury due to slippery floor
+6424,2024-02-29 07:00,23328,fire,1623,Fire damage in kitchen
+6425,2024-02-29 08:00,3437,flood,1413,Electrical fire in bedroom
+6426,2024-02-29 09:00,6392,theft,1330,Electrical fire in bedroom
+6427,2024-02-29 10:00,7082,flood,1048,Car vandalism report
+6428,2024-02-29 11:00,5529,fire,1568,Basement flooded after storm
+6429,2024-02-29 12:00,4023,fire,1575,Electrical fire in bedroom
+6430,2024-02-29 13:00,7397,theft,1343,Injury due to slippery floor
+6431,2024-02-29 14:00,2350,collision,1982,Electrical fire in bedroom
+6432,2024-02-29 15:00,2855,theft,1575,Car vandalism report
+6433,2024-02-29 16:00,2126,collision,1656,Stolen bike reported
+6434,2024-02-29 17:00,3625,flood,1060,Stolen bike reported
+6435,2024-02-29 18:00,2373,liability,1926,Car vandalism report
+6436,2024-02-29 19:00,3324,flood,1228,Minor collision on street
+6437,2024-02-29 20:00,10994,theft,1737,Stolen bike reported
+6438,2024-02-29 21:00,5554,liability,1420,Stolen bike reported
+6439,2024-02-29 22:00,17457,fire,1969,Electrical fire in bedroom
+6440,2024-02-29 23:00,712,fire,1591,Minor collision on street
+6441,2024-03-01 00:00,9339,theft,1932,Fire damage in kitchen
+6442,2024-03-01 01:00,3806,liability,1001,Fire damage in kitchen
+6443,2024-03-01 02:00,13173,collision,1869,Injury due to slippery floor
+6444,2024-03-01 03:00,2117,flood,1297,Basement flooded after storm
+6445,2024-03-01 04:00,5443,fire,1548,Stolen bike reported
+6446,2024-03-01 05:00,757,theft,1495,Stolen bike reported
+6447,2024-03-01 06:00,6550,liability,1721,Basement flooded after storm
+6448,2024-03-01 07:00,12449,liability,1796,Fire damage in kitchen
+6449,2024-03-01 08:00,4929,collision,1660,Fire damage in kitchen
+6450,2024-03-01 09:00,12259,flood,1598,Fire damage in kitchen
+6451,2024-03-01 10:00,16193,fire,1231,Minor collision on street
+6452,2024-03-01 11:00,8059,fire,1740,Electrical fire in bedroom
+6453,2024-03-01 12:00,5552,theft,1973,Injury due to slippery floor
+6454,2024-03-01 13:00,10028,collision,1217,Electrical fire in bedroom
+6455,2024-03-01 14:00,7121,fire,1199,Basement flooded after storm
+6456,2024-03-01 15:00,15395,collision,1993,Fire damage in kitchen
+6457,2024-03-01 16:00,10384,collision,1191,Car vandalism report
+6458,2024-03-01 17:00,522,liability,1583,Injury due to slippery floor
+6459,2024-03-01 18:00,3277,collision,1196,Car vandalism report
+6460,2024-03-01 19:00,4665,collision,1687,Fire damage in kitchen
+6461,2024-03-01 20:00,11514,flood,1805,Water leak from roof
+6462,2024-03-01 21:00,9,collision,1942,Fire damage in kitchen
+6463,2024-03-01 22:00,4741,fire,1629,Water leak from roof
+6464,2024-03-01 23:00,297,fire,1016,Stolen bike reported
+6465,2024-03-02 00:00,1436,theft,1650,Injury due to slippery floor
+6466,2024-03-02 01:00,4515,theft,1376,Injury due to slippery floor
+6467,2024-03-02 02:00,4564,theft,1472,Electrical fire in bedroom
+6468,2024-03-02 03:00,8691,liability,1883,Electrical fire in bedroom
+6469,2024-03-02 04:00,8650,liability,1336,Minor collision on street
+6470,2024-03-02 05:00,3070,liability,1920,Water leak from roof
+6471,2024-03-02 06:00,2209,theft,1087,Fire damage in kitchen
+6472,2024-03-02 07:00,5900,theft,1312,Fire damage in kitchen
+6473,2024-03-02 08:00,3631,theft,1591,Minor collision on street
+6474,2024-03-02 09:00,2907,liability,1909,Stolen bike reported
+6475,2024-03-02 10:00,8060,fire,1390,Water leak from roof
+6476,2024-03-02 11:00,8299,fire,1542,Water leak from roof
+6477,2024-03-02 12:00,12454,flood,1118,Fire damage in kitchen
+6478,2024-03-02 13:00,6420,theft,1900,Basement flooded after storm
+6479,2024-03-02 14:00,1493,liability,1434,Basement flooded after storm
+6480,2024-03-02 15:00,185,theft,1671,Fire damage in kitchen
+6481,2024-03-02 16:00,607,liability,1972,Car vandalism report
+6482,2024-03-02 17:00,1034,flood,1479,Fire damage in kitchen
+6483,2024-03-02 18:00,21430,collision,1511,Stolen bike reported
+6484,2024-03-02 19:00,11534,liability,1196,Car vandalism report
+6485,2024-03-02 20:00,10958,fire,1302,Injury due to slippery floor
+6486,2024-03-02 21:00,3560,theft,1708,Stolen bike reported
+6487,2024-03-02 22:00,1782,collision,1617,Minor collision on street
+6488,2024-03-02 23:00,7924,theft,1993,Stolen bike reported
+6489,2024-03-03 00:00,15687,fire,1695,Car vandalism report
+6490,2024-03-03 01:00,1663,theft,1901,Injury due to slippery floor
+6491,2024-03-03 02:00,10814,theft,1113,Electrical fire in bedroom
+6492,2024-03-03 03:00,15686,fire,1582,Stolen bike reported
+6493,2024-03-03 04:00,1773,liability,1471,Stolen bike reported
+6494,2024-03-03 05:00,7722,fire,1002,Basement flooded after storm
+6495,2024-03-03 06:00,18716,liability,1729,Injury due to slippery floor
+6496,2024-03-03 07:00,3578,theft,1035,Car vandalism report
+6497,2024-03-03 08:00,10840,theft,1634,Basement flooded after storm
+6498,2024-03-03 09:00,2377,collision,1458,Stolen bike reported
+6499,2024-03-03 10:00,1878,fire,1758,Electrical fire in bedroom
+6500,2024-03-03 11:00,10311,fire,1339,Minor collision on street
+6501,2024-03-03 12:00,29346,liability,1762,Car vandalism report
+6502,2024-03-03 13:00,3669,collision,1823,Electrical fire in bedroom
+6503,2024-03-03 14:00,799,collision,1939,Stolen bike reported
+6504,2024-03-03 15:00,4078,liability,1030,Minor collision on street
+6505,2024-03-03 16:00,6817,theft,1812,Minor collision on street
+6506,2024-03-03 17:00,3298,fire,1322,Fire damage in kitchen
+6507,2024-03-03 18:00,11317,liability,1858,Basement flooded after storm
+6508,2024-03-03 19:00,1533,collision,1483,Water leak from roof
+6509,2024-03-03 20:00,2366,fire,1657,Injury due to slippery floor
+6510,2024-03-03 21:00,3638,theft,1895,Basement flooded after storm
+6511,2024-03-03 22:00,3546,fire,1971,Water leak from roof
+6512,2024-03-03 23:00,6006,fire,1774,Water leak from roof
+6513,2024-03-04 00:00,557,flood,1036,Car vandalism report
+6514,2024-03-04 01:00,4701,theft,1879,Basement flooded after storm
+6515,2024-03-04 02:00,7592,fire,1265,Fire damage in kitchen
+6516,2024-03-04 03:00,22437,flood,1234,Car vandalism report
+6517,2024-03-04 04:00,238,fire,1979,Stolen bike reported
+6518,2024-03-04 05:00,11880,theft,1888,Car vandalism report
+6519,2024-03-04 06:00,325,liability,1159,Car vandalism report
+6520,2024-03-04 07:00,697,liability,1982,Water leak from roof
+6521,2024-03-04 08:00,2891,fire,1347,Electrical fire in bedroom
+6522,2024-03-04 09:00,235,theft,1935,Injury due to slippery floor
+6523,2024-03-04 10:00,10063,liability,1417,Electrical fire in bedroom
+6524,2024-03-04 11:00,1187,fire,1784,Basement flooded after storm
+6525,2024-03-04 12:00,3622,fire,1084,Fire damage in kitchen
+6526,2024-03-04 13:00,7829,theft,1346,Fire damage in kitchen
+6527,2024-03-04 14:00,1577,theft,1147,Minor collision on street
+6528,2024-03-04 15:00,190,fire,1603,Water leak from roof
+6529,2024-03-04 16:00,2658,liability,1644,Car vandalism report
+6530,2024-03-04 17:00,8895,collision,1441,Water leak from roof
+6531,2024-03-04 18:00,899,flood,1718,Basement flooded after storm
+6532,2024-03-04 19:00,8280,liability,1507,Car vandalism report
+6533,2024-03-04 20:00,570,liability,1020,Injury due to slippery floor
+6534,2024-03-04 21:00,1445,flood,1210,Electrical fire in bedroom
+6535,2024-03-04 22:00,6098,theft,1241,Minor collision on street
+6536,2024-03-04 23:00,8505,collision,1822,Water leak from roof
+6537,2024-03-05 00:00,1827,flood,1378,Water leak from roof
+6538,2024-03-05 01:00,13591,collision,1740,Stolen bike reported
+6539,2024-03-05 02:00,8053,collision,1313,Stolen bike reported
+6540,2024-03-05 03:00,7914,collision,1833,Minor collision on street
+6541,2024-03-05 04:00,8985,fire,1335,Electrical fire in bedroom
+6542,2024-03-05 05:00,19493,collision,1404,Electrical fire in bedroom
+6543,2024-03-05 06:00,422,flood,1818,Injury due to slippery floor
+6544,2024-03-05 07:00,6412,fire,1062,Minor collision on street
+6545,2024-03-05 08:00,28084,fire,1583,Electrical fire in bedroom
+6546,2024-03-05 09:00,2761,liability,1059,Injury due to slippery floor
+6547,2024-03-05 10:00,1351,collision,1169,Injury due to slippery floor
+6548,2024-03-05 11:00,4857,fire,1726,Water leak from roof
+6549,2024-03-05 12:00,8236,collision,1128,Car vandalism report
+6550,2024-03-05 13:00,325,theft,1227,Stolen bike reported
+6551,2024-03-05 14:00,2810,collision,1795,Stolen bike reported
+6552,2024-03-05 15:00,5049,liability,1529,Car vandalism report
+6553,2024-03-05 16:00,2385,collision,1279,Water leak from roof
+6554,2024-03-05 17:00,7828,fire,1828,Fire damage in kitchen
+6555,2024-03-05 18:00,602,fire,1328,Basement flooded after storm
+6556,2024-03-05 19:00,13609,liability,1490,Basement flooded after storm
+6557,2024-03-05 20:00,1790,liability,1866,Basement flooded after storm
+6558,2024-03-05 21:00,953,theft,1549,Car vandalism report
+6559,2024-03-05 22:00,12226,flood,1583,Stolen bike reported
+6560,2024-03-05 23:00,1023,fire,1714,Water leak from roof
+6561,2024-03-06 00:00,22203,flood,1256,Basement flooded after storm
+6562,2024-03-06 01:00,10804,fire,1665,Minor collision on street
+6563,2024-03-06 02:00,1767,flood,1826,Car vandalism report
+6564,2024-03-06 03:00,10896,collision,1342,Car vandalism report
+6565,2024-03-06 04:00,7979,collision,1486,Electrical fire in bedroom
+6566,2024-03-06 05:00,6994,flood,1129,Car vandalism report
+6567,2024-03-06 06:00,9443,liability,1063,Car vandalism report
+6568,2024-03-06 07:00,16202,fire,1958,Car vandalism report
+6569,2024-03-06 08:00,464,liability,1918,Minor collision on street
+6570,2024-03-06 09:00,152,fire,1797,Basement flooded after storm
+6571,2024-03-06 10:00,1990,flood,1039,Car vandalism report
+6572,2024-03-06 11:00,7597,flood,1771,Car vandalism report
+6573,2024-03-06 12:00,2875,collision,1989,Water leak from roof
+6574,2024-03-06 13:00,9006,collision,1988,Basement flooded after storm
+6575,2024-03-06 14:00,3824,collision,1622,Water leak from roof
+6576,2024-03-06 15:00,6225,theft,1872,Fire damage in kitchen
+6577,2024-03-06 16:00,4741,fire,1679,Minor collision on street
+6578,2024-03-06 17:00,3071,flood,1689,Basement flooded after storm
+6579,2024-03-06 18:00,919,flood,1943,Car vandalism report
+6580,2024-03-06 19:00,3346,flood,1959,Stolen bike reported
+6581,2024-03-06 20:00,6513,collision,1564,Injury due to slippery floor
+6582,2024-03-06 21:00,3082,liability,1657,Water leak from roof
+6583,2024-03-06 22:00,465,theft,1886,Water leak from roof
+6584,2024-03-06 23:00,1962,fire,1134,Stolen bike reported
+6585,2024-03-07 00:00,16454,liability,1351,Basement flooded after storm
+6586,2024-03-07 01:00,6649,collision,1135,Electrical fire in bedroom
+6587,2024-03-07 02:00,5105,fire,1422,Stolen bike reported
+6588,2024-03-07 03:00,1054,fire,1002,Electrical fire in bedroom
+6589,2024-03-07 04:00,4019,theft,1096,Fire damage in kitchen
+6590,2024-03-07 05:00,408,liability,1442,Minor collision on street
+6591,2024-03-07 06:00,244,collision,1334,Car vandalism report
+6592,2024-03-07 07:00,335,theft,1300,Electrical fire in bedroom
+6593,2024-03-07 08:00,4585,theft,1610,Stolen bike reported
+6594,2024-03-07 09:00,4171,liability,1961,Injury due to slippery floor
+6595,2024-03-07 10:00,4617,flood,1365,Water leak from roof
+6596,2024-03-07 11:00,4355,collision,1675,Fire damage in kitchen
+6597,2024-03-07 12:00,12135,collision,1307,Injury due to slippery floor
+6598,2024-03-07 13:00,3041,fire,1184,Electrical fire in bedroom
+6599,2024-03-07 14:00,8779,theft,1398,Injury due to slippery floor
+6600,2024-03-07 15:00,4704,flood,1705,Water leak from roof
+6601,2024-03-07 16:00,3466,theft,1122,Stolen bike reported
+6602,2024-03-07 17:00,3144,flood,1187,Fire damage in kitchen
+6603,2024-03-07 18:00,5340,collision,1545,Basement flooded after storm
+6604,2024-03-07 19:00,2365,flood,1853,Basement flooded after storm
+6605,2024-03-07 20:00,6322,liability,1541,Minor collision on street
+6606,2024-03-07 21:00,769,liability,1154,Injury due to slippery floor
+6607,2024-03-07 22:00,1369,flood,1963,Electrical fire in bedroom
+6608,2024-03-07 23:00,12437,theft,1881,Minor collision on street
+6609,2024-03-08 00:00,3191,liability,1891,Basement flooded after storm
+6610,2024-03-08 01:00,13126,liability,1079,Car vandalism report
+6611,2024-03-08 02:00,2253,theft,1438,Electrical fire in bedroom
+6612,2024-03-08 03:00,9424,flood,1392,Car vandalism report
+6613,2024-03-08 04:00,26869,fire,1317,Water leak from roof
+6614,2024-03-08 05:00,17205,fire,1793,Car vandalism report
+6615,2024-03-08 06:00,11120,theft,1726,Stolen bike reported
+6616,2024-03-08 07:00,8253,flood,1188,Minor collision on street
+6617,2024-03-08 08:00,4480,fire,1831,Fire damage in kitchen
+6618,2024-03-08 09:00,1578,liability,1994,Injury due to slippery floor
+6619,2024-03-08 10:00,722,fire,1469,Electrical fire in bedroom
+6620,2024-03-08 11:00,2495,flood,1870,Minor collision on street
+6621,2024-03-08 12:00,4532,fire,1675,Injury due to slippery floor
+6622,2024-03-08 13:00,5254,flood,1231,Basement flooded after storm
+6623,2024-03-08 14:00,5972,flood,1444,Fire damage in kitchen
+6624,2024-03-08 15:00,5185,theft,1991,Car vandalism report
+6625,2024-03-08 16:00,1715,liability,1629,Car vandalism report
+6626,2024-03-08 17:00,10391,theft,1886,Car vandalism report
+6627,2024-03-08 18:00,2805,theft,1569,Stolen bike reported
+6628,2024-03-08 19:00,7053,theft,1570,Stolen bike reported
+6629,2024-03-08 20:00,5424,flood,1698,Electrical fire in bedroom
+6630,2024-03-08 21:00,1183,collision,1409,Electrical fire in bedroom
+6631,2024-03-08 22:00,1515,flood,1915,Injury due to slippery floor
+6632,2024-03-08 23:00,9056,theft,1183,Injury due to slippery floor
+6633,2024-03-09 00:00,911,flood,1487,Stolen bike reported
+6634,2024-03-09 01:00,2018,fire,1748,Injury due to slippery floor
+6635,2024-03-09 02:00,46,fire,1306,Fire damage in kitchen
+6636,2024-03-09 03:00,1640,liability,1639,Fire damage in kitchen
+6637,2024-03-09 04:00,3933,flood,1906,Car vandalism report
+6638,2024-03-09 05:00,21648,fire,1383,Minor collision on street
+6639,2024-03-09 06:00,18636,collision,1701,Car vandalism report
+6640,2024-03-09 07:00,517,theft,1759,Minor collision on street
+6641,2024-03-09 08:00,3042,liability,1086,Car vandalism report
+6642,2024-03-09 09:00,206,liability,1516,Car vandalism report
+6643,2024-03-09 10:00,3778,fire,1759,Minor collision on street
+6644,2024-03-09 11:00,12395,fire,1780,Minor collision on street
+6645,2024-03-09 12:00,338,theft,1810,Basement flooded after storm
+6646,2024-03-09 13:00,2231,fire,1408,Minor collision on street
+6647,2024-03-09 14:00,5283,flood,1573,Minor collision on street
+6648,2024-03-09 15:00,8061,flood,1205,Basement flooded after storm
+6649,2024-03-09 16:00,5293,flood,1953,Water leak from roof
+6650,2024-03-09 17:00,10497,liability,1177,Injury due to slippery floor
+6651,2024-03-09 18:00,3412,liability,1545,Fire damage in kitchen
+6652,2024-03-09 19:00,1692,liability,1979,Stolen bike reported
+6653,2024-03-09 20:00,8874,liability,1923,Electrical fire in bedroom
+6654,2024-03-09 21:00,15173,collision,1368,Stolen bike reported
+6655,2024-03-09 22:00,10833,flood,1714,Electrical fire in bedroom
+6656,2024-03-09 23:00,4754,theft,1359,Stolen bike reported
+6657,2024-03-10 00:00,4524,liability,1984,Minor collision on street
+6658,2024-03-10 01:00,3037,fire,1492,Injury due to slippery floor
+6659,2024-03-10 02:00,2291,liability,1924,Basement flooded after storm
+6660,2024-03-10 03:00,7392,theft,1263,Car vandalism report
+6661,2024-03-10 04:00,4430,theft,1401,Injury due to slippery floor
+6662,2024-03-10 05:00,4033,fire,1699,Car vandalism report
+6663,2024-03-10 06:00,367,flood,1667,Electrical fire in bedroom
+6664,2024-03-10 07:00,3970,fire,1773,Water leak from roof
+6665,2024-03-10 08:00,13006,liability,1756,Stolen bike reported
+6666,2024-03-10 09:00,4823,liability,1859,Injury due to slippery floor
+6667,2024-03-10 10:00,8086,flood,1111,Basement flooded after storm
+6668,2024-03-10 11:00,2787,collision,1156,Electrical fire in bedroom
+6669,2024-03-10 12:00,3944,fire,1142,Electrical fire in bedroom
+6670,2024-03-10 13:00,1721,flood,1932,Electrical fire in bedroom
+6671,2024-03-10 14:00,9337,collision,1593,Water leak from roof
+6672,2024-03-10 15:00,4244,fire,1050,Injury due to slippery floor
+6673,2024-03-10 16:00,13,liability,1649,Basement flooded after storm
+6674,2024-03-10 17:00,6527,flood,1178,Stolen bike reported
+6675,2024-03-10 18:00,29593,fire,1521,Electrical fire in bedroom
+6676,2024-03-10 19:00,6404,fire,1607,Water leak from roof
+6677,2024-03-10 20:00,1200,fire,1118,Water leak from roof
+6678,2024-03-10 21:00,766,fire,1094,Minor collision on street
+6679,2024-03-10 22:00,19686,liability,1108,Stolen bike reported
+6680,2024-03-10 23:00,8161,theft,1444,Water leak from roof
+6681,2024-03-11 00:00,2960,flood,1966,Fire damage in kitchen
+6682,2024-03-11 01:00,3983,fire,1895,Car vandalism report
+6683,2024-03-11 02:00,5954,flood,1691,Stolen bike reported
+6684,2024-03-11 03:00,3815,fire,1895,Minor collision on street
+6685,2024-03-11 04:00,15167,liability,1802,Fire damage in kitchen
+6686,2024-03-11 05:00,3205,fire,1536,Basement flooded after storm
+6687,2024-03-11 06:00,233,theft,1047,Injury due to slippery floor
+6688,2024-03-11 07:00,7676,liability,1531,Minor collision on street
+6689,2024-03-11 08:00,9412,flood,1903,Basement flooded after storm
+6690,2024-03-11 09:00,759,flood,1553,Fire damage in kitchen
+6691,2024-03-11 10:00,674,flood,1432,Basement flooded after storm
+6692,2024-03-11 11:00,2766,theft,1059,Minor collision on street
+6693,2024-03-11 12:00,909,theft,1736,Stolen bike reported
+6694,2024-03-11 13:00,7219,liability,1145,Fire damage in kitchen
+6695,2024-03-11 14:00,7169,collision,1242,Basement flooded after storm
+6696,2024-03-11 15:00,9271,theft,1614,Electrical fire in bedroom
+6697,2024-03-11 16:00,1671,fire,1555,Fire damage in kitchen
+6698,2024-03-11 17:00,1580,collision,1601,Car vandalism report
+6699,2024-03-11 18:00,6626,collision,1586,Stolen bike reported
+6700,2024-03-11 19:00,7065,theft,1078,Car vandalism report
+6701,2024-03-11 20:00,2100,liability,1898,Car vandalism report
+6702,2024-03-11 21:00,414,fire,1393,Injury due to slippery floor
+6703,2024-03-11 22:00,12798,fire,1305,Car vandalism report
+6704,2024-03-11 23:00,955,theft,1478,Fire damage in kitchen
+6705,2024-03-12 00:00,9546,collision,1694,Basement flooded after storm
+6706,2024-03-12 01:00,3418,fire,1664,Minor collision on street
+6707,2024-03-12 02:00,7317,theft,1508,Minor collision on street
+6708,2024-03-12 03:00,11099,collision,1305,Basement flooded after storm
+6709,2024-03-12 04:00,1861,liability,1255,Electrical fire in bedroom
+6710,2024-03-12 05:00,2131,flood,1642,Minor collision on street
+6711,2024-03-12 06:00,6727,fire,1929,Stolen bike reported
+6712,2024-03-12 07:00,5467,fire,1425,Fire damage in kitchen
+6713,2024-03-12 08:00,3914,theft,1430,Car vandalism report
+6714,2024-03-12 09:00,3749,liability,1184,Car vandalism report
+6715,2024-03-12 10:00,2503,theft,1901,Electrical fire in bedroom
+6716,2024-03-12 11:00,14853,fire,1989,Stolen bike reported
+6717,2024-03-12 12:00,7380,collision,1252,Injury due to slippery floor
+6718,2024-03-12 13:00,1417,theft,1081,Minor collision on street
+6719,2024-03-12 14:00,6253,flood,1660,Fire damage in kitchen
+6720,2024-03-12 15:00,1998,fire,1720,Stolen bike reported
+6721,2024-03-12 16:00,7904,liability,1853,Stolen bike reported
+6722,2024-03-12 17:00,3463,flood,1488,Stolen bike reported
+6723,2024-03-12 18:00,12825,fire,1277,Minor collision on street
+6724,2024-03-12 19:00,3264,flood,1609,Water leak from roof
+6725,2024-03-12 20:00,99,collision,1201,Stolen bike reported
+6726,2024-03-12 21:00,1375,fire,1318,Minor collision on street
+6727,2024-03-12 22:00,1055,liability,1299,Injury due to slippery floor
+6728,2024-03-12 23:00,2517,collision,1355,Stolen bike reported
+6729,2024-03-13 00:00,4738,fire,1152,Injury due to slippery floor
+6730,2024-03-13 01:00,280,collision,1768,Minor collision on street
+6731,2024-03-13 02:00,5795,flood,1048,Water leak from roof
+6732,2024-03-13 03:00,2442,fire,1897,Electrical fire in bedroom
+6733,2024-03-13 04:00,590,fire,1411,Injury due to slippery floor
+6734,2024-03-13 05:00,1401,theft,1400,Electrical fire in bedroom
+6735,2024-03-13 06:00,2792,flood,1802,Minor collision on street
+6736,2024-03-13 07:00,4139,collision,1294,Stolen bike reported
+6737,2024-03-13 08:00,2805,theft,1961,Basement flooded after storm
+6738,2024-03-13 09:00,2450,flood,1138,Electrical fire in bedroom
+6739,2024-03-13 10:00,227,fire,1228,Fire damage in kitchen
+6740,2024-03-13 11:00,10130,theft,1446,Electrical fire in bedroom
+6741,2024-03-13 12:00,4932,theft,1247,Injury due to slippery floor
+6742,2024-03-13 13:00,920,collision,1669,Basement flooded after storm
+6743,2024-03-13 14:00,15591,collision,1213,Injury due to slippery floor
+6744,2024-03-13 15:00,2022,collision,1086,Electrical fire in bedroom
+6745,2024-03-13 16:00,9054,flood,1470,Basement flooded after storm
+6746,2024-03-13 17:00,2068,fire,1279,Electrical fire in bedroom
+6747,2024-03-13 18:00,1460,fire,1381,Injury due to slippery floor
+6748,2024-03-13 19:00,1778,collision,1763,Electrical fire in bedroom
+6749,2024-03-13 20:00,1094,collision,1840,Electrical fire in bedroom
+6750,2024-03-13 21:00,6331,liability,1787,Stolen bike reported
+6751,2024-03-13 22:00,11917,theft,1678,Water leak from roof
+6752,2024-03-13 23:00,25081,collision,1586,Car vandalism report
+6753,2024-03-14 00:00,7130,fire,1827,Fire damage in kitchen
+6754,2024-03-14 01:00,5780,flood,1039,Car vandalism report
+6755,2024-03-14 02:00,1971,fire,1588,Basement flooded after storm
+6756,2024-03-14 03:00,8268,theft,1015,Water leak from roof
+6757,2024-03-14 04:00,10343,fire,1309,Stolen bike reported
+6758,2024-03-14 05:00,1451,collision,1002,Injury due to slippery floor
+6759,2024-03-14 06:00,9789,fire,1888,Injury due to slippery floor
+6760,2024-03-14 07:00,3642,flood,1242,Water leak from roof
+6761,2024-03-14 08:00,6131,fire,1229,Fire damage in kitchen
+6762,2024-03-14 09:00,6707,theft,1697,Basement flooded after storm
+6763,2024-03-14 10:00,14142,liability,1475,Fire damage in kitchen
+6764,2024-03-14 11:00,25,liability,1293,Stolen bike reported
+6765,2024-03-14 12:00,3061,theft,1955,Fire damage in kitchen
+6766,2024-03-14 13:00,7120,theft,1044,Basement flooded after storm
+6767,2024-03-14 14:00,9232,liability,1387,Basement flooded after storm
+6768,2024-03-14 15:00,1302,fire,1075,Electrical fire in bedroom
+6769,2024-03-14 16:00,18778,liability,1807,Electrical fire in bedroom
+6770,2024-03-14 17:00,14011,fire,1298,Fire damage in kitchen
+6771,2024-03-14 18:00,3260,collision,1502,Fire damage in kitchen
+6772,2024-03-14 19:00,6495,fire,1980,Injury due to slippery floor
+6773,2024-03-14 20:00,15398,flood,1622,Stolen bike reported
+6774,2024-03-14 21:00,2224,flood,1558,Basement flooded after storm
+6775,2024-03-14 22:00,2585,collision,1397,Basement flooded after storm
+6776,2024-03-14 23:00,4079,collision,1046,Electrical fire in bedroom
+6777,2024-03-15 00:00,1501,flood,1337,Electrical fire in bedroom
+6778,2024-03-15 01:00,1045,flood,1056,Fire damage in kitchen
+6779,2024-03-15 02:00,962,liability,1094,Injury due to slippery floor
+6780,2024-03-15 03:00,2769,fire,1658,Water leak from roof
+6781,2024-03-15 04:00,2536,collision,1265,Water leak from roof
+6782,2024-03-15 05:00,3946,collision,1200,Electrical fire in bedroom
+6783,2024-03-15 06:00,2192,collision,1946,Water leak from roof
+6784,2024-03-15 07:00,1186,theft,1592,Stolen bike reported
+6785,2024-03-15 08:00,15967,theft,1612,Car vandalism report
+6786,2024-03-15 09:00,3757,theft,1938,Minor collision on street
+6787,2024-03-15 10:00,8934,flood,1264,Minor collision on street
+6788,2024-03-15 11:00,1130,collision,1269,Electrical fire in bedroom
+6789,2024-03-15 12:00,1342,theft,1238,Minor collision on street
+6790,2024-03-15 13:00,3385,fire,1197,Minor collision on street
+6791,2024-03-15 14:00,17881,theft,1497,Car vandalism report
+6792,2024-03-15 15:00,6371,theft,1648,Car vandalism report
+6793,2024-03-15 16:00,3977,fire,1611,Fire damage in kitchen
+6794,2024-03-15 17:00,9558,liability,1898,Basement flooded after storm
+6795,2024-03-15 18:00,11050,fire,1286,Electrical fire in bedroom
+6796,2024-03-15 19:00,5410,flood,1211,Electrical fire in bedroom
+6797,2024-03-15 20:00,1593,liability,1292,Stolen bike reported
+6798,2024-03-15 21:00,4537,theft,1691,Minor collision on street
+6799,2024-03-15 22:00,9415,collision,1938,Car vandalism report
+6800,2024-03-15 23:00,1612,liability,1970,Fire damage in kitchen
+6801,2024-03-16 00:00,19930,theft,1548,Stolen bike reported
+6802,2024-03-16 01:00,3247,collision,1785,Fire damage in kitchen
+6803,2024-03-16 02:00,2373,theft,1655,Car vandalism report
+6804,2024-03-16 03:00,26620,liability,1946,Car vandalism report
+6805,2024-03-16 04:00,5233,collision,1587,Basement flooded after storm
+6806,2024-03-16 05:00,11288,flood,1766,Water leak from roof
+6807,2024-03-16 06:00,208,theft,1501,Water leak from roof
+6808,2024-03-16 07:00,1411,theft,1372,Minor collision on street
+6809,2024-03-16 08:00,1497,theft,1637,Basement flooded after storm
+6810,2024-03-16 09:00,14331,theft,1967,Water leak from roof
+6811,2024-03-16 10:00,169,collision,1389,Stolen bike reported
+6812,2024-03-16 11:00,19338,flood,1727,Minor collision on street
+6813,2024-03-16 12:00,2388,collision,1851,Car vandalism report
+6814,2024-03-16 13:00,18997,collision,1771,Electrical fire in bedroom
+6815,2024-03-16 14:00,878,collision,1621,Injury due to slippery floor
+6816,2024-03-16 15:00,254,liability,1312,Car vandalism report
+6817,2024-03-16 16:00,2497,theft,1413,Electrical fire in bedroom
+6818,2024-03-16 17:00,15975,liability,1761,Basement flooded after storm
+6819,2024-03-16 18:00,2317,fire,1719,Injury due to slippery floor
+6820,2024-03-16 19:00,4207,liability,1552,Fire damage in kitchen
+6821,2024-03-16 20:00,12909,fire,1131,Electrical fire in bedroom
+6822,2024-03-16 21:00,852,theft,1645,Injury due to slippery floor
+6823,2024-03-16 22:00,15053,theft,1745,Electrical fire in bedroom
+6824,2024-03-16 23:00,1441,theft,1200,Electrical fire in bedroom
+6825,2024-03-17 00:00,11179,flood,1812,Minor collision on street
+6826,2024-03-17 01:00,405,flood,1632,Minor collision on street
+6827,2024-03-17 02:00,544,liability,1436,Fire damage in kitchen
+6828,2024-03-17 03:00,3587,fire,1025,Minor collision on street
+6829,2024-03-17 04:00,2512,fire,1564,Minor collision on street
+6830,2024-03-17 05:00,530,liability,1711,Electrical fire in bedroom
+6831,2024-03-17 06:00,12591,fire,1427,Water leak from roof
+6832,2024-03-17 07:00,3041,liability,1029,Basement flooded after storm
+6833,2024-03-17 08:00,485,flood,1888,Stolen bike reported
+6834,2024-03-17 09:00,592,theft,1652,Car vandalism report
+6835,2024-03-17 10:00,2313,collision,1533,Fire damage in kitchen
+6836,2024-03-17 11:00,17197,collision,1710,Fire damage in kitchen
+6837,2024-03-17 12:00,2869,fire,1903,Injury due to slippery floor
+6838,2024-03-17 13:00,3559,collision,1033,Fire damage in kitchen
+6839,2024-03-17 14:00,7404,flood,1916,Electrical fire in bedroom
+6840,2024-03-17 15:00,4193,fire,1294,Electrical fire in bedroom
+6841,2024-03-17 16:00,6586,flood,1024,Basement flooded after storm
+6842,2024-03-17 17:00,2176,fire,1820,Minor collision on street
+6843,2024-03-17 18:00,959,liability,1427,Basement flooded after storm
+6844,2024-03-17 19:00,1959,flood,1093,Water leak from roof
+6845,2024-03-17 20:00,15333,collision,1183,Minor collision on street
+6846,2024-03-17 21:00,14618,liability,1029,Basement flooded after storm
+6847,2024-03-17 22:00,5637,fire,1554,Basement flooded after storm
+6848,2024-03-17 23:00,7665,collision,1898,Injury due to slippery floor
+6849,2024-03-18 00:00,993,collision,1454,Basement flooded after storm
+6850,2024-03-18 01:00,18269,theft,1199,Injury due to slippery floor
+6851,2024-03-18 02:00,8473,theft,1952,Injury due to slippery floor
+6852,2024-03-18 03:00,933,flood,1882,Fire damage in kitchen
+6853,2024-03-18 04:00,8007,liability,1114,Electrical fire in bedroom
+6854,2024-03-18 05:00,2092,fire,1938,Injury due to slippery floor
+6855,2024-03-18 06:00,14199,theft,1043,Fire damage in kitchen
+6856,2024-03-18 07:00,23403,liability,1845,Minor collision on street
+6857,2024-03-18 08:00,3036,fire,1740,Electrical fire in bedroom
+6858,2024-03-18 09:00,7410,collision,1663,Stolen bike reported
+6859,2024-03-18 10:00,3546,fire,1078,Water leak from roof
+6860,2024-03-18 11:00,9187,collision,1990,Injury due to slippery floor
+6861,2024-03-18 12:00,12823,theft,1056,Electrical fire in bedroom
+6862,2024-03-18 13:00,5354,collision,1444,Fire damage in kitchen
+6863,2024-03-18 14:00,49,theft,1003,Minor collision on street
+6864,2024-03-18 15:00,9757,liability,1356,Car vandalism report
+6865,2024-03-18 16:00,1424,flood,1635,Car vandalism report
+6866,2024-03-18 17:00,5301,fire,1370,Electrical fire in bedroom
+6867,2024-03-18 18:00,736,liability,1185,Injury due to slippery floor
+6868,2024-03-18 19:00,1577,theft,1798,Injury due to slippery floor
+6869,2024-03-18 20:00,13626,collision,1513,Car vandalism report
+6870,2024-03-18 21:00,6602,theft,1091,Stolen bike reported
+6871,2024-03-18 22:00,5122,liability,1920,Minor collision on street
+6872,2024-03-18 23:00,5698,theft,1777,Stolen bike reported
+6873,2024-03-19 00:00,13529,flood,1610,Basement flooded after storm
+6874,2024-03-19 01:00,23189,fire,1817,Stolen bike reported
+6875,2024-03-19 02:00,5404,fire,1740,Car vandalism report
+6876,2024-03-19 03:00,130,theft,1192,Minor collision on street
+6877,2024-03-19 04:00,3523,fire,1084,Injury due to slippery floor
+6878,2024-03-19 05:00,11103,flood,1298,Electrical fire in bedroom
+6879,2024-03-19 06:00,3740,liability,1445,Injury due to slippery floor
+6880,2024-03-19 07:00,2409,liability,1103,Injury due to slippery floor
+6881,2024-03-19 08:00,5959,liability,1900,Injury due to slippery floor
+6882,2024-03-19 09:00,320,collision,1677,Electrical fire in bedroom
+6883,2024-03-19 10:00,1540,liability,1198,Injury due to slippery floor
+6884,2024-03-19 11:00,2013,theft,1001,Basement flooded after storm
+6885,2024-03-19 12:00,1272,fire,1580,Electrical fire in bedroom
+6886,2024-03-19 13:00,2687,theft,1529,Water leak from roof
+6887,2024-03-19 14:00,5547,liability,1162,Water leak from roof
+6888,2024-03-19 15:00,7727,liability,1858,Electrical fire in bedroom
+6889,2024-03-19 16:00,3953,collision,1151,Stolen bike reported
+6890,2024-03-19 17:00,1948,theft,1867,Injury due to slippery floor
+6891,2024-03-19 18:00,321,flood,1944,Basement flooded after storm
+6892,2024-03-19 19:00,759,collision,1564,Basement flooded after storm
+6893,2024-03-19 20:00,6488,liability,1057,Fire damage in kitchen
+6894,2024-03-19 21:00,9048,flood,1225,Water leak from roof
+6895,2024-03-19 22:00,11,collision,1058,Stolen bike reported
+6896,2024-03-19 23:00,4966,theft,1080,Electrical fire in bedroom
+6897,2024-03-20 00:00,3479,theft,1570,Stolen bike reported
+6898,2024-03-20 01:00,27759,flood,1406,Basement flooded after storm
+6899,2024-03-20 02:00,1656,fire,1594,Fire damage in kitchen
+6900,2024-03-20 03:00,2586,flood,1455,Basement flooded after storm
+6901,2024-03-20 04:00,20700,flood,1326,Minor collision on street
+6902,2024-03-20 05:00,6182,fire,1350,Car vandalism report
+6903,2024-03-20 06:00,9651,collision,1298,Fire damage in kitchen
+6904,2024-03-20 07:00,8066,liability,1346,Basement flooded after storm
+6905,2024-03-20 08:00,2040,collision,1163,Stolen bike reported
+6906,2024-03-20 09:00,5274,theft,1351,Stolen bike reported
+6907,2024-03-20 10:00,6039,flood,1338,Car vandalism report
+6908,2024-03-20 11:00,2131,fire,1063,Injury due to slippery floor
+6909,2024-03-20 12:00,1904,fire,1806,Stolen bike reported
+6910,2024-03-20 13:00,8383,theft,1189,Car vandalism report
+6911,2024-03-20 14:00,4865,liability,1335,Water leak from roof
+6912,2024-03-20 15:00,528,flood,1872,Minor collision on street
+6913,2024-03-20 16:00,2941,theft,1705,Basement flooded after storm
+6914,2024-03-20 17:00,1885,flood,1854,Basement flooded after storm
+6915,2024-03-20 18:00,1710,collision,1856,Injury due to slippery floor
+6916,2024-03-20 19:00,12772,fire,1363,Minor collision on street
+6917,2024-03-20 20:00,1494,liability,1611,Injury due to slippery floor
+6918,2024-03-20 21:00,5839,collision,1060,Car vandalism report
+6919,2024-03-20 22:00,6163,liability,1519,Injury due to slippery floor
+6920,2024-03-20 23:00,4916,flood,1539,Electrical fire in bedroom
+6921,2024-03-21 00:00,8949,liability,1621,Injury due to slippery floor
+6922,2024-03-21 01:00,1510,theft,1720,Minor collision on street
+6923,2024-03-21 02:00,2421,fire,1230,Injury due to slippery floor
+6924,2024-03-21 03:00,1969,collision,1943,Water leak from roof
+6925,2024-03-21 04:00,3842,collision,1861,Fire damage in kitchen
+6926,2024-03-21 05:00,16877,fire,1915,Minor collision on street
+6927,2024-03-21 06:00,1108,theft,1996,Minor collision on street
+6928,2024-03-21 07:00,431,flood,1461,Electrical fire in bedroom
+6929,2024-03-21 08:00,21391,liability,1675,Stolen bike reported
+6930,2024-03-21 09:00,216,theft,1915,Fire damage in kitchen
+6931,2024-03-21 10:00,5574,flood,1669,Minor collision on street
+6932,2024-03-21 11:00,365,theft,1027,Car vandalism report
+6933,2024-03-21 12:00,4022,fire,1138,Car vandalism report
+6934,2024-03-21 13:00,1223,fire,1450,Electrical fire in bedroom
+6935,2024-03-21 14:00,6086,flood,1616,Water leak from roof
+6936,2024-03-21 15:00,8053,theft,1209,Electrical fire in bedroom
+6937,2024-03-21 16:00,357,fire,1458,Fire damage in kitchen
+6938,2024-03-21 17:00,208,liability,1701,Minor collision on street
+6939,2024-03-21 18:00,6206,fire,1054,Electrical fire in bedroom
+6940,2024-03-21 19:00,12953,flood,1934,Injury due to slippery floor
+6941,2024-03-21 20:00,11496,collision,1700,Fire damage in kitchen
+6942,2024-03-21 21:00,15767,fire,1211,Stolen bike reported
+6943,2024-03-21 22:00,3022,collision,1564,Basement flooded after storm
+6944,2024-03-21 23:00,5588,collision,1348,Stolen bike reported
+6945,2024-03-22 00:00,7579,theft,1069,Water leak from roof
+6946,2024-03-22 01:00,1800,collision,1345,Stolen bike reported
+6947,2024-03-22 02:00,5014,collision,1713,Stolen bike reported
+6948,2024-03-22 03:00,6811,theft,1445,Basement flooded after storm
+6949,2024-03-22 04:00,216,liability,1407,Car vandalism report
+6950,2024-03-22 05:00,9115,theft,1309,Minor collision on street
+6951,2024-03-22 06:00,3137,collision,1880,Stolen bike reported
+6952,2024-03-22 07:00,415,flood,1498,Minor collision on street
+6953,2024-03-22 08:00,7258,collision,1981,Electrical fire in bedroom
+6954,2024-03-22 09:00,4252,flood,1450,Basement flooded after storm
+6955,2024-03-22 10:00,5441,flood,1680,Fire damage in kitchen
+6956,2024-03-22 11:00,5983,collision,1249,Water leak from roof
+6957,2024-03-22 12:00,1036,flood,1353,Injury due to slippery floor
+6958,2024-03-22 13:00,573,theft,1796,Car vandalism report
+6959,2024-03-22 14:00,2855,flood,1235,Basement flooded after storm
+6960,2024-03-22 15:00,5207,theft,1615,Car vandalism report
+6961,2024-03-22 16:00,4182,flood,1585,Car vandalism report
+6962,2024-03-22 17:00,930,fire,1394,Stolen bike reported
+6963,2024-03-22 18:00,599,theft,1913,Injury due to slippery floor
+6964,2024-03-22 19:00,1100,collision,1758,Electrical fire in bedroom
+6965,2024-03-22 20:00,9088,flood,1531,Car vandalism report
+6966,2024-03-22 21:00,3818,collision,1977,Electrical fire in bedroom
+6967,2024-03-22 22:00,6485,collision,1100,Electrical fire in bedroom
+6968,2024-03-22 23:00,11423,fire,1159,Injury due to slippery floor
+6969,2024-03-23 00:00,26153,theft,1776,Car vandalism report
+6970,2024-03-23 01:00,1974,flood,1628,Minor collision on street
+6971,2024-03-23 02:00,3794,theft,1969,Stolen bike reported
+6972,2024-03-23 03:00,19561,fire,1373,Injury due to slippery floor
+6973,2024-03-23 04:00,244,fire,1989,Injury due to slippery floor
+6974,2024-03-23 05:00,3454,fire,1938,Fire damage in kitchen
+6975,2024-03-23 06:00,6405,theft,1568,Basement flooded after storm
+6976,2024-03-23 07:00,126,flood,1040,Minor collision on street
+6977,2024-03-23 08:00,12552,liability,1765,Water leak from roof
+6978,2024-03-23 09:00,621,liability,1515,Electrical fire in bedroom
+6979,2024-03-23 10:00,951,theft,1083,Stolen bike reported
+6980,2024-03-23 11:00,4578,fire,1038,Basement flooded after storm
+6981,2024-03-23 12:00,3199,collision,1099,Minor collision on street
+6982,2024-03-23 13:00,11598,fire,1289,Fire damage in kitchen
+6983,2024-03-23 14:00,364,liability,1128,Fire damage in kitchen
+6984,2024-03-23 15:00,4486,flood,1618,Basement flooded after storm
+6985,2024-03-23 16:00,3599,liability,1269,Minor collision on street
+6986,2024-03-23 17:00,1189,collision,1269,Electrical fire in bedroom
+6987,2024-03-23 18:00,810,flood,1758,Car vandalism report
+6988,2024-03-23 19:00,10810,flood,1890,Water leak from roof
+6989,2024-03-23 20:00,58,flood,1446,Minor collision on street
+6990,2024-03-23 21:00,16635,theft,1377,Car vandalism report
+6991,2024-03-23 22:00,219,theft,1053,Car vandalism report
+6992,2024-03-23 23:00,2510,flood,1379,Stolen bike reported
+6993,2024-03-24 00:00,3798,collision,1789,Stolen bike reported
+6994,2024-03-24 01:00,8898,theft,1518,Injury due to slippery floor
+6995,2024-03-24 02:00,9056,collision,1717,Injury due to slippery floor
+6996,2024-03-24 03:00,1509,collision,1091,Water leak from roof
+6997,2024-03-24 04:00,760,flood,1318,Car vandalism report
+6998,2024-03-24 05:00,54,collision,1857,Minor collision on street
+6999,2024-03-24 06:00,6886,liability,1290,Injury due to slippery floor
+7000,2024-03-24 07:00,4245,collision,1240,Stolen bike reported
